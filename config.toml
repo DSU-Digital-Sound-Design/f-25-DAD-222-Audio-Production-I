@@ -36,7 +36,7 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Course Name"
+    title = "DAD 222: Audio Production 1"
     subtitle = "A simple, retro theme for Hugo"
     owner = "Tate Carson"
     keywords = ""
@@ -50,7 +50,7 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Course name"
+      logoText = "DAD 222: Audio Production 1"
       logoHomeLink = "/"
 
     [languages.en.menu]
@@ -63,9 +63,9 @@ paginate = 5
         name = "Schedule"
         url = "/schedule"  
       [[languages.en.menu.main]]
-        identifier = "projects"
-        name = "Projects"
-        url = "/projects"  
+        identifier = "assignments"
+        name = "Assignments"
+        url = "/assignments"  
 
 [outputFormats.Reveal]
     baseName = "index"
