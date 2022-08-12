@@ -1,189 +1,385 @@
 ---
 title: "Schedule"
-date: "2021-01-02"
+date: "2022-8-27"
 author: ""
 ---
 
 {{< toc >}}
 
-# Week 1 (8/22)- Introduction to sound design for film 
+# Week 1 (8/22)
 
-- Review syllabus and expectations in class. Please note: that this syllabus is subject to change.
-- [Museum of endangered sounds](http://savethesounds.info/)
-- Brief history of film sound and the different roles. 
-- [Concept of sound design](x-devonthink-item://EE6A536F-9F9C-476F-804D-A262AD3C5C89?page=32)
-- Discuss the readings in the next class 
-- Start working with Reaper 
+## Monday
 
-<!-- TODO: break these up into T/TR days -->
+- Introduction to syllabus
+- Intro to Music Technology
+- [Pre-test](http://willshare.com/courses/gswem/pretest.pdf) - turn this into a form
 
-> By next class  
-> - Read: [Behind the Art: Randy Thom](https://designingsound.org/2011/01/12/behind-the-art-randy-thom/), [Designing for Sound, Thom](https://www.filmsound.org/articles/designing_for_sound.htm), [Rain is sizzling bacon, cars are lions roaring: the art of sound in movies](https://www.theguardian.com/film/2015/jul/22/rain-is-sizzling-bacon-cars-lions-roaring-art-of-sound-in-movies), [a conspiracy of sound: modes of listening in Brian de Palma's blow out, Whittington](http://www.thecine-files.com/a-conspiracy-of-sound-modes-of-listening-in-brian-de-palmas-blow-out/)
+## Wednesday
 
-> For next week:  
-> - Read: Chapter 1 SDFF 
-> - Watch: [This is REAPER 6 - Intro (1/15)](https://youtu.be/bepxGZ-ZXGE), [This is REAPER 6 - Starting a New Project (2/15)](https://youtu.be/nYN45PhnCXE)
+- Sound and hearing slides
+- [What is sound?](x-devonthink-item://07E680A4-DDDA-4630-AC76-FDBA898D69B8)
 
-<!--
+> **Homework**: Post a recording or video of one of your favorite songs or pieces of music that involve some type of audio production. Find some aspects of the piece that you would like to learn how to recreate in this class. Write a paragraph describing why you like it and what you would like to learn from it.
 
- # Week 2 (8/29) - LISTENING: SOUNDSCAPES, AUDIENCES, AND STORIES  
+## Friday
 
-- Talk about readings
-- Answer questions from the first two Reaper Videos
-  - Intro to Reaper and setting up a new project correctly.
-- Using the soundscape approach to listening to create an authentic sound world in film. 
-- In-class listening activities on the soundscape 
-- Listen to different examples of soundscape work and compare them to how soundscape is used in films. 
-- [Sound Design for Film - Tim Harrison](x-devonthink-item://6091EEEA-C3D6-4A5A-8259-05D2967845B6?page=16)
- 
+**Introduction to Reaper**
 
-> 9/1 - Census Day 
+- Introduction to Reaper
+  - DAW Basics - Timeline
+  - Find loops and preview them - [Looper Man](https://www.looperman.com) - show the different features of this website
+    - Find drums, percussion, chords and acapellas
+  - Explain BPM, and Key
+  - make sure grid and snap are enabled
+  - drag clips into the timeline
+  - Set your BPM to the tempo of the first clip you import
+  - two melodic parts may sound good together, but it will depend on the key
+  - remove unwanted items
+    - to delete part of an item you can split the item twice then delete the part you don't want. You can make this process quicker by making a time selection and then "split items at time selection" (Shift+S).
+  - remove unused tracks
+  - Loop timeline and toggle repeat to repeat a whole section
+  - make loop longer or shorter - double click on item and make sure that "loop source" is selected. Pull on the bottom corner to lengthen the loop
+  - If the loop you find is not the correct BPM then shift the time with Reaper. Hold **Option** and click in the bottom right corner then drag to the desired length.
 
-> Read for next week: Chapter 2 Character, SDDF
-> Read: [10 Things About Sound You May Not Know](https://edition.cnn.com/2010/OPINION/10/10/treasure.sound/index.html)
-> Watch: [This is REAPER 6 - The Tracks (3/15)](https://youtu.be/eVLI9oGUyic), [This is REAPER 6 - Recording Audio (4/15)](https://youtu.be/eOegtqEOv1Q)
-> Listen: [Making Waves\: The Art of Cinematic Sound with Walter Murch, Ben Burtt, Gary Rydstrom, and Midge Costin](https://soundcloud.com/soundworkscollection/making-waves-the-art-of-cinematic-sound)
+> [Project 1: Arranging Clips](x-devonthink-item://08C7ECF5-1232-4BC2-B405-60B8A4F5BFC4?section=editing) (Due 8/31)
 
+<!-- 
 
-# Week 3 (9/5) - CHARACTER: PSYCHOLOGY AND ACTING WITH SOUND
+# Week 2 (8/29)
 
-- Introduce Foley
-	- [CHARACTER: PSYCHOLOGY AND ACTING WITH SOUND](x-devonthink-item://6091EEEA-C3D6-4A5A-8259-05D2967845B6?page=26)
-		- Film examples: The Shining, The Fog, Dr. Jekyll and Mr. Hyde, One Last Dance, As Good As it Gets, Playtime, The Jazz Singer, Show Boat, Spartacus, There Will Be Blood 
-	-  [What Foley Artists  Do and Why The History, Theory, and Methods of Foley](x-devonthink-item://D89177C5-3855-410C-9726-0065E3987330?page=23) - pg 7 - 59
-	-  [Sound in Animation, Games, Radio Plays, and Movie Trailers](x-devonthink-item://D89177C5-3855-410C-9726-0065E3987330?page=193)
-- Tracks and recording audio in Reaper
+## Monday
 
-> Read: [REAPER Default Keyboard Shortcuts Summary](https://user.cockos.com/~glazfolk/ReaperKeyboardShortcuts.pdf), [Behind the Art: Pelayo Gutierrez](https://designingsound.org/2011/04/11/behind-the-art-pelayo-gutierrez/), [Zoe Freed Puts her Best Foot Forward](https://www.behindtheglass.uk/article-select.php?id=354&cat=113&pag=1)
-> Watch: [This is REAPER 6 - MIDI (5/15)](https://youtu.be/3kY75JnmlNk), [This is REAPER 6 - Editing (6/15)](https://youtu.be/W2FduoFjYwk)
+- Saving and Mixing
+  - Open a new project
+  - When saving make sure the "Create subdirectory for project" and "Copy all media into project directory" options are checked.
+  - This is one of the most common reasons for students to get points off of projects.
+  - Save your project with the name “First project—YOURNAME”.
+- Adding more loops
+  - Spend some more time finding loops and building up your song.
+  - As you layer more loops you'll start to notice that some parts may be difficult to hear. Now we'll introduce the concept of mixing, or creating a sonic place for each element to sit in your song.
+  - To make one part stand out turn the other parts down. Don't push any part above 0 dB. Remember that 0 dB is the max that any one track can go in a DAW.
+  - Avoid going "into the red" on your meters.
+  - Explain the solo and mute buttons
 
-Assignment 1: [Foley Design](../../assignments/assignment-1-foley-design) 
+## Wednesday
 
+- Exporting and finishing up the arrangement
+  - Timeline - notice the measure numbers on the top of the timeline, right click and set it to "Measures:Beats" if it isn't already.
+  - Western popular music is in phrases of 4 and 8, so make your loops line up with those lengths of time. If you have an 8 bar loop, the next loop should start on bar 9.
+  - Make sure your track has at least 32 measures in it.
+  - For this project and all following ones I want the project file and a rendered stereo file. Save the rendered file inside your project folder then compress the folder before submitting it to D2L.
+  - Use the following settings to render a stereo wave file that's the length of your time selection.
 
-# Week 4 (9/12) - Microphones and recording in the studio 
+![](x-devonthink-item://2E4C99BB-897D-48F5-99C9-E8BC049A929D)
 
-- Assignment 1 Due. 
-	- Foley rehearsal & critique. You and your group should be prepared to rehearse and perform your foley work.
-- **[Watch this with the SOUND OFF!!!](http://www.youtube.com/watch?v=rOVC4NY8Q-A&feature=related)** Start at 1\:30 and watch Puss n' Boots Dance Fight. Find one object to create a sound effect in this scene and bring it to our next class meeting.   
-- MIDI and Editing in Reaper
-- Microphones- Lecture/Demo/Recording exercises
-	- Project: [Foley Recording](assignment-2-foley-recording) 
-	- Recording Foley - [Sound Design for Film - Tim Harrison](x-devonthink-item://6091EEEA-C3D6-4A5A-8259-05D2967845B6?page=34) 
-	- The art of foley - [Sound Effects Bible\_ How to Create and Rec - Viers, Ric](x-devonthink-item://55D51ABF-7A9B-41E1-9C84-7D925FA5EA97?page=156)
+> For the students that are already done: “If there’s something you think you should be able to do, Reaper can probably do it, and I can show you how.” You can also make your song longer than 32 bars, as long as it sticks to the 8-bar phrase structure. Instead of having new material every 8 bars, try to use a common form such as rondo form (A-B-A-C-A-D, etc.). or AABA. Experiment with these forms.
 
-> Watch: [This is REAPER 6 - FX & Plugins (7/15)](https://youtu.be/lFDv75U0nO0), [This is REAPER 6 - Sends & Busses (8/15)](https://youtu.be/pfHGwzNyFC8)
+> Project 1 Due
 
-> Read: [Nicolas Becker – Behind the Art](https://designingsound.org/2012/12/22/nicolas-becker-behind-the-art/), [Behind the Art: Tim Prebble](https://designingsound.org/2011/02/17/behind-the-art-tim-prebble/), [How Foley Artist Joanna Fang Creates Sound Effects for Movies and TV]([https://podcasts.apple.com/us/podcast/slate-culture/id279188498?i=1000567728138](https://podcasts.apple.com/us/podcast/slate-culture/id279188498?i=1000567728138)), [How To Record Your Own Foley Tracks At Home](https://chrisjonesblog.com/2012/11/how-to-record-your-own-foley-tracks-at-home.html), [Using Microphone Polar Patterns Effectively](https://www.soundonsound.com/techniques/using-microphone-polar-patterns-effectively), [9 Sound Design Hacks for Bigger, Fuller Mixes ](https://output.com/blog/9-sound-design-tips-to-hack-your-listeners-ears)
+## Friday
 
+**Recording Techniques**
 
+- [Audio Hardware slides](https://dsu-digital-sound-design.github.io/DAD-222-Audio-Production-I/pages/lectures/week-2-introduction-to-audio/audio-hardware/#/)
+- [Microphones presentation](https://docs.google.com/presentation/d/130uChoUPV370sMNJEc02n41QXdygYUO5zVqAWKoa900/present#slide=id.p1)
+- [Studio Documentation](https://sites.google.com/view/charmstudios/studio-documentation)
+- Look at studio booking system and book your time now
 
-# Week 5 (9/19) - SETTING: AMBIENCE, IMMERSION, AND SENSE OF PLACE   
+[Project 2: Unreliable Product Ad](x-devonthink-item://08C7ECF5-1232-4BC2-B405-60B8A4F5BFC4?section=recordingtechniques) - DUE 9/16
 
+# Week 3 (9/5)
 
-- Review Reaper editing: 
-	- [in-class editing project](assignments/editing-exercise)
-- **Practical exercise – deconstructing a scene from _Minority Report_ \(2002\) \(DVD\) using the Four Sound Areas**  
-- Ambience, immersion, field recording - [Sound Design for Film - Tim Harrison](x-devonthink-item://6091EEEA-C3D6-4A5A-8259-05D2967845B6?page=50)
-	- In-class assignments from this chapter  
-	- Look at [sound mapping](https://soundmaps.app/#)
-- Show other non-film examples of field recording
-- Demo the Zoom recorders 
-- Project: [H2n (Location) Recording](assignments/assignment-3-field-recording) 
-- FX & Plugins, Sends & Busses in Reaper
+## Monday
 
-> Watch: [This is REAPER 6 - Folders (9/15)](https://youtu.be/GGY4UYBbxyM), [This is REAPER 6 - Track Grouping (10/15)](https://youtu.be/3tmI88BKnb8)
+Labor Day - No Class
 
-> Read: [Backgrounds: Sound Design Under the Radar](https://designingsound.org/2012/11/20/backgrounds-sound-design-under-the-radar/), [Room Tone = Emotional Tone: The Importance of Hearing Ambience](https://designingsound.org/2012/11/15/room-tone-emotional-tone-the-importance-of-hearing-ambience/), [The Sonic Playground: Hollywood Cinema and its Listeners](www.filmsound.org/articles/sergi/index.htm)
+## Wednesday
 
+- Listen to some ads - TODO: find ads
+  - Describe how the announcers voice sounds. How many tracks were needed? How was the ad written? What is the form?
+  - How long is a typical ad? How long do you think the script needs to be to match?
+  - Let's try to find some common forms between these ads. One might be "problem person" and a "solution person". Or "Do you wish that X could happen?"
+- Split the students up into groups of 2 or 3 - the group part is just to give them help with recording. Students will edit, add sound effects and music for their own projects.
+- Start Writing scripts in class
+  - Suggestions - unnecessary kitchen gadget, pharmaceutical product with a suspiciously long list of side effects
+  - Have at least part of your script written by Friday because we'll be starting our recordings then.
 
+## Friday
 
-# Week 6 (9/26) -  MOOD:   EMOTION, TONE, AND WORKING WITH MUSIC   
+- Studio visit - identify hardware we talked about in class - demonstrate how to do a simple voice recording
+  - Get different students to run the session - have them record part of their add to get them started with the the project. Get them to finish the project by booking studio time. Record individual lines
+  - Demonstrate arming tracks and recording, getting good levels
+  - Microphone technique
+  - See: [Recording and Processing Voiceover or Narration in REAPER](https://www.youtube.com/watch?v=eTNo3yrWGww)
 
+# Week 4 (9/12)
 
-- Folders and Track Grouping in Reaper
-- [The Four Dimensions of a Soundtrack](modules/four-dimensions-of-a-soundtrack.md)
-	- Analysis of [_Winter Light_ \(1963\)](https://youtu.be/qpIVMx0q_IA)
-- [Sound Design for Film - Tim Harrison](x-devonthink-item://6091EEEA-C3D6-4A5A-8259-05D2967845B6?page=64) - how do certain (non-musical) sounds effect the mood of a film 
-- [Assignment 4: Editing the location sound fx](assignments/assignment-4-sfx-editing) 
-- [The Editing Mantra: L-I-S-T-E-N](x-devonthink-item://55D51ABF-7A9B-41E1-9C84-7D925FA5EA97?page=232)
-- EQ - they need to know this for assignment 5
-- Compression 
-- Other effects 
+## Monday
 
-> Watch: [This is REAPER 6 - Markers & Regions (11/15)](https://youtu.be/rPUFHabfdI0), [This is REAPER 6 - Envelopes & Automation (12/15)](https://youtu.be/PyRpS_BTlzE)
+- Editing
+  - Each student must edit their own commercial.
+  - More tips for editing in Reaper
+    - [Editing](https://www.youtube.com/watch?v=6yTQ-31opp8&t=462s)
+  - Eliminate empty space between lines to get the "fast talking" effect of a radio ad.
+  - Demonstrate zooming into the waveform to more easily see silences.
+  - Demonstrate this by recording myself saying a few lines then condensing it down to 15 seconds by eliminating pauses. Do this using ripple editing mode and razor edits.
+  - Add fades between edits if they're not automatically there.
+  - condense your ad to be 30 seconds long.
 
-> Read: [8 Easy Steps To Better EQ](https://music.tutsplus.com/tutorials/8-easy-steps-to-better-eq--audio-942), [The beginner's guide to compression](https://www.musicradar.com/how-to/beginners-guide-to-compression), [Karen Baker Landers and Per Hallberg: Sound Editors Argue Their Way to Their Art](https://variety.com/video/karen-baker-landers-per-hallberg-art-of-sound/#%21=)
+## Wednesday
 
-> DUE: by the end of the week: [Foley Recording](assignment-2-foley-recording)
+- Sound Effects + music beds
+  - Finding sound effects - freesound.org, Soundly
+  - Add sound effects to separate tracks
+  - mixing - background music should be much quieter than dialogue, around -30 dB is a good start.
 
-# Week 7 (10/3) - SYMBOL: SOUND WORLDS AND METAPHORS   
+## Friday
 
-- Analysis: , _Apocalypse Now_ \(1979\) - [Opening scene](https://youtu.be/ntPHFVWDIqM) - Also availible in the DSU Library
-- [Sound Design for Film - Tim Harrison](x-devonthink-item://6091EEEA-C3D6-4A5A-8259-05D2967845B6?page=78)
-- Markers & Regions, Envelopes & Automation in Reaper
-- [Assignment 5: SFX processing](assignment-5-sfx-processing-and-final-production)
-- Sound Synthesis 1 - using synthesis to make sounds for a science fiction scene 
+- Listen to the ads in class
+- Catch up time for any behind students
 
-> Watch: [This is REAPER 6 - Video Editing (13/15)](https://youtu.be/-n0V_KnXbRA), [This is REAPER 6 - Actions (Action List) (14/15)](https://youtu.be/CZ1IliW_0p4)
+> Project 2: Unreliable Product Ad DUE
 
-DUE by the end of the week Assignment 3 H2n (Location) Recording 
+# Week 5 (9/19)
 
-# Week 8 (10/10) - # SHAPE: SOUND MAPS, CONTRAST, AND MOTIF   
+## Monday
 
-- Analysis: _Dogville_ \(2003\). 
-- [Sound Design for Film - Tim Harrison](x-devonthink-item://6091EEEA-C3D6-4A5A-8259-05D2967845B6?page=90)
-- Video Editing and Actions in Reaper
-- [Assignment 6: Sound Synthesis](assignments/assignment-6-sound-synthesis)
+**Effects**
 
+- In-class lesson: FX Roulette (Beginner) adam patrick bell - The Music Technology Cookbook (p. 245)
+  - Take your loop compositions from the first project, or if you want create a new project with different loops.
+  - Add all of the effects on this list to one of your tracks and uncheck them so they are not active.
+  - As an effect is chosen with the random wheel activate it and explore its effect on your track.
+  - The rounds timed like this:
+  - Round 1: five minutes Round 2: four minutes Round 3: three minutes Round 4: two minutes Round 5: one minute Round 6: 30 seconds Round 7: 15 seconds
+  - After this is done we'll spend 5 more minutes and you can turn on the effects that you like to try to get a sound you're happy with.
+  - Then finally we'll listen to each of your compositions in class to see what you came up with. What effects did you like the best? The least? Were there effects that you were confused by?
+  - Submit your rendered project to D2L.
 
-> Watch: [This is REAPER 6 - Rendering (Bouncing) (15/15)](https://youtu.be/S5zSy-fOu2s)
+## Wednesday
 
-DUE Assignment 4: SFX Editing 
+- More details about all of the specific effects from Reaper
+- [Reaper FX Guide](https://www.reaper.fm/guides/REAPEREffectsGuide2021.pdf)
+- Mixing Effects
+  - ReaEQ - Equalizer Elements from MTC pg 235
+    - Give them a multi-track example
+    - identify three main filter types
+  - ReaFir - time permitting
 
-# Week 9 (10/17) - Image: SPOTTING AND SOUND–IMAGE RELATIONSHIPS   
+## Friday
 
-- [Sound Design for Film - Tim Harrison](x-devonthink-item://6091EEEA-C3D6-4A5A-8259-05D2967845B6?page=168)
-- Rendering in Reaper
+- Dynamics effects - do a similar project to the previous one
+  - ReaComp, ReaXComp, ReaLimit, ReaGate
 
-DUE Assignment 5 - SFX final production 
+# Week 6 (9/26)
 
-# Week 10 (10/24) -  TIME: TRANSITIONS, RHYTHM, AND TIME PERCEPTION   
+## Monday
 
-- [Sound Design for Film - Tim Harrison](x-devonthink-item://6091EEEA-C3D6-4A5A-8259-05D2967845B6?page=182)
+- Time based effects
+- Cox pg 27, "The most reverberant place in the world"
+  - ReaDelay,
+    - [Chorus and Flange FX in Reaper](https://www.youtube.com/watch?v=DYqacYeUohw)
+  - ReaVerbate
+  - ReaVerb
 
-DUE Assignment 6 - Sound Synthesis 
+## Wednesday
 
-# Week 11 (10/31) - Space: ACOUSTICS, SILENCE, AND THE FREQUENCY SPECTRUM   
+**Sampling + MIDI**
 
-- [Sound Design for Film - Tim Harrison](x-devonthink-item://6091EEEA-C3D6-4A5A-8259-05D2967845B6?page=194)
-- Watch: [Making Waves\: The Art of Cinematic Sound](https://www.youtube.com/watch?v=xsckp8r1-8c)
-- [Assignment 7: Abmiences](assignments/assignment-7-ambiences)
+- We'll use all of what we have learned so far to create our first composition using sampling.
+- Show [Who Sampled](http://whosampled.com) to the class to explore the creative use of sampling in today's music.
+- In-class project: based on who sampled, find three of your favorite sampling uses from who sampled. Why do you like them? Please describe how the artist used the sample and what it was about the original recording that made the artist want to use it.
+- Intro to using MIDI to trigger sounds
+  - [MIDI Intro](https://www.youtube.com/watch?v=3kY75JnmlNk&t=1s)
+  - [Midi Editing Modes](https://www.youtube.com/watch?v=4YRZ2M5bFM4)
+- Introduction to ReaSamplomatic, Sitalia
+  - [Creating MIDI Beat Slices from Loops in REAPER](https://www.youtube.com/watch?v=RMmBJqTQUTw)
+  - [Musical Instrument - Multi Sampling in REAPER (ReaSamplOmatic5000)](https://www.youtube.com/watch?v=VxEGphq0Gck)
+- The process of making beats is a little easier with Sitalia
 
-# Week 12 (11/7) - TRANSFORMATION: OTHERWORLDLY CAPTURE AND MANIPULATION   
+## Friday
 
+- Alternative sampling methods
+  - [MKSlicer](https://www.youtube.com/watch?v=p9vxqX5H6lE)
+  - [MK Shaper/Stutter](https://www.youtube.com/watch?v=wmGxJgXA7sI)
+  - Granular sampling?
 
-- [TRANSFORMATION](x-devonthink-item://6091EEEA-C3D6-4A5A-8259-05D2967845B6?page=253)
-- Introduce the presentations - present a scene from a film and describe the sound in terms of emotion and the four sound areas
+# Week 7 (10/3)
 
-DUE Assignment 7 - Ambiences 
+## Monday
 
-# Week 13 (11/14) - FINALE: MIXING AND DELIVERING A FILM   
+- Music Concrete Introduction
+  - What is musique concrète? Where did it begin? Who are its pioneers? What is “concrete” about it? Why doesn’t it use conventionally-produced instrumental sounds? What does “étude” mean? Why do we limit ourselves to a sound lasting a few seconds? How can you wring as much expression out of it as possible?
 
-- [Sound Design for Film - Tim Harrison](x-devonthink-item://6091EEEA-C3D6-4A5A-8259-05D2967845B6?page=265)
+> Project 3: Musique Concrète Étude (Intermediate) Robert Willey pg 111 DUE 10/17
+> [Rubric](http://willshare.com/courses/must121/week1/rubric.htm)
+
+## Wednesday
+
+- Zoom recorder demo
+  - Have all the students team up to record some elements then make sure they can all transfer the files to a computer.
+
+## Friday
+
+- Listening session
+- 10 minute sample manipulation tip
+  - [Rrreeeaaa - Polyphase Synthesis in REAPER](https://www.youtube.com/watch?v=PtHY_SE50OU)
+- Lab time
+
+# Week 8 (10/10)
+
+## Monday
+
+- Listening session
+- 10 minute sample manipulation tip
+  - Shorter loops to make pitched samples
+- Lab time
+
+## Wednesday
+
+- Listening session
+- 10 minute sample manipulation tip
+  - Modulation and automation of parameters
+- Lab time
+
+## Friday
+
+- Listening session
+- 10 minute sample manipulation tip
+- Lab time
+
+# Week 9 (10/17)
+
+## Monday
+
+**Synthesis and MIDI**
+
+- Listen to the Etudes - should be fine, they are short
+- [Electronic sound production](https://dsu-digital-sound-design.github.io/DAD-222-Audio-Production-I/pages/lectures/week-10/electronic-sound-production/#/) - presentation - edit it to stop at envelopes
+- In-class project: Understanding Envelopes in Synthesis (Intermediate) Misty Jones Simpson
+  - There are some excellent suggestions here for how to explain envelopes. This is more of an in-class lesson than a project.
+  - There can be projects based on what the students learned in this lesson.
+- Synthesis methods
+  - Wavetable, Additive, subtractive
+  - FM Synthesis, AM Synthesis
+  - Physical Modeling synthesis
+
+> Project 3: Musique Concrète Étude DUE
+
+## Wednesday
+
+- Finish the presentation
+- Introduction to [Vital Synth](https://www.youtube.com/watch?v=7qQX6YGBQEA) - see video
+  - Install
+    - Intro
+    - User Interface
+    - Loading Presets
+    - Voice Tab - Generating Sound
+    - Stereo Width and Unison
+    - Wave and Spectral Morph
+    - ADSR
+    - Additional Oscillators
+
+> Project 4: Exploring the Potential of Looped Material in DAW-Based Music Creation (Advanced) Mark Marrington DUE 11/14
+> An excellent cumulative project for after they have learned the basics of MIDI and synthesis
+
+## Friday
+
+- More Vital Synth
+  - Sampler/noise
+  - Filters
+  - Polyphony, Pitch Bend, Glide and Stereo
+  - Effects Tab
+  - Matrix and Modulation, LFO and Envelopes
+  - Randomness generator
+  - Performance settings and MPE
+  - Macros
+  - Advanced Tab - Unison Settings
+  - Outro and Further Learning
+
+# Week 10 (10/24)
+
+## Monday
+
+- In-class project: Name that Synth Patch (Advanced) Misty Jones Simpson
+  - Another enjoyable way to get students to learn synthesis.
+
+## Wednesday
+
+- Surge XT
+- More listening? Other stuff?
+
+## Friday
+
+- Other Synths
+  - OB-xD
+- Project 4 - Day 1
+
+# Week 11 (10/31)
+
+## Monday
+
+- TAL Noisemaker
+- PG-8X
+- Project 4 day 2
+
+## Wednesday
+
+## Friday
+
+> Project 4 DUE
+> Listening day
+
+# Week 12 (11/7)
+
+## Monday
+
+**Live Coding Introduction**
+
+- [Gibber](https://gibber.cc/alpha/playground/)
+
+## Wednesday
+
+## Friday
+
+- Live coding performances
+
+# Week 13 (11/14)
+
+## Monday
+
+- Introduction to final project
+- Start on the proposal
+
+## Wednesday
+
+## Friday
 
 # Week 14 (11/21)
 
-- Start working on the Final - composing for one of Konrad's class animations 
-- Presentations  
+## Monday
 
-## Thursday 
+## Wednesday
 
-Thanksgiving - No classes 
+## Friday
 
-# Week 15 (11/28)
+# Thursday
+
+Thanksgiving - No classes
+
+# Week 15 (11/27)
+
+## Monday
+
+## Wednesday
+
+## Friday
 
 # Week 16 (12/5)
 
-## Thursday 
+# Thursday
 
-Start of final exams  -->
+Start of final exams
+Final project due at the start of finals
+
+ -->

@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://dsu-digital-sound-design.github.io/f-22-DAD-222-Audio-Production-I/"
 languageCode = "en-us"
 theme = ["terminal", "reveal-hugo"]
 paginate = 5
@@ -51,7 +51,7 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = "DAD 222: Audio Production 1"
-      logoHomeLink = "/"
+      logoHomeLink = "https://dsu-digital-sound-design.github.io/f-22-DAD-222-Audio-Production-I/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
@@ -63,9 +63,9 @@ paginate = 5
         name = "Schedule"
         url = "/schedule"  
       [[languages.en.menu.main]]
-        identifier = "assignments"
-        name = "Assignments"
-        url = "/assignments"  
+        identifier = "projects"
+        name = "Projects"
+        url = "/projects"  
 
 [outputFormats.Reveal]
     baseName = "index"
