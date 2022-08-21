@@ -9,10 +9,10 @@ separator = "##"
 
 ## Intro to Music Technology
 
-![](../../../images/production.jpeg)
+![](production.jpeg)
 
 {{% note %}}
-Can we identify some of the music technology in this picture and explain what it's used for? 
+Can we identify some of the music technology in this picture and explain what it's used for?
 
 Lets go ahead and create a definition, based on devices, activities and concepts behind music technology.
 {{%/note%}}
@@ -23,14 +23,14 @@ Lets go ahead and create a definition, based on devices, activities and concepts
 
 ---
 
-# Hardware and software 
+# Hardware and software
 
-* Methods of sound capture and production
-    * Microphone
-    * Loudspeaker 
-    * Pickup
-        * Coil and Piezo 
-    * Tonewheel organ 
+- Methods of sound capture and production
+  - Microphone
+  - Loudspeaker
+  - Pickup
+    - Coil and Piezo
+  - Tonewheel organ
 
 ---
 
@@ -38,39 +38,38 @@ Lets go ahead and create a definition, based on devices, activities and concepts
 
 ---
 
-Jimmy Smith 
+Jimmy Smith
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gobKu4UlxSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-# Electronic instruments 
+# Electronic instruments
 
 ---
 
-## Theramin - Clara Rockmore 
+## Theramin - Clara Rockmore - The Swan
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gobKu4UlxSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-# Buchla - Suzanne Ciani 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7vZGeHBfxU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pSzTPGlNa5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-# Computer based instruments 
+# Buchla - Kaitlyn Aurelia Smith
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Uhtar8FlgzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-# Digital Audio Workstations 
+# Computer based instruments
 
-* Ableton Live
-* Reaper
-* Protools
-* Logic Pro 
+---
+
+# Digital Audio Workstations
+
+- Ableton Live
+- Reaper
+- Protools
+- Logic Pro
 
 ---
 
@@ -82,21 +81,15 @@ Jimmy Smith
 
 # Activities
 
-* sequencing 
-* composing 
-* mixing / mastering
-* live-sound 
-* programming 
-* live coding 
+- sequencing
+- composing
+- mixing / mastering
+- live-sound
+- programming
+- live coding
 
 ---
 
-# Sam Aaron Live coding 
+# Sam Aaron Live coding
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G1m0aX9Lpts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
-
-

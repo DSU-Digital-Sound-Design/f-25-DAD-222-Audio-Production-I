@@ -10,9 +10,13 @@ author: ""
 
 ## Monday
 
-- Introduction to syllabus
-- Intro to Music Technology
-- [Pre-test](http://willshare.com/courses/gswem/pretest.pdf) - turn this into a form
+- Class introductions
+  - What's your name, major, and where are you from?
+- Introduction to [syllabus](../syllabus)
+- [Intro to Music Technology](../lectures/week-1/intro-to-music-tech-slides/) slides
+- [Pre-test](https://d2l.sdbor.edu/d2l/le/content/1725928/viewContent/10642341/View) - answer a few questions so I know what you already know.
+
+<!--
 
 ## Wednesday
 
@@ -43,7 +47,7 @@ author: ""
 
 > [Project 1: Arranging Clips](x-devonthink-item://08C7ECF5-1232-4BC2-B405-60B8A4F5BFC4?section=editing) (Due 8/31)
 
-<!-- 
+
 
 # Week 2 (8/29)
 
