@@ -10,7 +10,7 @@ separator = "##"
 # Sound and hearing
 
 {{% note %}}
-In order to understand the basics of audio production, we need to understand the basics of sound. Recording, sampling and synthesis all start and end with sound. 
+In order to understand the basics of audio production, we need to understand the basics of sound. Recording, sampling and synthesis all start and end with sound.
 
 {{%/ note %}}
 
@@ -18,10 +18,10 @@ In order to understand the basics of audio production, we need to understand the
 
 ## Sound areas
 
-* The basics of sound
-* The characteristics of the ear
-* How the ear is stimulated by sound 
-*  The psychoacoustics of hearing
+- The basics of sound
+- The characteristics of the ear
+- How the ear is stimulated by sound
+- The psychoacoustics of hearing
 
 ---
 
@@ -34,15 +34,14 @@ device -> energy conversion -> resulting energy
 <a href="https://commons.wikimedia.org/wiki/File:Django_Reinhardt_(Gottlieb_07301).jpg">William P. Gottlieb</a>, Public domain, via Wikimedia Commons
 
 {{% note %}}
-ex: 
+ex:
 guitar - vibrations -> amplified by wood -> converted into sound pressure waves that we percieve as sound
-
 
 What types of devices could be considered transducers?
 
-* microphone
-* etc 
-  
+- microphone
+- etc
+
 {{%/ note %}}
 
 ---
@@ -51,7 +50,7 @@ What types of devices could be considered transducers?
 
 ---
 
-# The basics of sound 
+# The basics of sound
 
 ![](the-daily-show-john-oliver.gif)
 
@@ -60,7 +59,6 @@ Sound arrives at the ear in the form of periodic variations in atmospheric press
 
 It is sort of like when a ballon is popped
 
-
 {{%/ note %}}
 
 ---
@@ -68,14 +66,14 @@ It is sort of like when a ballon is popped
 ![](wave-prop.jpg)
 
 {{% note %}}
-Any vibrating mass, such as the voice, or a guitar causes compression and rarefaction creating areas of high and low pressure states. These pressure states move the sound wave out from the source, allowing us to hear it. 
+Any vibrating mass, such as the voice, or a guitar causes compression and rarefaction creating areas of high and low pressure states. These pressure states move the sound wave out from the source, allowing us to hear it.
 
 This is a helpful diagram but this is not usually how we visualize sound. We do it with a waveform, a graphic representation of sound-pressure level. Looking at the waveform we can tell if the sound is quiet or loud and sometimes the frequency of the sound.
 {{%/ note %}}
 
 ---
 
-## Amplitude 
+## Amplitude
 
 ![](amplitude.png)
 
@@ -85,7 +83,7 @@ The distance above or below the centerline of a waveform (such as a pure sine wa
 
 ---
 
-## Frequency 
+## Frequency
 
 {{% note %}}
 The rate at which an acoustic generator, electrical signal or vibrating mass repeats within a cycle of positive and negative amplitude is known as the frequency of that signal.
@@ -104,30 +102,36 @@ We can also measure a frequency in cycles per second; (Hz) or hertz (Hz). An "A"
 {{% note %}}
 For simplicity’s sake, let’s limit our example to two pure tone waveforms (sine waves) that have equal amplitudes and frequency, but start their cyclic periods at different times. Such waveforms are said to be out of phase with respect to each other.
 
-Out of phase signals can cause reductions in amplitude and are generally undesirable. 
+Out of phase signals can cause reductions in amplitude and are generally undesirable.
 
-The example shows waves that either increase in amplitude, cancel altogether or combine. The last is more likely in practice. 
+The example shows waves that either increase in amplitude, cancel altogether or combine. The last is more likely in practice.
 
-Everyone should try the DIY activity on page 55 in the book to hear this for themselves. 
+Everyone should try the DIY activity on page 55 in the book to hear this for themselves.
 {{%/ note %}}
+
+---
+
+## Try this: Phase
+
+![](try-this-phase.png)
 
 ---
 
 ## Harmonic content
 
 {{% note %}}
-Most real life sounds are much more complex than a sine wave. 
+Most real life sounds are much more complex than a sine wave.
 
 The factor that helps us differentiate between instrumental “voicings” is the presence of frequencies (called partials) that exist in addition to the fundamental pitch that’s being played. Partials that are higher than the fundamental frequency are called upper partials or overtones. If the overtones are whole-number multiples of the fundamental frequency, they are called harmonics.
 
-Harmonics also form the basis of synthesis. 
+Harmonics also form the basis of synthesis.
 
-Try the DIY on page 56 now. 
+Now go tot he harmonics tutorial on modrec.com
 {{%/ note %}}
 
 ---
 
-# The Decibel 
+# The Decibel
 
 ![](db.webp)
 
@@ -142,7 +146,7 @@ Loudness is variations in sound pressure level or SPL and is measured on a logar
 ![](ear.png)
 
 {{% note %}}
-Sound is collected by the pinna. Then it travels through the eardrum, which vibrates converting sound-pressure waves into mechanical vibrations. The sound then goes to the cochlea, this snail looking organ covered in tiny hair receptors. It is here that we perceive frequencies of a sound. 
+Sound is collected by the pinna. Then it travels through the eardrum, which vibrates converting sound-pressure waves into mechanical vibrations. The sound then goes to the cochlea, this snail looking organ covered in tiny hair receptors. It is here that we perceive frequencies of a sound.
 {{%/ note %}}
 
 ---
@@ -167,33 +171,32 @@ The Fletcher-Munson equal-loudness contour curves (Figure 2.26) indicate the ear
 
 ---
 
-## Beats 
+## Beats
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/srNqPEJJCLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yia8spG8OmA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {{% note %}}
-Two tones that differ only slightly in frequency and have approximately the same amplitude will produce an effect known as beats. What you'll hear is changes in amplitude. This is how many people tune instruments. 
+Two tones that differ only slightly in frequency and have approximately the same amplitude will produce an effect known as beats. What you'll hear is changes in amplitude. This is how many people tune instruments.
 
-Lets do the DIY for beats on pg 68. 
+Lets do the DIY for beats on pg 68.
 {{%/ note %}}
 
 ---
 
-## Combination Tones 
+## Combination Tones
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OiW8gzBGz1A?start=583" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {{% note %}}
-Combination tones result when two loud tones differ by more than 50 Hz. In this case, the ear perceives an additional set of tones that are equal to both the sum and the difference between the two original tones as well as being equal to the sum and difference between their harmonics. 
+Combination tones result when two loud tones differ by more than 50 Hz. In this case, the ear perceives an additional set of tones that are equal to both the sum and the difference between the two original tones as well as being equal to the sum and difference between their harmonics.
 {{%/ note %}}
 
 ---
 
-## Masking 
+## Masking
 
 {{% note %}}
-Masking is the phenomenon by which loud signals prevent the ear from hearing softer sounds. The greatest masking effect occurs when the frequency of the sound and the frequency of the masking noise are close to each other. For example, a 4 kHz tone will mask a softer 3.5 kHz tone but has little effect on the audibility of a quiet 1000 Hz tone. 
+Masking is the phenomenon by which loud signals prevent the ear from hearing softer sounds. The greatest masking effect occurs when the frequency of the sound and the frequency of the masking noise are close to each other. For example, a 4 kHz tone will mask a softer 3.5 kHz tone but has little effect on the audibility of a quiet 1000 Hz tone.
 
-Lets try the diy on pg 69.
+Lets try the diy the modrec.com
 {{%/ note %}}
-

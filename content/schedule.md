@@ -16,19 +16,24 @@ author: ""
 - [Intro to Music Technology](../lectures/week-1/intro-to-music-tech-slides/) slides
 - [Pre-test](https://d2l.sdbor.edu/d2l/le/content/1725928/viewContent/10642341/View) - answer a few questions so I know what you already know.
 
-<!--
-
 ## Wednesday
 
-- Sound and hearing slides
-- [What is sound?](x-devonthink-item://07E680A4-DDDA-4630-AC76-FDBA898D69B8)
+- The pre-test results were promising. You know a few things already.
+  - If you haven't completed this, let's spend a few minutes and do it in class.
+- [Sound and hearing](../lectures/week-1/sound-and-hearing/) slides
+<!-- - [What is sound?](x-devonthink-item://07E680A4-DDDA-4630-AC76-FDBA898D69B8) -->
 
-> **Homework**: Post a recording or video of one of your favorite songs or pieces of music that involve some type of audio production. Find some aspects of the piece that you would like to learn how to recreate in this class. Write a paragraph describing why you like it and what you would like to learn from it.
+> **Homework - Due Friday**: Post a recording or video of one of your favorite songs or pieces of music that involve some type of audio production. Find some aspects of the piece that you would like to learn how to recreate in this class. Write a paragraph describing why you like it and what you would like to learn from it.
+> Submit both to D2L
+
+<!--
+
 
 ## Friday
 
 **Introduction to Reaper**
 
+- Listen to a few of your songs
 - Introduction to Reaper
   - DAW Basics - Timeline
   - Find loops and preview them - [Looper Man](https://www.looperman.com) - show the different features of this website
