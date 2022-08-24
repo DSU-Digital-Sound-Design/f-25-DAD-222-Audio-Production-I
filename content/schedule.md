@@ -33,6 +33,7 @@ author: ""
 
 **Introduction to Reaper**
 
+- finish [Sound and hearing](../lectures/week-1/sound-and-hearing/) slides, decibel, psychoacoustics, the ear
 - Listen to a few of your songs
 - Introduction to Reaper
   - DAW Basics - Timeline
