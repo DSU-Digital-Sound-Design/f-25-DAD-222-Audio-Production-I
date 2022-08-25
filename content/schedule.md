@@ -31,7 +31,7 @@ author: ""
 - finish [Sound and hearing](../lectures/week-1/sound-and-hearing/) slides, decibel, psychoacoustics, the ear
 - Listen to a few of your songs
 - [Introduction to Reaper](../lectures/week-1/reaper-intro/)
-- Introduce Project 1: Arranging Clips TODO: write the project description
+- Introduce [Project 1: Arranging Clips](../projects/project-1/)
 
 <!--
 
@@ -40,8 +40,6 @@ author: ""
 
 **Introduction to Reaper**
 
-- finish [Sound and hearing](../lectures/week-1/sound-and-hearing/) slides, decibel, psychoacoustics, the ear
-- Listen to a few of your songs
 - Introduction to Reaper
   - DAW Basics - Timeline
   - Find loops and preview them - [Looper Man](https://www.looperman.com) - show the different features of this website
@@ -66,6 +64,9 @@ author: ""
 
 ## Monday
 
+TODO: finish description for project 1, add a rubric
+
+- Listening - loop based music for project 1
 - Saving and Mixing
   - Open a new project
   - When saving make sure the "Create subdirectory for project" and "Copy all media into project directory" options are checked.
