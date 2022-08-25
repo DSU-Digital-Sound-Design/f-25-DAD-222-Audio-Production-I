@@ -26,6 +26,13 @@ author: ""
 > **Homework - Due Friday**: Post a recording or video of one of your favorite songs or pieces of music that involve some type of audio production. Find some aspects of the piece that you would like to learn how to recreate in this class. Write a paragraph describing why you like it and what you would like to learn from it.
 > Submit both to D2L
 
+## Friday
+
+- finish [Sound and hearing](../lectures/week-1/sound-and-hearing/) slides, decibel, psychoacoustics, the ear
+- Listen to a few of your songs
+- [Introduction to Reaper](../lectures/week-1/reaper-intro/)
+- Introduce Project 1: Arranging Clips TODO: write the project description
+
 <!--
 
 
