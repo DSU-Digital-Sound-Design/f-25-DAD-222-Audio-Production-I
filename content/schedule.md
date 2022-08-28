@@ -28,22 +28,15 @@ author: ""
 
 ## Friday
 
-- finish [Sound and hearing](../lectures/week-1/sound-and-hearing/) slides, decibel, psychoacoustics, the ear
 - Listen to a few of your songs
-- [Introduction to Reaper](../lectures/week-1/reaper-intro/)
-- Introduce [Project 1: Arranging Clips](../projects/project-1/)
 
-<!--
-
-
-## Friday
+<!-- ## Friday
 
 **Introduction to Reaper**
 
 - Introduction to Reaper
   - DAW Basics - Timeline
-  - Find loops and preview them - [Looper Man](https://www.looperman.com) - show the different features of this website
-    - Find drums, percussion, chords and acapellas
+
   - Explain BPM, and Key
   - make sure grid and snap are enabled
   - drag clips into the timeline
@@ -54,19 +47,21 @@ author: ""
   - remove unused tracks
   - Loop timeline and toggle repeat to repeat a whole section
   - make loop longer or shorter - double click on item and make sure that "loop source" is selected. Pull on the bottom corner to lengthen the loop
-  - If the loop you find is not the correct BPM then shift the time with Reaper. Hold **Option** and click in the bottom right corner then drag to the desired length.
-
-> [Project 1: Arranging Clips](x-devonthink-item://08C7ECF5-1232-4BC2-B405-60B8A4F5BFC4?section=editing) (Due 8/31)
-
-
+  - If the loop you find is not the correct BPM then shift the time with Reaper. Hold **Option** and click in the bottom right corner then drag to the desired length. -->
 
 # Week 2 (8/29)
 
 ## Monday
 
-TODO: finish description for project 1, add a rubric
+- finish [Sound and hearing](../lectures/week-1/sound-and-hearing/) slides, decibel, psychoacoustics, the ear
+- [Introduction to Reaper](../lectures/week-1/reaper-intro/)
+- Introduce [Project 1: Arranging Clips](../projects/project-1/)
+  - Find loops and preview them - [Looper Man](https://www.looperman.com) - show the different features of this website
+    - Find drums, percussion, chords and acapellas
 
-- Listening - loop based music for project 1
+> [Project 1: Arranging Clips](../projects/project-1/) (Due Wednesday 8/31)
+
+<!-- - Listening - loop based music for project 1
 - Saving and Mixing
   - Open a new project
   - When saving make sure the "Create subdirectory for project" and "Copy all media into project directory" options are checked.
@@ -77,7 +72,9 @@ TODO: finish description for project 1, add a rubric
   - As you layer more loops you'll start to notice that some parts may be difficult to hear. Now we'll introduce the concept of mixing, or creating a sonic place for each element to sit in your song.
   - To make one part stand out turn the other parts down. Don't push any part above 0 dB. Remember that 0 dB is the max that any one track can go in a DAW.
   - Avoid going "into the red" on your meters.
-  - Explain the solo and mute buttons
+  - Explain the solo and mute buttons -->
+
+<!--
 
 ## Wednesday
 
