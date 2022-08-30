@@ -55,28 +55,18 @@ author: ""
 
 - finish [Sound and hearing](../lectures/week-1/sound-and-hearing/) slides, decibel, psychoacoustics, the ear
 - [Introduction to Reaper](../lectures/week-1/reaper-intro/)
+
+## Wednesday
+
+- [Saving and exporting](../lectures/week-2/this-is-reaper-2/)
 - Introduce [Project 1: Arranging Clips](../projects/project-1/)
   - Find loops and preview them - [Looper Man](https://www.looperman.com) - show the different features of this website
-    - Find drums, percussion, chords and acapellas
+  - Find drums, percussion, chords and acapellas
 
-> [Project 1: Arranging Clips](../projects/project-1/) (Due Wednesday 8/31)
-
-<!-- - Listening - loop based music for project 1
-- Saving and Mixing
-  - Open a new project
-  - When saving make sure the "Create subdirectory for project" and "Copy all media into project directory" options are checked.
-  - This is one of the most common reasons for students to get points off of projects.
-  - Save your project with the name “First project—YOURNAME”.
-- Adding more loops
-  - Spend some more time finding loops and building up your song.
-  - As you layer more loops you'll start to notice that some parts may be difficult to hear. Now we'll introduce the concept of mixing, or creating a sonic place for each element to sit in your song.
-  - To make one part stand out turn the other parts down. Don't push any part above 0 dB. Remember that 0 dB is the max that any one track can go in a DAW.
-  - Avoid going "into the red" on your meters.
-  - Explain the solo and mute buttons -->
+> [Project 1: Arranging Clips](../projects/project-1/) (Due Friday)
 
 <!--
 
-## Wednesday
 
 - Exporting and finishing up the arrangement
   - Timeline - notice the measure numbers on the top of the timeline, right click and set it to "Measures:Beats" if it isn't already.
