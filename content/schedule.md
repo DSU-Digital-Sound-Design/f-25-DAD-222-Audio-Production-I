@@ -65,33 +65,20 @@ author: ""
 
 > [Project 1: Arranging Clips](../projects/project-1/) (Due Friday)
 
-<!--
-
-
-- Exporting and finishing up the arrangement
-  - Timeline - notice the measure numbers on the top of the timeline, right click and set it to "Measures:Beats" if it isn't already.
-  - Western popular music is in phrases of 4 and 8, so make your loops line up with those lengths of time. If you have an 8 bar loop, the next loop should start on bar 9.
-  - Make sure your track has at least 32 measures in it.
-  - For this project and all following ones I want the project file and a rendered stereo file. Save the rendered file inside your project folder then compress the folder before submitting it to D2L.
-  - Use the following settings to render a stereo wave file that's the length of your time selection.
-
-![](x-devonthink-item://2E4C99BB-897D-48F5-99C9-E8BC049A929D)
-
-> For the students that are already done: “If there’s something you think you should be able to do, Reaper can probably do it, and I can show you how.” You can also make your song longer than 32 bars, as long as it sticks to the 8-bar phrase structure. Instead of having new material every 8 bars, try to use a common form such as rondo form (A-B-A-C-A-D, etc.). or AABA. Experiment with these forms.
-
-> Project 1 Due
-
 ## Friday
+
+- Questions about project?
 
 **Recording Techniques**
 
-- [Audio Hardware slides](https://dsu-digital-sound-design.github.io/DAD-222-Audio-Production-I/pages/lectures/week-2-introduction-to-audio/audio-hardware/#/)
+- [Audio Hardware slides](../lectures/week-2/audio-hardware/)
 - [Microphones presentation](https://docs.google.com/presentation/d/130uChoUPV370sMNJEc02n41QXdygYUO5zVqAWKoa900/present#slide=id.p1)
 - [Studio Documentation](https://sites.google.com/view/charmstudios/studio-documentation)
-- Look at studio booking system and book your time now
+- Look at studio booking system
 
-[Project 2: Unreliable Product Ad](x-devonthink-item://08C7ECF5-1232-4BC2-B405-60B8A4F5BFC4?section=recordingtechniques) - DUE 9/16
+> Project 1 Due
 
+<!--
 # Week 3 (9/5)
 
 ## Monday
@@ -99,6 +86,8 @@ author: ""
 Labor Day - No Class
 
 ## Wednesday
+
+[Project 2: Unreliable Product Ad](x-devonthink-item://08C7ECF5-1232-4BC2-B405-60B8A4F5BFC4?section=recordingtechniques) - DUE 9/16
 
 - Listen to some ads - TODO: find ads
   - Describe how the announcers voice sounds. How many tracks were needed? How was the ad written? What is the form?
