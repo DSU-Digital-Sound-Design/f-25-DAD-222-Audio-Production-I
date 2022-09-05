@@ -78,7 +78,6 @@ author: ""
 
 > Project 1 Due
 
-<!--
 # Week 3 (9/5)
 
 ## Monday
@@ -87,17 +86,14 @@ Labor Day - No Class
 
 ## Wednesday
 
-[Project 2: Unreliable Product Ad](x-devonthink-item://08C7ECF5-1232-4BC2-B405-60B8A4F5BFC4?section=recordingtechniques) - DUE 9/16
+- Projects are graded - make sure you follow the directions [here](../lectures/week-2/this-is-reaper-2/) to export and render your project. You have one week to resubmit the project for credit.
+- Look at [Top Design Firms](https://topdesignfirms.com/advertising-agencies/blog/radio-ad-script) article about radio ad script writing.
+- [Ad examples](https://www.youtube.com/watch?v=8brtU4JMTUU) - how do these ads conform the the article we just read?
+- Spend the rest of class writing your script.
 
-- Listen to some ads - TODO: find ads
-  - Describe how the announcers voice sounds. How many tracks were needed? How was the ad written? What is the form?
-  - How long is a typical ad? How long do you think the script needs to be to match?
-  - Let's try to find some common forms between these ads. One might be "problem person" and a "solution person". Or "Do you wish that X could happen?"
-- Split the students up into groups of 2 or 3 - the group part is just to give them help with recording. Students will edit, add sound effects and music for their own projects.
-- Start Writing scripts in class
-  - Suggestions - unnecessary kitchen gadget, pharmaceutical product with a suspiciously long list of side effects
-  - Have at least part of your script written by Friday because we'll be starting our recordings then.
+> [Project 2: Unreliable Product Ad](../projects/project-2-ad/) - DUE 9/16
 
+<!--
 ## Friday
 
 - Studio visit - identify hardware we talked about in class - demonstrate how to do a simple voice recording
