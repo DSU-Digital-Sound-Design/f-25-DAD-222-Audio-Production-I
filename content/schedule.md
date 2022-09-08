@@ -72,9 +72,6 @@ author: ""
 **Recording Techniques**
 
 - [Audio Hardware slides](../lectures/week-2/audio-hardware/)
-- [Microphones presentation](https://docs.google.com/presentation/d/130uChoUPV370sMNJEc02n41QXdygYUO5zVqAWKoa900/present#slide=id.p1)
-- [Studio Documentation](https://sites.google.com/view/charmstudios/studio-documentation)
-- Look at studio booking system
 
 > Project 1 Due
 
@@ -93,15 +90,15 @@ Labor Day - No Class
 
 > [Project 2: Unreliable Product Ad](../projects/project-2-ad/) - DUE 9/16
 
-<!--
 ## Friday
 
-- Studio visit - identify hardware we talked about in class - demonstrate how to do a simple voice recording
-  - Get different students to run the session - have them record part of their add to get them started with the the project. Get them to finish the project by booking studio time. Record individual lines
-  - Demonstrate arming tracks and recording, getting good levels
-  - Microphone technique
-  - See: [Recording and Processing Voiceover or Narration in REAPER](https://www.youtube.com/watch?v=eTNo3yrWGww)
+- [Reaper Recording](../lectures/week-3/reaper-recording/)
+- Studio tour
+  - [Microphones presentation](https://docs.google.com/presentation/d/130uChoUPV370sMNJEc02n41QXdygYUO5zVqAWKoa900/present#slide=id.p1)
+  - [Studio Documentation](https://sites.google.com/view/charmstudios/studio-documentation)
+  - Book your time in the studio to record your projects - we will also spend some time Monday doing projects
 
+<!--
 # Week 4 (9/12)
 
 ## Monday
