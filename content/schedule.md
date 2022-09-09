@@ -98,20 +98,22 @@ Labor Day - No Class
   - [Studio Documentation](https://sites.google.com/view/charmstudios/studio-documentation)
   - Book your time in the studio to record your projects - we will also spend some time Monday doing projects
 
-<!--
 # Week 4 (9/12)
 
 ## Monday
 
+- Record during class time if you haven't booked time yet.
 - Editing
   - Each student must edit their own commercial.
   - More tips for editing in Reaper
-    - [Editing](https://www.youtube.com/watch?v=6yTQ-31opp8&t=462s)
+    - [Editing](../lectures/week-4/editing/)
   - Eliminate empty space between lines to get the "fast talking" effect of a radio ad.
   - Demonstrate zooming into the waveform to more easily see silences.
-  - Demonstrate this by recording myself saying a few lines then condensing it down to 15 seconds by eliminating pauses. Do this using ripple editing mode and razor edits.
+  - ripple editing
   - Add fades between edits if they're not automatically there.
   - condense your ad to be 30 seconds long.
+
+<!--
 
 ## Wednesday
 
