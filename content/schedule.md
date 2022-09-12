@@ -113,14 +113,17 @@ Labor Day - No Class
   - Add fades between edits if they're not automatically there.
   - condense your ad to be 30 seconds long.
 
-<!--
-
 ## Wednesday
 
+- More recording in class if necessary
+- Reminder about razor editing with ripple mode - very useful for cutting out silence and speeding up dialogue
+- Create two folders for your sound effects and music. This way you can have control over the mix of your dialogue, sfx, and music independently.
 - Sound Effects + music beds
-  - Finding sound effects - freesound.org, Soundly
+  - [Finding sound effects](../lectures/week-4/sound-effects/)
+  - Listen back to the ads from a few classes ago, what types of sound effects do they use?
   - Add sound effects to separate tracks
-  - mixing - background music should be much quieter than dialogue, around -30 dB is a good start.
+  - make sure your music and dialogue work well together, listen to the examples for how the dialogue is timed to the music
+- mixing - background music should be much quieter than dialogue, around -30 dB is a good start.
 
 ## Friday
 
@@ -129,6 +132,7 @@ Labor Day - No Class
 
 > Project 2: Unreliable Product Ad DUE
 
+<!--
 # Week 5 (9/19)
 
 ## Monday
