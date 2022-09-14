@@ -115,6 +115,7 @@ Labor Day - No Class
 
 ## Wednesday
 
+- [Digital Audio](../lectures/week-4/digital-audio-data/)
 - More recording in class if necessary
 - Reminder about razor editing with ripple mode - very useful for cutting out silence and speeding up dialogue
 - Create two folders for your sound effects and music. This way you can have control over the mix of your dialogue, sfx, and music independently.
