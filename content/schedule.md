@@ -134,22 +134,13 @@ Labor Day - No Class
 
 > Project 2: Unreliable Product Ad DUE
 
-<!--
 # Week 5 (9/19)
 
 ## Monday
 
-**Effects**
+- [FX Roulette game](../lectures/week-5/fx-roulette/)
 
-- In-class lesson: FX Roulette (Beginner) adam patrick bell - The Music Technology Cookbook (p. 245)
-  - Take your loop compositions from the first project, or if you want create a new project with different loops.
-  - Add all of the effects on this list to one of your tracks and uncheck them so they are not active.
-  - As an effect is chosen with the random wheel activate it and explore its effect on your track.
-  - The rounds timed like this:
-  - Round 1: five minutes Round 2: four minutes Round 3: three minutes Round 4: two minutes Round 5: one minute Round 6: 30 seconds Round 7: 15 seconds
-  - After this is done we'll spend 5 more minutes and you can turn on the effects that you like to try to get a sound you're happy with.
-  - Then finally we'll listen to each of your compositions in class to see what you came up with. What effects did you like the best? The least? Were there effects that you were confused by?
-  - Submit your rendered project to D2L.
+<!--
 
 ## Wednesday
 
