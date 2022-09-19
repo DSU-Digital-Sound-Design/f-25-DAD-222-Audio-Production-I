@@ -140,18 +140,24 @@ Labor Day - No Class
 
 - [FX Roulette game](../lectures/week-5/fx-roulette/)
 
-<!--
-
 ## Wednesday
 
-- More details about all of the specific effects from Reaper
-- [Reaper FX Guide](https://www.reaper.fm/guides/REAPEREffectsGuide2021.pdf)
-- Mixing Effects
-  - ReaEQ - Equalizer Elements from MTC pg 235
-    - Give them a multi-track example
-    - identify three main filter types
-  - ReaFir - time permitting
+- [Reaper FX Guide](https://www.reaper.fm/guides/REAPEREffectsGuide2021.pdf) - EQ Section
+- Spectrum - [good cheat sheet](https://s3.amazonaws.com/ssipublic/musicfrequencycheatsheet.pdf)
+- Find three sounds from freesound.org
+  - full spectrum
+  - high spectrum
+  - low spectrum
+- What happens when two tracks are in a piece of music and share the same frequency range?
+- Do this basic music mix - [download](https://mtkdata.cambridgemusictechnology.co.uk/MTK005/cfx_Mathematician.zip)
+  - set the levels so that nothing is clipping and everything can be heard easily
+  - find the tracks that still can't be heard, what other tracks are masking those?
+  - Add an equalizer to the masking track to try to "carve" out a space for the other track to be heard
+  - i'll do a mix in class and you try to recreate it as closely as you can
 
+> Turn in what you did today to D2L
+
+<!--
 ## Friday
 
 - Dynamics effects - do a similar project to the previous one
