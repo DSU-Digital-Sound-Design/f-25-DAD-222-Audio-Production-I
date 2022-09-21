@@ -155,14 +155,18 @@ Labor Day - No Class
   - Add an equalizer to the masking track to try to "carve" out a space for the other track to be heard
   - i'll do a mix in class and you try to recreate it as closely as you can
 
+## Friday
+
+- Continue with mix from Wednesday
+  - Build mix with volume levels
+  - add EQ to help with masking
+- Dynamics effects
+  - [ReaComp](../lectures/week-5/reacomp/), ReaXComp, ReaLimit, ReaGate
+  - What elements in our mix are still not sitting correctly that could use compression?
+
 > Turn in what you did today to D2L
 
 <!--
-## Friday
-
-- Dynamics effects - do a similar project to the previous one
-  - ReaComp, ReaXComp, ReaLimit, ReaGate
-
 # Week 6 (9/26)
 
 ## Monday
