@@ -166,18 +166,20 @@ Labor Day - No Class
 
 > Turn in what you did today to D2L
 
-<!--
 # Week 6 (9/26)
 
 ## Monday
 
-- Time based effects
-- Cox pg 27, "The most reverberant place in the world"
-  - ReaDelay,
-    - [Chorus and Flange FX in Reaper](https://www.youtube.com/watch?v=DYqacYeUohw)
-  - ReaVerbate
-  - ReaVerb
+**Time based effects**
 
+- [Delay, Chorus, and Flange](../lectures/week-6/delay/),
+
+## Wednesday
+
+- ReaVerbate
+- ReaVerb
+
+<!--
 ## Wednesday
 
 **Sampling + MIDI**
