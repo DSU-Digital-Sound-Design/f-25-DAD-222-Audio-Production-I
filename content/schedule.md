@@ -160,9 +160,6 @@ Labor Day - No Class
 - Continue with mix from Wednesday
   - Build mix with volume levels
   - add EQ to help with masking
-- Dynamics effects
-  - [ReaComp](../lectures/week-5/reacomp/), ReaXComp, ReaLimit, ReaGate
-  - What elements in our mix are still not sitting correctly that could use compression?
 
 > Turn in what you did today to D2L
 
@@ -170,11 +167,17 @@ Labor Day - No Class
 
 ## Monday
 
+- Dynamics effects
+  - [ReaComp](../lectures/week-5/reacomp/), ReaXComp, ReaLimit, ReaGate
+  - What elements in our mix are still not sitting correctly that could use compression?
+
+## Wednesday
+
 **Time based effects**
 
 - [Delay, Chorus, and Flange](../lectures/week-6/delay/),
 
-## Wednesday
+## Friday
 
 - ReaVerbate
 - ReaVerb
