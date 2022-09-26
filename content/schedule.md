@@ -175,7 +175,7 @@ Labor Day - No Class
 
 **Time based effects**
 
-- [Delay, Chorus, and Flange](../lectures/week-6/delay/),
+- [Delay, Chorus, and Flange](../lectures/week-6/delay/)
 
 ## Friday
 
