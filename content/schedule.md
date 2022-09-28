@@ -179,8 +179,7 @@ Labor Day - No Class
 
 ## Friday
 
-- ReaVerbate
-- ReaVerb
+- [Reverb](../lectures/week-6/reverb/)
 
 <!--
 ## Wednesday
