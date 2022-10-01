@@ -181,7 +181,16 @@ Labor Day - No Class
 
 - [Reverb](../lectures/week-6/reverb/)
 
-<!--
+# Week 7 (10/3)
+
+## Monday
+
+<!-- TODO: make d2l page to turn this in -->
+
+- Putting together all we've learned to make a simple mix
+  - Listen to the finished mix
+  - [In class mixing assignment](../projects/project-3-mix/) - Due by Wednesday
+
 ## Wednesday
 
 **Sampling + MIDI**
@@ -203,6 +212,8 @@ Labor Day - No Class
   - [MKSlicer](https://www.youtube.com/watch?v=p9vxqX5H6lE)
   - [MK Shaper/Stutter](https://www.youtube.com/watch?v=wmGxJgXA7sI)
   - Granular sampling?
+
+<!--
 
 # Week 7 (10/3)
 
