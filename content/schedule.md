@@ -195,7 +195,7 @@ Labor Day - No Class
 
 - Any questions about the mix project?
 - [How sampling transformed music | Mark Ronson](https://www.youtube.com/watch?v=H3TF-hI7zKc)
-- [Who Sampled](http://whosampled.com)
+- [Who Sampled](http://whosampled.com) - covers and sampling
   - In-class project: based on who sampled, find three of your favorite sampling uses from who sampled. Why do you like them? Please describe how the artist used the sample and what it was about the original recording that made the artist want to use it. We'll have a few people present at the end of class.
 
 ## Friday
