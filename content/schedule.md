@@ -185,8 +185,6 @@ Labor Day - No Class
 
 ## Monday
 
-<!-- TODO: make d2l page to turn this in -->
-
 - Putting together all we've learned to make a simple mix
   - Listen to the finished mix
   - [In class mixing assignment](../projects/project-3-mix/) - Due by Wednesday
@@ -195,9 +193,13 @@ Labor Day - No Class
 
 **Sampling + MIDI**
 
-- We'll use all of what we have learned so far to create our first composition using sampling.
-- Show [Who Sampled](http://whosampled.com) to the class to explore the creative use of sampling in today's music.
-- In-class project: based on who sampled, find three of your favorite sampling uses from who sampled. Why do you like them? Please describe how the artist used the sample and what it was about the original recording that made the artist want to use it.
+- Any questions about the mix project?
+- [How sampling transformed music | Mark Ronson](https://www.youtube.com/watch?v=H3TF-hI7zKc)
+- [Who Sampled](http://whosampled.com)
+  - In-class project: based on who sampled, find three of your favorite sampling uses from who sampled. Why do you like them? Please describe how the artist used the sample and what it was about the original recording that made the artist want to use it. We'll have a few people present at the end of class.
+
+## Friday
+
 - Intro to using MIDI to trigger sounds
   - [MIDI Intro](https://www.youtube.com/watch?v=3kY75JnmlNk&t=1s)
   - [Midi Editing Modes](https://www.youtube.com/watch?v=4YRZ2M5bFM4)
@@ -205,8 +207,6 @@ Labor Day - No Class
   - [Creating MIDI Beat Slices from Loops in REAPER](https://www.youtube.com/watch?v=RMmBJqTQUTw)
   - [Musical Instrument - Multi Sampling in REAPER (ReaSamplOmatic5000)](https://www.youtube.com/watch?v=VxEGphq0Gck)
 - The process of making beats is a little easier with Sitalia
-
-## Friday
 
 - Alternative sampling methods
   - [MKSlicer](https://www.youtube.com/watch?v=p9vxqX5H6lE)
