@@ -200,18 +200,20 @@ Labor Day - No Class
 
 ## Friday
 
-- Intro to using MIDI to trigger sounds
-  - [MIDI Intro](https://www.youtube.com/watch?v=3kY75JnmlNk&t=1s)
+- [MIDI History](../lectures/week-7/midi-history/) - some history on the problem MIDI was invented to solve.
+- [MIDI Intro](../lectures/week-7/midi-intro/)
+
+<!--
+
   - [Midi Editing Modes](https://www.youtube.com/watch?v=4YRZ2M5bFM4)
 - Introduction to ReaSamplomatic, Sitalia
   - [Creating MIDI Beat Slices from Loops in REAPER](https://www.youtube.com/watch?v=RMmBJqTQUTw)
   - [Musical Instrument - Multi Sampling in REAPER (ReaSamplOmatic5000)](https://www.youtube.com/watch?v=VxEGphq0Gck)
 - The process of making beats is a little easier with Sitalia
-
 - Alternative sampling methods
   - [MKSlicer](https://www.youtube.com/watch?v=p9vxqX5H6lE)
   - [MK Shaper/Stutter](https://www.youtube.com/watch?v=wmGxJgXA7sI)
-  - Granular sampling?
+  - Granular sampling? -->
 
 <!--
 
