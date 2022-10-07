@@ -206,6 +206,10 @@ Labor Day - No Class
 
 ## Monday
 
+- No class for Native America day
+
+## Wednesday
+
 - [MIDI Intro](../lectures/week-7/midi-intro/)
 - Spend some time making loops, share with the class at the end
 - Add one or two samples from free sound to your composition
