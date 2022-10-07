@@ -201,7 +201,15 @@ Labor Day - No Class
 ## Friday
 
 - [MIDI History](../lectures/week-7/midi-history/) - some history on the problem MIDI was invented to solve.
+
+# Week 8 (10/10)
+
+## Monday
+
 - [MIDI Intro](../lectures/week-7/midi-intro/)
+- Spend some time making loops, share with the class at the end
+- Add one or two samples from free sound to your composition
+- Use any of the effects we've learned so far: EQ, compression, reverb, delay
 
 <!--
 
