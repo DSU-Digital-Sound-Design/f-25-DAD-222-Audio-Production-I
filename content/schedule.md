@@ -210,68 +210,48 @@ Labor Day - No Class
 
 ## Wednesday
 
+<!-- TODO: create a small assignment for students ot turn in their midi beeats the worked on in class -->
+<!-- TODO: switch the musique concrete project with a drum based sample project -->
+
 - [MIDI Intro](../lectures/week-7/midi-intro/)
 - Spend some time making loops, share with the class at the end
 - Add one or two samples from free sound to your composition
 - Use any of the effects we've learned so far: EQ, compression, reverb, delay
 
-<!--
+## Friday
 
-  - [Midi Editing Modes](https://www.youtube.com/watch?v=4YRZ2M5bFM4)
-- Introduction to ReaSamplomatic, Sitalia
-  - [Creating MIDI Beat Slices from Loops in REAPER](https://www.youtube.com/watch?v=RMmBJqTQUTw)
-  - [Musical Instrument - Multi Sampling in REAPER (ReaSamplOmatic5000)](https://www.youtube.com/watch?v=VxEGphq0Gck)
+- [Midi Editing Modes](https://www.youtube.com/watch?v=4YRZ2M5bFM4)
+- [Creating MIDI Beat Slices from Loops in REAPER](https://www.youtube.com/watch?v=RMmBJqTQUTw)
+- [Musical Instrument - Multi Sampling in REAPER (ReaSamplOmatic5000)](https://www.youtube.com/watch?v=VxEGphq0Gck)
 - The process of making beats is a little easier with Sitalia
-- Alternative sampling methods
-  - [MKSlicer](https://www.youtube.com/watch?v=p9vxqX5H6lE)
-  - [MK Shaper/Stutter](https://www.youtube.com/watch?v=wmGxJgXA7sI)
-  - Granular sampling? -->
+
+> Project 4: Drum Programming and Beatmaking
 
 <!--
+week 9 -
 
-# Week 7 (10/3)
+
+TODO: write the project based on ethan hein's beatmaking
 
 ## Monday
+compositional techniques for making rhythmic music
+more listening and working on their peice
+groove pizza etc
+creating commoon beat patterns
 
-- Music Concrete Introduction
-  - What is musique concrète? Where did it begin? Who are its pioneers? What is “concrete” about it? Why doesn’t it use conventionally-produced instrumental sounds? What does “étude” mean? Why do we limit ourselves to a sound lasting a few seconds? How can you wring as much expression out of it as possible?
+## Wednesdya
 
-> Project 3: Musique Concrète Étude (Intermediate) Robert Willey pg 111 DUE 10/17
-> [Rubric](http://willshare.com/courses/must121/week1/rubric.htm)
-
-## Wednesday
-
-- Zoom recorder demo
-  - Have all the students team up to record some elements then make sure they can all transfer the files to a computer.
+making variations and song form
 
 ## Friday
 
-- Listening session
-- 10 minute sample manipulation tip
-  - [Rrreeeaaa - Polyphase Synthesis in REAPER](https://www.youtube.com/watch?v=PtHY_SE50OU)
-- Lab time
+sample manipulation - stuttering, reverse etc
 
-# Week 8 (10/10)
+ -->
 
-## Monday
+<!-- > Exploring the Potential of Looped Material in DAW-Based Music Creation (Advanced) Mark Marrington DUE 11/14 -->
 
-- Listening session
-- 10 minute sample manipulation tip
-  - Shorter loops to make pitched samples
-- Lab time
-
-## Wednesday
-
-- Listening session
-- 10 minute sample manipulation tip
-  - Modulation and automation of parameters
-- Lab time
-
-## Friday
-
-- Listening session
-- 10 minute sample manipulation tip
-- Lab time
+<!--
 
 # Week 9 (10/17)
 
@@ -305,7 +285,7 @@ Labor Day - No Class
     - ADSR
     - Additional Oscillators
 
-> Project 4: Exploring the Potential of Looped Material in DAW-Based Music Creation (Advanced) Mark Marrington DUE 11/14
+
 > An excellent cumulative project for after they have learned the basics of MIDI and synthesis
 
 ## Friday
@@ -321,6 +301,8 @@ Labor Day - No Class
   - Macros
   - Advanced Tab - Unison Settings
   - Outro and Further Learning
+
+> Creating Cinematic Sequences in Vital | Music Production Tutorial: https://www.youtube.com/watch?v=j9cxCqrJpSU
 
 # Week 10 (10/24)
 
@@ -358,6 +340,8 @@ Labor Day - No Class
 # Week 12 (11/7)
 
 ## Monday
+
+note - probably skip this
 
 **Live Coding Introduction**
 
