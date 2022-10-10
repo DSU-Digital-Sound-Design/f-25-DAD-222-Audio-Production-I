@@ -210,9 +210,10 @@ Labor Day - No Class
 
 ## Wednesday
 
-<!-- TODO: create a small assignment for students ot turn in their midi beeats the worked on in class -->
+<!-- TODO: create a small assignment for students ot turn in their midi beats the worked on in class -->
 <!-- TODO: switch the musique concrete project with a drum based sample project -->
 
+- Grades returned - make sure you are following directions. Ask questions if you don't understand.
 - [MIDI Intro](../lectures/week-7/midi-intro/)
 - Spend some time making loops, share with the class at the end
 - Add one or two samples from free sound to your composition
