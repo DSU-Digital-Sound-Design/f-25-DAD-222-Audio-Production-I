@@ -210,27 +210,31 @@ Labor Day - No Class
 
 ## Wednesday
 
-<!-- TODO: create a small assignment for students ot turn in their midi beats the worked on in class -->
 <!-- TODO: switch the musique concrete project with a drum based sample project -->
 
 - Grades returned - make sure you are following directions. Ask questions if you don't understand.
 - [MIDI Intro](../lectures/week-7/midi-intro/)
-- Spend some time making loops, share with the class at the end
-- Add one or two samples from free sound to your composition
-- Use any of the effects we've learned so far: EQ, compression, reverb, delay
 
 ## Friday
 
-- [Midi Editing Modes](https://www.youtube.com/watch?v=4YRZ2M5bFM4)
-- [Creating MIDI Beat Slices from Loops in REAPER](https://www.youtube.com/watch?v=RMmBJqTQUTw)
-- [Musical Instrument - Multi Sampling in REAPER (ReaSamplOmatic5000)](https://www.youtube.com/watch?v=VxEGphq0Gck)
-- The process of making beats is a little easier with Sitalia
+- [Beatmaking](../lectures/week-8/beatmaking/) - listening examples
+- Create at least a 2 bar loop today, we'll go over how to extend it more on Monday.
+- You can redo your loop project, this time with MIDI, or do something new.
+- Add **one or two samples** from freesound to your composition
+- Spend some time making loops, share with the class at the end
+- Use any of the effects we've learned so far: EQ, compression, reverb, delay
+- You can route your MIDI track to effects sends with the effects routing tab.
 
-> Project 4: Drum Programming and Beatmaking
+> Project 4: [Drum Programming and Beatmaking](../projects/project-4-beats/)
 
 <!--
 week 9 -
 
+
+ - [Midi Editing Modes](https://www.youtube.com/watch?v=4YRZ2M5bFM4)
+- [Creating MIDI Beat Slices from Loops in REAPER](https://www.youtube.com/watch?v=RMmBJqTQUTw)
+- [Musical Instrument - Multi Sampling in REAPER (ReaSamplOmatic5000)](https://www.youtube.com/watch?v=VxEGphq0Gck)
+- The process of making beats is a little easier with Sitalia
 
 TODO: write the project based on ethan hein's beatmaking
 
