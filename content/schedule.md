@@ -210,20 +210,29 @@ Labor Day - No Class
 
 ## Wednesday
 
-<!-- TODO: switch the musique concrete project with a drum based sample project -->
-
 - Grades returned - make sure you are following directions. Ask questions if you don't understand.
 - [MIDI Intro](../lectures/week-7/midi-intro/)
 
 ## Friday
 
 - [Beatmaking](../lectures/week-8/beatmaking/) - listening examples
+
+# Week 9 (10/17)
+
+## Monday
+
 - Create at least a 2 bar loop today, we'll go over how to extend it more on Monday.
 - You can redo your loop project, this time with MIDI, or do something new.
-- Add **one or two samples** from freesound to your composition
+- Add **one or two samples** from [freesound](https://freesound.org) to your composition
 - Spend some time making loops, share with the class at the end
 - Use any of the effects we've learned so far: EQ, compression, reverb, delay
 - You can route your MIDI track to effects sends with the effects routing tab.
+
+## Wednesday
+
+- Expand the two measure loop to 16 measures to show some rhythmic development.
+  - Don't play all parts at the same time, bring them in gradually
+  - Pitch shifting using envelopes
 
 > Project 4: [Drum Programming and Beatmaking](../projects/project-4-beats/)
 
