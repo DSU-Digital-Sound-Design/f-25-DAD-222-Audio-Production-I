@@ -230,6 +230,8 @@ Labor Day - No Class
 
 ## Wednesday
 
+- MIDI Velocity
+  - Add variations with multi-velocity layers and round robin sampling
 - Expand the two measure loop to 16 measures to show some rhythmic development.
   - Don't play all parts at the same time, bring them in gradually
   - Pitch shifting using envelopes
