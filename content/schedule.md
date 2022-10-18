@@ -230,17 +230,12 @@ Labor Day - No Class
 
 ## Wednesday
 
-- Expand the two measure loop to 16 measures to show some rhythmic development.
-  - Don't play all parts at the same time, bring them in gradually
-  - Explode MIDI track so that you can bring in parts gradually.
-  - Pitch shifting using envelopes
-- MIDI Velocity
-  - Add variations with multi-velocity layers and round robin sampling
+- [MIDI Editing](../lectures/week-9/midi-editing/)
+- [Expanding on your two bar loop](../lectures/week-9/beat-expansion/)
 
-<!-- TODO: explain  multi-velocity layers and round robin sampling -->
 <!-- TODO: make place for this to be turnedin and give it a date -->
 
-> Project 4: [Drum Programming and Beatmaking](../projects/project-4-beats/)
+> Project 4: [Drum Programming and Beatmaking](../projects/project-4-beats/) - DUE October 25th
 
 <!--
 week 9 -

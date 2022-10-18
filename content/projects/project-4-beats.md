@@ -13,6 +13,4 @@ Add variations:
 
 Use the production techniques we've learned so far in class to make your project sound good. This includes EQ, compression, reverb, and delay.
 
-Use pitch shifting automation on at least one sample. In my example I pitch shift the "yea" sample. In the automation list it is called "Pitch Adjust."
-
 Do not use any audio in your timeline, only MIDI data should be used.
