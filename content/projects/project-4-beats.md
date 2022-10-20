@@ -8,9 +8,14 @@ When creating your composition gradually bring in elements and keep one thing pl
 
 Add variations:
 
-- Include one instance of multi-velocity sampling.
-- Include one instance of round-robin sampling.
+- Include **one instance** of multi-velocity sampling.
+- Include **one instance** of round-robin sampling.
 
 Use the production techniques we've learned so far in class to make your project sound good. This includes EQ, compression, reverb, and delay.
 
 Do not use any audio in your timeline, only MIDI data should be used.
+
+Submit to D2L:
+
+- a compressed folder containing your project files (including audio)
+- a rendered audio file of your master mix.

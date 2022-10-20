@@ -233,9 +233,13 @@ Labor Day - No Class
 - [MIDI Editing](../lectures/week-9/midi-editing/)
 - [Expanding on your two bar loop](../lectures/week-9/beat-expansion/)
 
-<!-- TODO: make place for this to be turnedin and give it a date -->
+## Friday
 
-> Project 4: [Drum Programming and Beatmaking](../projects/project-4-beats/) - DUE October 25th
+- Review multi-velocity layers and round robin sampling.
+- Review sending drum parts to effects sends.
+- In class work on project
+
+> Project 4: [Drum Programming and Beatmaking](../projects/project-4-beats/) - DUE October 26th
 
 <!--
 week 9 -
