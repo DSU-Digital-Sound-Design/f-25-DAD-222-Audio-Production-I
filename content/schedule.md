@@ -241,58 +241,26 @@ Labor Day - No Class
 
 > Project 4: [Drum Programming and Beatmaking](../projects/project-4-beats/) - DUE October 26th
 
-<!--
-week 9 -
-
-
- - [Midi Editing Modes](https://www.youtube.com/watch?v=4YRZ2M5bFM4)
-- [Creating MIDI Beat Slices from Loops in REAPER](https://www.youtube.com/watch?v=RMmBJqTQUTw)
-- [Musical Instrument - Multi Sampling in REAPER (ReaSamplOmatic5000)](https://www.youtube.com/watch?v=VxEGphq0Gck)
-- The process of making beats is a little easier with Sitalia
-
-TODO: write the project based on ethan hein's beatmaking
-
-## Monday
-compositional techniques for making rhythmic music
-more listening and working on their peice
-groove pizza etc
-creating commoon beat patterns
-
-## Wednesdya
-
-making variations and song form
-
-## Friday
-
-sample manipulation - stuttering, reverse etc
-
- -->
-
-<!-- > Exploring the Potential of Looped Material in DAW-Based Music Creation (Advanced) Mark Marrington DUE 11/14 -->
-
-<!--
-
-# Week 9 (10/17)
+# Week 10 (10/24) - Synthesis
 
 ## Monday
 
 **Synthesis and MIDI**
 
-- Listen to the Etudes - should be fine, they are short
-- [Electronic sound production](https://dsu-digital-sound-design.github.io/DAD-222-Audio-Production-I/pages/lectures/week-10/electronic-sound-production/#/) - presentation - edit it to stop at envelopes
-- In-class project: Understanding Envelopes in Synthesis (Intermediate) Misty Jones Simpson
+- [Electronic sound production](../lectures/week-10/electronic-sound-production/)
+
+## Wednesday
+
+<!-- - In-class project: Understanding Envelopes in Synthesis (Intermediate) Misty Jones Simpson
   - There are some excellent suggestions here for how to explain envelopes. This is more of an in-class lesson than a project.
   - There can be projects based on what the students learned in this lesson.
 - Synthesis methods
   - Wavetable, Additive, subtractive
   - FM Synthesis, AM Synthesis
-  - Physical Modeling synthesis
+  - Physical Modeling synthesis -->
 
-> Project 3: Musique Concrète Étude DUE
-
-## Wednesday
-
-- Finish the presentation
+- Listen to Beats
+- Synthesis - [Modulation](../lectures/week-10/synthesis-modulation/)
 - Introduction to [Vital Synth](https://www.youtube.com/watch?v=7qQX6YGBQEA) - see video
   - Install
     - Intro
@@ -303,7 +271,6 @@ sample manipulation - stuttering, reverse etc
     - Wave and Spectral Morph
     - ADSR
     - Additional Oscillators
-
 
 > An excellent cumulative project for after they have learned the basics of MIDI and synthesis
 
@@ -322,6 +289,11 @@ sample manipulation - stuttering, reverse etc
   - Outro and Further Learning
 
 > Creating Cinematic Sequences in Vital | Music Production Tutorial: https://www.youtube.com/watch?v=j9cxCqrJpSU
+
+<!-- > Exploring the Potential of Looped Material in DAW-Based Music Creation (Advanced) Mark Marrington DUE 11/14 -->
+
+<!--
+
 
 # Week 10 (10/24)
 
