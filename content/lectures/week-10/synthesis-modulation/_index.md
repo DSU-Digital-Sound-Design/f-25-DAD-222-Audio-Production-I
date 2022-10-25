@@ -28,12 +28,6 @@ Direct control refers to the parameters being controlled directly by MIDI messag
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wul-rUHyX_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
 ## Modulation with LFOs
 
-[Learning Synths - LFOs](https://learningsynths.ableton.com/en/lfos/lfos-in-the-real-world)
-
-{{% note %}}
+[Learning Synths - LFOs](https://learningsynths.ableton.com/en/lfos/change-that-repeats)
