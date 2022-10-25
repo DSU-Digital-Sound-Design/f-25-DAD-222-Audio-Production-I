@@ -251,16 +251,23 @@ Labor Day - No Class
 
 ## Wednesday
 
-<!-- - In-class project: Understanding Envelopes in Synthesis (Intermediate) Misty Jones Simpson
-  - There are some excellent suggestions here for how to explain envelopes. This is more of an in-class lesson than a project.
-  - There can be projects based on what the students learned in this lesson.
-- Synthesis methods
-  - Wavetable, Additive, subtractive
-  - FM Synthesis, AM Synthesis
-  - Physical Modeling synthesis -->
+<!--
+
+Watch this vital synth intro video
+Create a project by friday that has the students creating their own patches
+maybe gve them a sound and have them recreate it and turn in their project?
+
+Note: take your time with vital so the students dont' get confused with the other plugins
+we can spend time with the first project then a lot a of time on composing with sound design and making new sounds
+  -->
 
 - Listen to Beats
 - Synthesis - [Modulation](../lectures/week-10/synthesis-modulation/)
+- After we get through the first few pages spend around 10 minutes playing with the synth playground to figure out how LFOs work. A few people can share their sounds.
+- Last 15 minutes of class - Install [Vital Synth](https://vital.audio/#getvital) (basic) and play with some presets.
+
+## Friday
+
 - Introduction to [Vital Synth](https://www.youtube.com/watch?v=7qQX6YGBQEA) - see video
   - Install
     - Intro
@@ -271,11 +278,6 @@ Labor Day - No Class
     - Wave and Spectral Morph
     - ADSR
     - Additional Oscillators
-
-> An excellent cumulative project for after they have learned the basics of MIDI and synthesis
-
-## Friday
-
 - More Vital Synth
   - Sampler/noise
   - Filters
@@ -290,7 +292,9 @@ Labor Day - No Class
 
 > Creating Cinematic Sequences in Vital | Music Production Tutorial: https://www.youtube.com/watch?v=j9cxCqrJpSU
 
-<!-- > Exploring the Potential of Looped Material in DAW-Based Music Creation (Advanced) Mark Marrington DUE 11/14 -->
+<!--
+This is the big project before the final
+> Exploring the Potential of Looped Material in DAW-Based Music Creation (Advanced) Mark Marrington DUE 11/14 -->
 
 <!--
 
