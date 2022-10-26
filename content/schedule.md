@@ -266,8 +266,10 @@ we can spend time with the first project then a lot a of time on composing with 
 
 ## Friday
 
-- After we get through the first few pages spend around 10 minutes playing with the synth playground to figure out how LFOs work. A few people can share their sounds.
-- Last 15 minutes of class - Install [Vital Synth](https://vital.audio/#getvital) (basic) and play with some presets.
+- Spend around 10 minutes playing with the synth playground to figure out how LFOs work. A few people can share their sounds.
+- [Vital Synth](../lectures/week-10/vital-intro/)
+
+<!--
 - Introduction to [Vital Synth](https://www.youtube.com/watch?v=7qQX6YGBQEA) - see video
   - Install
     - Intro
@@ -291,6 +293,8 @@ we can spend time with the first project then a lot a of time on composing with 
   - Outro and Further Learning
 
 > Creating Cinematic Sequences in Vital | Music Production Tutorial: https://www.youtube.com/watch?v=j9cxCqrJpSU
+
+ -->
 
 <!--
 This is the big project before the final
