@@ -263,11 +263,11 @@ we can spend time with the first project then a lot a of time on composing with 
 
 - Listen to Beats
 - Synthesis - [Modulation](../lectures/week-10/synthesis-modulation/)
-- After we get through the first few pages spend around 10 minutes playing with the synth playground to figure out how LFOs work. A few people can share their sounds.
-- Last 15 minutes of class - Install [Vital Synth](https://vital.audio/#getvital) (basic) and play with some presets.
 
 ## Friday
 
+- After we get through the first few pages spend around 10 minutes playing with the synth playground to figure out how LFOs work. A few people can share their sounds.
+- Last 15 minutes of class - Install [Vital Synth](https://vital.audio/#getvital) (basic) and play with some presets.
 - Introduction to [Vital Synth](https://www.youtube.com/watch?v=7qQX6YGBQEA) - see video
   - Install
     - Intro
