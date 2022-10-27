@@ -251,106 +251,56 @@ Labor Day - No Class
 
 ## Wednesday
 
-<!--
-
-Watch this vital synth intro video
-Create a project by friday that has the students creating their own patches
-maybe gve them a sound and have them recreate it and turn in their project?
-
-Note: take your time with vital so the students dont' get confused with the other plugins
-we can spend time with the first project then a lot a of time on composing with sound design and making new sounds
-  -->
-
 - Listen to Beats
 - Synthesis - [Modulation](../lectures/week-10/synthesis-modulation/)
 
 ## Friday
 
 - Spend around 10 minutes playing with the synth playground to figure out how LFOs work. A few people can share their sounds.
+- Show tone generator with scope and spectrum analyzer.
 - [Vital Synth](../lectures/week-10/vital-intro/)
-
-<!--
-- Introduction to [Vital Synth](https://www.youtube.com/watch?v=7qQX6YGBQEA) - see video
-  - Install
-    - Intro
-    - User Interface
-    - Loading Presets
-    - Voice Tab - Generating Sound
-    - Stereo Width and Unison
-    - Wave and Spectral Morph
-    - ADSR
-    - Additional Oscillators
-- More Vital Synth
-  - Sampler/noise
-  - Filters
-  - Polyphony, Pitch Bend, Glide and Stereo
-  - Effects Tab
-  - Matrix and Modulation, LFO and Envelopes
-  - Randomness generator
-  - Performance settings and MPE
-  - Macros
-  - Advanced Tab - Unison Settings
-  - Outro and Further Learning
-
-> Creating Cinematic Sequences in Vital | Music Production Tutorial: https://www.youtube.com/watch?v=j9cxCqrJpSU
-
- -->
-
-<!--
-This is the big project before the final
-> Exploring the Potential of Looped Material in DAW-Based Music Creation (Advanced) Mark Marrington DUE 11/14 -->
-
-<!--
-
-
-# Week 10 (10/24)
-
-## Monday
-
-- In-class project: Name that Synth Patch (Advanced) Misty Jones Simpson
-  - Another enjoyable way to get students to learn synthesis.
-
-## Wednesday
-
-- Surge XT
-- More listening? Other stuff?
-
-## Friday
-
-- Other Synths
-  - OB-xD
-- Project 4 - Day 1
 
 # Week 11 (10/31)
 
 ## Monday
 
-- TAL Noisemaker
-- PG-8X
-- Project 4 day 2
+- [More Vital Synth](../lectures/week-11/vital-pt-2/)
+  - Sampler/noise
+  - Filters
+  - Polyphony, Pitch Bend, Glide and Stereo
+  - Effects Tab
 
 ## Wednesday
 
+- Matrix and Modulation, LFO and Envelopes
+- Randomness generator
+- Performance settings and MPE
+- Macros
+- Advanced Tab - Unison Settings
+- Outro and Further Learning
+
+<!-- TODO: make a definition for this project -->
+
+> Exploring the Potential of Looped Material in DAW-Based Music Creation (Advanced) Mark Marrington DUE 11/14
+
 ## Friday
 
-> Project 4 DUE
-> Listening day
+- Name that synth patch game
+- Creating Cinematic Sequences in Vital | Music Production Tutorial: https://www.youtube.com/watch?v=j9cxCqrJpSU
 
 # Week 12 (11/7)
 
 ## Monday
 
-note - probably skip this
-
-**Live Coding Introduction**
-
-- [Gibber](https://gibber.cc/alpha/playground/)
+- in class work on project
 
 ## Wednesday
 
+- in class work on project
+
 ## Friday
 
-- Live coding performances
+- Listen to Synth projects
 
 # Week 13 (11/14)
 
@@ -390,4 +340,4 @@ Thanksgiving - No classes
 Start of final exams
 Final project due at the start of finals
 
- -->
+-->
