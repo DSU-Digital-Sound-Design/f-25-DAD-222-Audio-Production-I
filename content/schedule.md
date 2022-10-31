@@ -258,11 +258,14 @@ Labor Day - No Class
 
 - Spend around 10 minutes playing with the synth playground to figure out how LFOs work. A few people can share their sounds.
 - Show tone generator with scope and spectrum analyzer.
-- [Vital Synth](../lectures/week-10/vital-intro/)
 
 # Week 11 (10/31)
 
 ## Monday
+
+- [Vital Synth](../lectures/week-10/vital-intro/)
+
+## Wednesday
 
 - [More Vital Synth](../lectures/week-11/vital-pt-2/)
   - Sampler/noise
@@ -270,14 +273,14 @@ Labor Day - No Class
   - Polyphony, Pitch Bend, Glide and Stereo
   - Effects Tab
 
-## Wednesday
+## Friday
 
 - Matrix and Modulation, LFO and Envelopes
 - Randomness generator
 - Performance settings and MPE
 - Macros
 - Advanced Tab - Unison Settings
-- Outro and Further Learning
+- Outro and Further Learningd
 
 <!-- TODO: make a definition for this project -->
 
