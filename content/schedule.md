@@ -281,6 +281,7 @@ Labor Day - No Class
 
 <!-- TODO: make a definition for this project -->
 
+<!--
 > Exploring the Potential of Looped Material in DAW-Based Music Creation (Advanced) Mark Marrington DUE 11/14
 
 ## Friday
