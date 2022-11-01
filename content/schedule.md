@@ -30,25 +30,6 @@ author: ""
 
 - Listen to a few of your songs
 
-<!-- ## Friday
-
-**Introduction to Reaper**
-
-- Introduction to Reaper
-  - DAW Basics - Timeline
-
-  - Explain BPM, and Key
-  - make sure grid and snap are enabled
-  - drag clips into the timeline
-  - Set your BPM to the tempo of the first clip you import
-  - two melodic parts may sound good together, but it will depend on the key
-  - remove unwanted items
-    - to delete part of an item you can split the item twice then delete the part you don't want. You can make this process quicker by making a time selection and then "split items at time selection" (Shift+S).
-  - remove unused tracks
-  - Loop timeline and toggle repeat to repeat a whole section
-  - make loop longer or shorter - double click on item and make sure that "loop source" is selected. Pull on the bottom corner to lengthen the loop
-  - If the loop you find is not the correct BPM then shift the time with Reaper. Hold **Option** and click in the bottom right corner then drag to the desired length. -->
-
 # Week 2 (8/29)
 
 ## Monday
@@ -268,29 +249,22 @@ Labor Day - No Class
 ## Wednesday
 
 - [More Vital Synth](../lectures/week-11/vital-pt-2/)
-  - Sampler/noise
-  - Filters
-  - Polyphony, Pitch Bend, Glide and Stereo
-  - Effects Tab
 
 ## Friday
 
-- Matrix and Modulation, LFO and Envelopes
+- envelopes for modulation
 - Randomness generator
 - Performance settings and MPE
 - Macros
 - Advanced Tab - Unison Settings
-- Outro and Further Learningd
+- Outro and Further Learning
+- Name that synth patch game
+- Creating Cinematic Sequences in Vital | Music Production Tutorial: https://www.youtube.com/watch?v=j9cxCqrJpSU
 
 <!-- TODO: make a definition for this project -->
 
 <!--
 > Exploring the Potential of Looped Material in DAW-Based Music Creation (Advanced) Mark Marrington DUE 11/14
-
-## Friday
-
-- Name that synth patch game
-- Creating Cinematic Sequences in Vital | Music Production Tutorial: https://www.youtube.com/watch?v=j9cxCqrJpSU
 
 # Week 12 (11/7)
 
