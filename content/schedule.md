@@ -252,6 +252,7 @@ Labor Day - No Class
 
 ## Friday
 
+- [Vital Modulation](../lectures/week-11/vital-pt-2/)
 - envelopes for modulation
 - Randomness generator
 - Performance settings and MPE
