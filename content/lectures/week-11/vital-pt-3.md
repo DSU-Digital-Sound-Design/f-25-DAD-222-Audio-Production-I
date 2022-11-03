@@ -16,4 +16,24 @@ Currently, our modulation only acts in a positive direction, from the start of t
 
 > All of these options can be more clearly seen in the matrix tab. Click on that now.
 
-<!-- TODO: add the rest here -->
+## Envelopes
+
+Reinitialize the patch.
+
+If we want a modulation that has a fixed duration and shape we can use the envelopes. We can either reuse the amplitude envelope, or use envelopes 2 or 3. For this example we'll use envelope 2 and connect it to the filter cutoff. Now the filter opens every time we trigger a note, creating an interesting effect.
+
+## Random
+
+Similar to LFOs with a noise oscillator.
+
+## Keyboard section
+
+MIDI note parameters can be mapped to synthesis parameters in Vital. This includes note, velocity, lift, oct note, pressure, slide, stereo, and random.
+
+## Macros
+
+Allow you to control multiple parameters with one knob. Useful when you start making your own patches.
+
+## Advanced tab - Unison settings
+
+In the advanced tab you can control more aspects of how the unison spread works.

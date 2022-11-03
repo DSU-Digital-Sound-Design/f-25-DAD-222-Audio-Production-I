@@ -252,15 +252,8 @@ Labor Day - No Class
 
 ## Friday
 
-- [Vital Modulation](../lectures/week-11/vital-pt-2/)
-- envelopes for modulation
-- Randomness generator
-- Performance settings and MPE
-- Macros
-- Advanced Tab - Unison Settings
-- Outro and Further Learning
-- Name that synth patch game
-- Creating Cinematic Sequences in Vital | Music Production Tutorial: https://www.youtube.com/watch?v=j9cxCqrJpSU
+- [Vital Modulation](../lectures/week-11/vital-pt-3/)
+- Preset analysis - pick a random preset and see how it works
 
 <!-- TODO: make a definition for this project -->
 
