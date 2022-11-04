@@ -255,24 +255,27 @@ Labor Day - No Class
 - [Vital Modulation](../lectures/week-11/vital-pt-3/)
 - Preset analysis - pick a random preset and see how it works
 
-<!-- TODO: make a definition for this project -->
-
-<!--
-> Exploring the Potential of Looped Material in DAW-Based Music Creation (Advanced) Mark Marrington DUE 11/14
-
 # Week 12 (11/7)
 
 ## Monday
 
 - in class work on project
 
+> [Synth composition](../projects/project-5-synth/)
+
 ## Wednesday
 
 - in class work on project
 
+> Final Project proposal
+
 ## Friday
 
 - Listen to Synth projects
+
+<!--
+> Exploring the Potential of Looped Material in DAW-Based Music Creation (Advanced) Mark Marrington DUE 11/14
+
 
 # Week 13 (11/14)
 
