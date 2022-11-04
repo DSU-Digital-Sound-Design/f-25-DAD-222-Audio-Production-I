@@ -18,6 +18,8 @@ We will now create variations of the original idea on new tracks with different 
 
 Create a few more tracks with the same method to build up your project. As you add new tracks move the MIDI notes to different octaves to experiment with frequency ranges.
 
+> Cmd + down/up arrow moves MIDI notes down or up one semitone. CMD + left/right arrow moves notes left or right by the grid size.
+
 As you build up layers pay attention to how their frequencies are interacting. You may need to add a an EQ or two to make sure the layers aren't getting into each others way too much.
 
 At this point you should only have loops. The project won't be that interesting, but we will add move variations during the next session.
