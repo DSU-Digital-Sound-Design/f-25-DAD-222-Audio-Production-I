@@ -263,8 +263,7 @@ Labor Day - No Class
 
 > [Synth composition](../projects/project-5-synth/)
 
-> Final Project proposal - see D2L
-> [Final Project description](../projects/final-project/)
+> Final Project proposal - [see D2L](https://d2l.sdbor.edu/d2l/le/content/1725928/viewContent/10822719/View?dst=1) > [Final Project description](../projects/final-project/)
 
 ## Wednesday
 
