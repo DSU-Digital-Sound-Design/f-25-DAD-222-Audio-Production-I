@@ -264,6 +264,7 @@ Labor Day - No Class
 > [Synth composition](../projects/project-5-synth/)
 
 > Final Project proposal - see D2L
+> [Final Project description](../projects/final-project/)
 
 ## Wednesday
 
