@@ -273,13 +273,34 @@ Labor Day - No Class
 
 ## Friday
 
+- Veterans Day - no class
+
+# Week 13 (11/14)
+
+## Monday
+
 - Listen to Synth projects
+
+## Wednesday
+
+- In class work on final projects
+
+## Friday
+
+- In class work on final projects
+
+## Week 14, 15
+
+- I class work on final project
+
+# Week 16
+
+- Final Exam Presentation: Friday, December 9, 8 am - 10 am
 
 <!--
 > Exploring the Potential of Looped Material in DAW-Based Music Creation (Advanced) Mark Marrington DUE 11/14
 
 
-# Week 13 (11/14)
 
 ## Monday
 
