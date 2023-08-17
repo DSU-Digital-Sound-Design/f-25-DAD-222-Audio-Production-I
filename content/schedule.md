@@ -6,22 +6,25 @@ author: ""
 
 {{< toc >}}
 
-# Week 1 (8/22)
+# Week 1 (8/21)
 
 ## Monday
 
 - Class introductions
-  - What's your name, major, and where are you from?
+  - What's your name, major, and what is the last song you listened to?
 - Introduction to [syllabus](../syllabus)
+  <!-- - make sure this syllabus is updated -->
 - [Intro to Music Technology](../lectures/week-1/intro-to-music-tech-slides/) slides
-- [Pre-test](https://d2l.sdbor.edu/d2l/le/content/1725928/viewContent/10642341/View) - answer a few questions so I know what you already know.
-
+- [Pre-test](https://d2l.sdbor.edu/d2l/le/content/1725928/viewContent/10642341/View) 
+<!-- - TODO: update this link above -->
+  
+<!-- 
 ## Wednesday
 
 - The pre-test results were promising. You know a few things already.
   - If you haven't completed this, let's spend a few minutes and do it in class.
 - [Sound and hearing](../lectures/week-1/sound-and-hearing/) slides
-<!-- - [What is sound?](x-devonthink-item://07E680A4-DDDA-4630-AC76-FDBA898D69B8) -->
+
 
 > **Homework - Due Friday**: Post a recording or video of one of your favorite songs or pieces of music that involve some type of audio production. Find some aspects of the piece that you would like to learn how to recreate in this class. Write a paragraph describing why you like it and what you would like to learn from it.
 > Submit both to D2L
@@ -30,7 +33,7 @@ author: ""
 
 - Listen to a few of your songs
 
-# Week 2 (8/29)
+# Week 2 (8/28)
 
 ## Monday
 
@@ -56,7 +59,7 @@ author: ""
 
 > Project 1 Due
 
-# Week 3 (9/5)
+# Week 3 (9/4)
 
 ## Monday
 
@@ -79,7 +82,7 @@ Labor Day - No Class
   - [Studio Documentation](https://sites.google.com/view/charmstudios/studio-documentation)
   - Book your time in the studio to record your projects - we will also spend some time Monday doing projects
 
-# Week 4 (9/12)
+# Week 4 (9/11)
 
 ## Monday
 
@@ -115,7 +118,7 @@ Labor Day - No Class
 
 > Project 2: Unreliable Product Ad DUE
 
-# Week 5 (9/19)
+# Week 5 (9/18)
 
 ## Monday
 
@@ -144,7 +147,7 @@ Labor Day - No Class
 
 > Turn in what you did today to D2L
 
-# Week 6 (9/26)
+# Week 6 (9/25)
 
 ## Monday
 
@@ -162,7 +165,7 @@ Labor Day - No Class
 
 - [Reverb](../lectures/week-6/reverb/)
 
-# Week 7 (10/3)
+# Week 7 (10/2)
 
 ## Monday
 
@@ -183,7 +186,7 @@ Labor Day - No Class
 
 - [MIDI History](../lectures/week-7/midi-history/) - some history on the problem MIDI was invented to solve.
 
-# Week 8 (10/10)
+# Week 8 (10/9)
 
 ## Monday
 
@@ -198,7 +201,7 @@ Labor Day - No Class
 
 - [Beatmaking](../lectures/week-8/beatmaking/) - listening examples
 
-# Week 9 (10/17)
+# Week 9 (10/16)
 
 ## Monday
 
@@ -222,7 +225,7 @@ Labor Day - No Class
 
 > Project 4: [Drum Programming and Beatmaking](../projects/project-4-beats/) - DUE October 26th
 
-# Week 10 (10/24) - Synthesis
+# Week 10 (10/23) - Synthesis
 
 ## Monday
 
@@ -240,7 +243,7 @@ Labor Day - No Class
 - Spend around 10 minutes playing with the synth playground to figure out how LFOs work. A few people can share their sounds.
 - Show tone generator with scope and spectrum analyzer.
 
-# Week 11 (10/31)
+# Week 11 (10/30)
 
 ## Monday
 
@@ -255,7 +258,7 @@ Labor Day - No Class
 - [Vital Modulation](../lectures/week-11/vital-pt-3/)
 - Preset analysis - pick a random preset and see how it works
 
-# Week 12 (11/7)
+# Week 12 (11/6)
 
 ## Monday
 
@@ -275,7 +278,7 @@ Labor Day - No Class
 
 - Veterans Day - no class
 
-# Week 13 (11/14)
+# Week 13 (11/13)
 
 ## Monday
 
@@ -296,46 +299,4 @@ Labor Day - No Class
 # Week 16
 
 - Final Exam Presentation: Friday, December 9, 8 am - 10 am
-
-<!--
-> Exploring the Potential of Looped Material in DAW-Based Music Creation (Advanced) Mark Marrington DUE 11/14
-
-
-
-## Monday
-
-- Introduction to final project
-- Start on the proposal
-
-## Wednesday
-
-## Friday
-
-# Week 14 (11/21)
-
-## Monday
-
-## Wednesday
-
-## Friday
-
-# Thursday
-
-Thanksgiving - No classes
-
-# Week 15 (11/27)
-
-## Monday
-
-## Wednesday
-
-## Friday
-
-# Week 16 (12/5)
-
-# Thursday
-
-Start of final exams
-Final project due at the start of finals
-
--->
+ -->

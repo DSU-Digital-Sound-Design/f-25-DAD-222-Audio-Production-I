@@ -1,4 +1,4 @@
-baseurl = "https://dsu-digital-sound-design.github.io/f-22-DAD-222-Audio-Production-I/"
+baseurl = "/"
 languageCode = "en-us"
 theme = ["terminal", "reveal-hugo"]
 paginate = 5
