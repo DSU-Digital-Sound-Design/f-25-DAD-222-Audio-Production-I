@@ -11,12 +11,12 @@ author: ""
 ## Monday
 
 - Class introductions
-  - What's your name, major, and what is the last song you listened to?
+  - What's your name, major, and what is the **last** song you listened to?
 - Introduction to [syllabus](../syllabus)
-  <!-- - make sure this syllabus is updated -->
 - [Intro to Music Technology](../lectures/week-1/intro-to-music-tech-slides/) slides
-- [Pre-test](https://d2l.sdbor.edu/d2l/le/content/1725928/viewContent/10642341/View) 
-<!-- - TODO: update this link above -->
+- Pre-test - on [D2L](https://d2l.sdbor.edu/d2l/le/content/1840590/viewContent/11705355/View)
+
+> Homework: [Your favorite song](https://d2l.sdbor.edu/d2l/le/content/1840590/viewContent/11705356/View) - Post a recording or video of one of your favorite songs or pieces of music that involve some type of audio production. Find some aspects of the piece that you would like to learn how to recreate in this class. Write a paragraph describing why you like it and what you would like to learn from it.
   
 <!-- 
 ## Wednesday
