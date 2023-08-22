@@ -9,8 +9,9 @@ separator = "##"
 
 # Sound and hearing
 
-{{% note %}}
-In order to understand the basics of audio production, we need to understand the basics of sound. Recording, sampling and synthesis all start and end with sound.
+{{% note %}} 
+
+To understand the basics of audio production, we need to understand the basics of sound. Recording, sampling, and synthesis all start and end with sound.
 
 {{%/ note %}}
 
@@ -20,7 +21,7 @@ In order to understand the basics of audio production, we need to understand the
 
 - The basics of sound
 - The characteristics of the ear
-- How the ear is stimulated by sound
+- How a sound stimulates the ear
 - The psychoacoustics of hearing
 
 ---
@@ -29,13 +30,12 @@ The Transducer
 
 device -> energy conversion -> resulting energy
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Django_Reinhardt_%28Gottlieb_07301%29.jpg" width="50%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Django_Reinhardt_%28Gottlieb_07301%29.jpg" width="50%" alt="https://commons.wikimedia.org/wiki/File:Django_Reinhardt_(Gottlieb_07301).jpg">
 
-<a href="https://commons.wikimedia.org/wiki/File:Django_Reinhardt_(Gottlieb_07301).jpg">William P. Gottlieb</a>, Public domain, via Wikimedia Commons
 
 {{% note %}}
 ex:
-guitar - vibrations -> amplified by wood -> converted into sound pressure waves that we percieve as sound
+guitar - vibrations -> amplified by wood -> converted into sound pressure waves that we perceive as sound
 
 What types of devices could be considered transducers?
 
@@ -50,14 +50,14 @@ What types of devices could be considered transducers?
 
 ---
 
-# The basics of sound
+## The basics of sound
 
 ![](the-daily-show-john-oliver.gif)
 
 {{% note %}}
-Sound arrives at the ear in the form of periodic variations in atmospheric pressure called sound-pressure waves. This is the same atmospheric pressure that’s measured by the weather service; although, the changes in pressure heard by the ear are simply too small in magnitude and fluctuate too rapidly to be observed on a barometer.
+Sound arrives at the ear as periodic variations in atmospheric pressure called sound-pressure waves. This atmospheric pressure is the same as the weather service measures. The changes in pressure heard by the ear are too small in magnitude and fluctuate too rapidly to be observed on a barometer.
 
-It is sort of like when a ballon is popped
+It is sort of like when you pop a balloon!
 
 {{%/ note %}}
 
@@ -66,9 +66,9 @@ It is sort of like when a ballon is popped
 ![](wave-prop.jpg)
 
 {{% note %}}
-Any vibrating mass, such as the voice, or a guitar causes compression and rarefaction creating areas of high and low pressure states. These pressure states move the sound wave out from the source, allowing us to hear it.
+Any vibrating mass, such as the voice or guitar, causes compression and rarefaction creating areas of high and low-pressure states. These pressure states move the sound wave out from the source, allowing us to hear it.
 
-This is a helpful diagram but this is not usually how we visualize sound. We do it with a waveform, a graphic representation of sound-pressure level. Looking at the waveform we can tell if the sound is quiet or loud and sometimes the frequency of the sound.
+This diagram is helpful, but this is not usually how we visualize sound. We do it with a waveform, a graphic representation of the sound-pressure level. Looking at the waveform, we can tell if the sound is quiet or loud and sometimes the frequency of the sound.
 {{%/ note %}}
 
 ---
@@ -85,13 +85,14 @@ The distance above or below the centerline of a waveform (such as a pure sine wa
 
 ## Frequency
 
+![](frequency.png)
+
 {{% note %}}
-The rate at which an acoustic generator, electrical signal or vibrating mass repeats within a cycle of positive and negative amplitude is known as the frequency of that signal.
+The rate at which an acoustic generator, electrical signal, or vibrating mass repeats within a cycle of positive and negative amplitude is known as the frequency of that signal.
 
 We can also measure a frequency in cycles per second; (Hz) or hertz (Hz). An "A" note is 440 Hz.
 {{%/ note %}}
 
-![](frequency.png)
 
 ---
 
@@ -100,23 +101,20 @@ We can also measure a frequency in cycles per second; (Hz) or hertz (Hz). An "A"
 ![](phase.png)
 
 {{% note %}}
-For simplicity’s sake, let’s limit our example to two pure tone waveforms (sine waves) that have equal amplitudes and frequency, but start their cyclic periods at different times. Such waveforms are said to be out of phase with respect to each other.
+For simplicity’s sake, let’s limit our example to two pure tone waveforms (sine waves) that have equal amplitudes and frequency but start their cyclic periods at different times. Such waveforms are said to be out of phase to each other.
 
-Out of phase signals can cause reductions in amplitude and are generally undesirable.
+Out-of-phase signals can cause reductions in amplitude and are generally undesirable.
 
-The example shows waves that either increase in amplitude, cancel altogether or combine. The last is more likely in practice.
+The example shows waves that either increase the amplitude, cancel, or combine. The last is more likely in practice.
 
-Everyone should try the DIY activity on page 55 in the book to hear this for themselves.
 {{%/ note %}}
 
----
-
-## Try this: Phase
-
-![](try-this-phase.png)
 
 ---
 
+[Random phases - square and sawtooth](https://tomasboril.cz/fourierseries3d/)
+
+---
 ## Harmonic content
 
 {{% note %}}
@@ -126,9 +124,11 @@ The factor that helps us differentiate between instrumental “voicings” is th
 
 Harmonics also form the basis of synthesis.
 
-Now go tot he harmonics tutorial on modrec.com
 {{%/ note %}}
 
+---
+
+- [Fourier Series 3D interactive demonstration](https://tomasboril.cz/fourierseries3d/en/)
 ---
 
 # The Decibel
@@ -136,17 +136,19 @@ Now go tot he harmonics tutorial on modrec.com
 ![](db.webp)
 
 {{% note %}}
-Loudness is variations in sound pressure level or SPL and is measured on a logarithmic scale in decibels (dB).
+Variations in sound pressure level or SPL and is measured on a logarithmic scale in decibels (dB).
 {{%/ note %}}
 
 ---
 
 # The Ear
 
-![](ear.png)
+![](Anatomy-of-the-Ear2.jpg)
 
 {{% note %}}
-Sound is collected by the pinna. Then it travels through the eardrum, which vibrates converting sound-pressure waves into mechanical vibrations. The sound then goes to the cochlea, this snail looking organ covered in tiny hair receptors. It is here that we perceive frequencies of a sound.
+* Sound is collected by the pinna. 
+* Then it travels through the eardrum, which vibrates, converting sound-pressure waves into mechanical vibrations. 
+* The sound then goes to the cochlea, this snail looking organ covered in tiny hair receptors. It is here that we perceive frequencies of a sound.
 {{%/ note %}}
 
 ---
@@ -154,7 +156,7 @@ Sound is collected by the pinna. Then it travels through the eardrum, which vibr
 # Psychoacoustics
 
 {{% note %}}
-This is not the end of the story. We now have to talk about psychoacoustics. The area of psychoacoustics deals with how and why the brain interprets a particular sound stimulus in a certain way. Although a great deal of study has been devoted to this subject, the primary device in psychoacoustics is the all- elusive brain, which is still largely unknown to present-day science.
+This is not the end of the story. We now have to talk about psychoacoustics. Psychoacoustics deals with how and why the brain interprets a particular sound stimulus in a certain way. Although much study has been devoted to this subject, the primary device in psychoacoustics is the all-elusive brain, which is still largely unknown to present-day science.
 {{%/ note %}}
 
 ---
@@ -164,9 +166,9 @@ This is not the end of the story. We now have to talk about psychoacoustics. The
 ![](fm-curve.png)
 
 {{% note %}}
-What sound comes into your ears is not always what you "hear", your brain completes the picture. Our ears perception of timbre and frequency changes with the loudness of a perceived signal
+What sound comes into your ears is not always what you "hear"; your brain completes the picture. Our ears perception of timbre and frequency changes with the loudness of a perceived signal
 
-The Fletcher-Munson equal-loudness contour curves (Figure 2.26) indicate the ear’s average sensitivity to different frequencies at various levels. These indicate the sound-pressure levels that are required for our ears to hear frequencies along the curve as being equal in level to a 1000-Hz reference level (measured in phons).
+The Fletcher-Munson equal-loudness contour curves (Figure 2.26) indicate the ear’s average sensitivity to different frequencies at various levels. These indicate the sound-pressure levels required for our ears to hear frequencies along the curve as being equal in level to a 1000-Hz reference level (measured in phons).
 {{%/ note %}}
 
 ---

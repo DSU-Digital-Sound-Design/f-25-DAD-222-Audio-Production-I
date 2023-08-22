@@ -18,21 +18,22 @@ author: ""
 
 > Homework: [Your favorite song](https://d2l.sdbor.edu/d2l/le/content/1840590/viewContent/11705356/View) - Post a recording or video of one of your favorite songs or pieces of music that involve some type of audio production. Find some aspects of the piece that you would like to learn how to recreate in this class. Write a paragraph describing why you like it and what you would like to learn from it.
   
-<!-- 
 ## Wednesday
 
+- Listen to the **last song** playlist 
+- Your **favorite song** is due Friday
 - The pre-test results were promising. You know a few things already.
   - If you haven't completed this, let's spend a few minutes and do it in class.
+  - Any questions about this? 
+- Finish [Intro to Music Technology](../lectures/week-1/intro-to-music-tech-slides/) slides
 - [Sound and hearing](../lectures/week-1/sound-and-hearing/) slides
 
-
-> **Homework - Due Friday**: Post a recording or video of one of your favorite songs or pieces of music that involve some type of audio production. Find some aspects of the piece that you would like to learn how to recreate in this class. Write a paragraph describing why you like it and what you would like to learn from it.
-> Submit both to D2L
 
 ## Friday
 
 - Listen to a few of your songs
 
+<!-- 
 # Week 2 (8/28)
 
 ## Monday
