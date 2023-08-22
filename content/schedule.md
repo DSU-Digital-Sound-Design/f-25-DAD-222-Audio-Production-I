@@ -236,6 +236,7 @@ Labor Day - No Class
 
 ## Wednesday
 
+- ATMI conference - move material to next week or assign students work while you're gone
 - Listen to Beats
 - Synthesis - [Modulation](../lectures/week-10/synthesis-modulation/)
 
