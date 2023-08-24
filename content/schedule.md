@@ -31,9 +31,9 @@ author: ""
 
 ## Friday
 
+- [Sound and hearing](../lectures/week-1/sound-and-hearing/) slides
 - Listen to a few of your songs
 
-<!-- 
 # Week 2 (8/28)
 
 ## Monday
@@ -41,6 +41,7 @@ author: ""
 - finish [Sound and hearing](../lectures/week-1/sound-and-hearing/) slides, decibel, psychoacoustics, the ear
 - [Introduction to Reaper](../lectures/week-1/reaper-intro/)
 
+<!-- 
 ## Wednesday
 
 - [Saving and exporting](../lectures/week-2/this-is-reaper-2/)
