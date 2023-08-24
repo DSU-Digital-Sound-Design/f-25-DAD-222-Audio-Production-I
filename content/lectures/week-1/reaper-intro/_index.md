@@ -1,30 +1,52 @@
++++
+title = "Reaper intro"
+outputs = ["Reveal"]
+[reveal_hugo]
+theme = "blood"
+margin = 0.2
+separator = "##"
++++
+
+
+# Reaper Intro
+
+{{% note %}}
+
+One of the most unique features of Reaper compared to other DAWs, such as Pro Tools, Logic Pro, or Ableton Live, is that everything is customizable, including key commands, menus, toolbars, and mouse behaviors. Reaper has reasonable defaults, so you don't have to worry about customizing everything immediately.
+{{%/ note %}}
+
 ---
-title: "Reaper intro"
----
 
-The following tutorial is based on this video: [This is REAPER 6 - Intro (1/15)](https://youtu.be/bepxGZ-ZXGE)
-
-# Intro
-
-One of the most unique features of Reaper compared to other DAWs such as Pro Tools, Logic, or Ableton is that everything is customizable. This includes key commands, menus, toolbars, and mouse behaviors. it has pretty good defaults, so you don't have to worry about customizing everything right away.
+## main view
 
 ![](../images/views.png)
 
 We can hide the mixer by closing it (cmd+M).
 
-# Tracks
+---
 
-Create new tracks by double-clicking in the track pane. Delete extra tracks by selecting the track and hitting delete on your computer keyboard.
 
-There are no track types in Reaper. Tracks can include audio, MIDI or video items, or even multiples on the same track.
+* Delete extra tracks by selecting the track and then hitting delete on your computer keyboard.
+* Create new tracks by double-clicking in the track pane.
 
-Tracks can also become folders containing many tracks.
+<video src="create-tracks.mov" controls width=700>
+
+---
+
+> There are no track types in Reaper. Tracks can include audio, MIDI or video items, or even multiples on the same track.
+> Tracks can also become folders containing many tracks.
+
+> Try to create a track with multiple types of media, then create a folder with many tracks. 
+
+---
 
 # Timeline
 
 Now see the Timeline / Ruler. We can set the division to Bars:Beats, Minutes:Seconds, timecode, or samples. Take a second and switch your timeline to each of those options.
 
 Find a few random sounds from freesound.org and import them. Notice how the track name changes to match the item name. As you drag in clips notice how the items snap to the grid. If this doesn't happen make sure you have snapping turned on.
+
+---
 
 # Items
 
