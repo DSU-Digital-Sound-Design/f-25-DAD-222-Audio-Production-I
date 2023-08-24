@@ -29,7 +29,7 @@ We can hide the mixer by closing it (cmd+M).
 * Delete extra tracks by selecting the track and then hitting delete on your computer keyboard.
 * Create new tracks by double-clicking in the track pane.
 
-<video src="create-tracks.mov" controls width=700>
+<video src="create-tracks.mov" loop autoplay muted controls width=725>
 
 ---
 
@@ -40,17 +40,21 @@ We can hide the mixer by closing it (cmd+M).
 
 ---
 
-# Timeline
+> Right click on your timeline to change its units 
 
-Now see the Timeline / Ruler. We can set the division to Bars:Beats, Minutes:Seconds, timecode, or samples. Take a second and switch your timeline to each of those options.
+<video src="timeline.mov" loop autoplay muted controls width=725>
 
-Find a few random sounds from freesound.org and import them. Notice how the track name changes to match the item name. As you drag in clips notice how the items snap to the grid. If this doesn't happen make sure you have snapping turned on.
+---
+
+## You Try 
+
+> Find a few random sounds from [freesound.org](https://freesound.org) and import them. Notice how the track name changes to match the item name. As you drag in clips notice how the items snap to the grid. If this doesn't happen make sure you have snapping turned on.
 
 ---
 
 # Items
 
-I Reaper we refer to audio files as Items or Media Items. These can be copy pasted and moved to taste. We can also trim the beginning and ending of the tracks with our mouse cursor. We can also trim multiple files at once by selecting them all.
+In Reaper we refer to audio files as Items or Media Items. These can be copy pasted and moved to taste. We can also trim the beginning and ending of the tracks with our mouse cursor. We can also trim multiple files at once by selecting them all.
 
 Dragging an item to the right will cause it to start looping.
 
@@ -60,6 +64,9 @@ Zoom in and out of items vertically using your mouse wheel. Zoom horizontally us
 
 Right click the items to see a contextual menu with more options for the items.
 
+
+---
+
 # Track control panel
 
 ![](../images/tcp.png)
@@ -68,26 +75,33 @@ The TCP gives access to the volume, mute, solo, pan and other parameters of each
 
 Right click the tracks to get a contextual menu with more options for each track. You can right click on pretty much anything to get a contextual menu with more options.
 
+---
 # Mixer
 
 Now open back up the mixer pane. See that the same controls are available here as from the TCP. The mixer view makes it easier to mix our tracks together. The mixer window can be rearranged to another part of the screen or floated.
 
+---
 # Tempo
 
 The bpm of the project can be changed from the tempo menu on the bottom right of the screen (the transport). If we want to play back slower while also adjusting pitch we cna do that with the rate knob.
 
+---
 # Track views
 
 Adjust the track heights or widths with your mouse.
 
+---
 # Transport
 
 The transport can be hidden if you need more room for your tracks.
 
+
+---
 # Themes
 
 Change the way Reaper looks with themes
 
+---
 # Actions
 
 Control pretty much anything in Reaper with Actions. View the actions menu (shift + ?)
