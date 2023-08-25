@@ -54,54 +54,61 @@ We can hide the mixer by closing it (cmd+M).
 
 # Items
 
-In Reaper we refer to audio files as Items or Media Items. These can be copy pasted and moved to taste. We can also trim the beginning and ending of the tracks with our mouse cursor. We can also trim multiple files at once by selecting them all.
-
-Dragging an item to the right will cause it to start looping.
-
-We can add fade-in and fade-outs by holding our cursor over the top corner of the items. We can also apply fades to all tracks by selecting them.
-
-Zoom in and out of items vertically using your mouse wheel. Zoom horizontally using the modifier cmd and your mouse wheel.
-
-Right click the items to see a contextual menu with more options for the items.
-
+* In Reaper, we refer to audio files as Items or Media Items. 
+* These can be copied and pasted and moved to taste. 
+* We can also trim the beginning and end of the tracks with our mouse cursor. 
+* We can also trim multiple files at once by selecting them all.
 
 ---
 
-# Track control panel
+* Dragging an item to the right will cause it to start looping.
+* We can add fade-ins and fade-outs by holding our cursor over the top corner of the items. We can also apply fades to all tracks by selecting them.
+* Zoom in and out of items vertically using your mouse wheel. Zoom horizontally using the modifier cmd and your mouse wheel.
+* Right-click the items to see a contextual menu with more options for the items.
+
+---
+
 
 ![](../images/tcp.png)
 
-The TCP gives access to the volume, mute, solo, pan and other parameters of each track.
-
-Right click the tracks to get a contextual menu with more options for each track. You can right click on pretty much anything to get a contextual menu with more options.
+* The TCP gives access to each track's volume, mute, solo, pan, and other parameters.
 
 ---
-# Mixer
 
-Now open back up the mixer pane. See that the same controls are available here as from the TCP. The mixer view makes it easier to mix our tracks together. The mixer window can be rearranged to another part of the screen or floated.
+* Right-click the track to get a contextual menu with more options for each track. 
 
----
-# Tempo
+<video src="context-menu.mov" loop autoplay muted controls width=725>
 
-The bpm of the project can be changed from the tempo menu on the bottom right of the screen (the transport). If we want to play back slower while also adjusting pitch we cna do that with the rate knob.
-
----
-# Track views
-
-Adjust the track heights or widths with your mouse.
-
----
-# Transport
-
-The transport can be hidden if you need more room for your tracks.
 
 
 ---
-# Themes
 
-Change the way Reaper looks with themes
+* Open the mixer pane. 
+* The mixer window can be rearranged to another part of the screen or floated.
+  
+<video src="mixer-move.mov" loop autoplay muted controls width=725>
+
 
 ---
-# Actions
 
-Control pretty much anything in Reaper with Actions. View the actions menu (shift + ?)
+* Change the bpm of the project from the tempo menu on the bottom right of the screen (the transport). 
+
+<video src="tempo.mov" loop autoplay muted controls width=725>
+
+
+
+---
+
+* Adjust the track heights or widths.
+
+<video src="track-height.mov" loop autoplay muted controls width=725>
+
+---
+
+<iframe src="https://blog.landr.com/10-best-reaper-themes/" width=900 height=900></iframe>
+
+---
+
+* Control pretty much anything in Reaper with Actions. View the actions menu (shift + ?)
+
+<video src="actions.mov" loop autoplay muted controls width=725>
