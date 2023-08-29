@@ -41,24 +41,20 @@ author: ""
 - [Introduction to Reaper](../lectures/week-1/reaper-intro/)
 
 ## Wednesday
-- [Introduction to Reaper](../lectures/week-1/reaper-intro/#/8) - continue with intro
+- [Introduction to Reaper](../lectures/week-1/reaper-intro/#/8) - Continue with intro
 - [Saving and exporting](../lectures/week-2/this-is-reaper-2/)
 - Introduce [Project 1: Arranging Clips](../projects/project-1/)
   - Find loops and preview them - [Looper Man](https://www.looperman.com) - show the different features of this website
   - Find drums, percussion, chords and acapellas
 
-> [Project 1: Arranging Clips](../projects/project-1/) (Due Friday)
+> [Project 1: Arranging Clips](../projects/project-1/) (Due Friday Midnight)
 
-<!-- 
 ## Friday
 
-- Questions about project?
+- Work on the project in class
+- Listen to favorite songs 
 
-**Recording Techniques**
-
-- [Audio Hardware slides](../lectures/week-2/audio-hardware/)
-
-> Project 1 Due
+<!-- 
 
 # Week 3 (9/4)
 
@@ -68,6 +64,8 @@ Labor Day - No Class
 
 ## Wednesday
 
+
+- [Audio Hardware slides](../lectures/week-2/audio-hardware/)
 - Projects are graded - make sure you follow the directions [here](../lectures/week-2/this-is-reaper-2/) to export and render your project. You have one week to resubmit the project for credit.
 - Look at [Top Design Firms](https://topdesignfirms.com/advertising-agencies/blog/radio-ad-script) article about radio ad script writing.
 - [Ad examples](https://www.youtube.com/watch?v=8brtU4JMTUU) - how do these ads conform the the article we just read?
