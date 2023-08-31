@@ -51,6 +51,7 @@ author: ""
 
 ## Friday
 
+- Show a basic version of the loops project
 - Work on the project in class
 - Listen to favorite songs 
 
