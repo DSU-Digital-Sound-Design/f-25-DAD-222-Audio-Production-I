@@ -55,7 +55,6 @@ author: ""
 - Work on the project in class
 - Listen to favorite songs 
 
-<!-- 
 
 # Week 3 (9/4)
 
@@ -65,17 +64,19 @@ Labor Day - No Class
 
 ## Wednesday
 
-
+- Listen to loops projects 
 - [Audio Hardware slides](../lectures/week-2/audio-hardware/)
+
+<!-- 
+
+## Friday
+
 - Projects are graded - make sure you follow the directions [here](../lectures/week-2/this-is-reaper-2/) to export and render your project. You have one week to resubmit the project for credit.
 - Look at [Top Design Firms](https://topdesignfirms.com/advertising-agencies/blog/radio-ad-script) article about radio ad script writing.
 - [Ad examples](https://www.youtube.com/watch?v=8brtU4JMTUU) - how do these ads conform the the article we just read?
 - Spend the rest of class writing your script.
 
 > [Project 2: Unreliable Product Ad](../projects/project-2-ad/) - DUE 9/16
-
-## Friday
-
 - [Reaper Recording](../lectures/week-3/reaper-recording/)
 - Studio tour
   - [Microphones presentation](https://docs.google.com/presentation/d/130uChoUPV370sMNJEc02n41QXdygYUO5zVqAWKoa900/present#slide=id.p1)
