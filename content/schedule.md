@@ -64,6 +64,7 @@ Labor Day - No Class
 
 ## Wednesday
 
+- Your favorite sounds were great! There's so much variety. 
 - Listen to loops projects 
 - [Audio Hardware slides](../lectures/week-2/audio-hardware/)
 
