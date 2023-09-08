@@ -77,31 +77,25 @@ Labor Day - No Class
   - Finish: [Audio Hardware slides](../lectures/week-2/audio-hardware/#/4)
   - Studio tour
     - [Microphones presentation](https://docs.google.com/presentation/d/130uChoUPV370sMNJEc02n41QXdygYUO5zVqAWKoa900/present#slide=id.p1)
-    - [Reaper Recording](../lectures/week-3/reaper-recording/)
-      - One student dialogue demo 
     - [Studio Documentation](https://sites.google.com/view/charmstudios/studio-documentation)
     - Book your time in the studio to record your projects
 
 > [Project 2: Unreliable Product Ad](../projects/project-2-ad/) - DUE 9/15 by class time 
 > Have your script by Monday 
 
-<!-- 
 
 # Week 4 (9/11)
 
 ## Monday
 
-- Record during class time if you haven't booked time yet.
+- [Reaper Recording](../lectures/week-3/reaper-recording/)
+  - One student dialogue demo 
 - Editing
   - Each student must edit their own commercial.
   - More tips for editing in Reaper
     - [Editing](../lectures/week-4/editing/)
-  - Eliminate empty space between lines to get the "fast talking" effect of a radio ad.
-  - Demonstrate zooming into the waveform to more easily see silences.
-  - ripple editing
-  - Add fades between edits if they're not automatically there.
-  - condense your ad to be 30 seconds long.
 
+<!-- 
 ## Wednesday
 
 - [Digital Audio](../lectures/week-4/digital-audio-data/)
