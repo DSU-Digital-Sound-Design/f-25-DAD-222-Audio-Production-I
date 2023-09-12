@@ -95,21 +95,19 @@ Labor Day - No Class
   - More tips for editing in Reaper
     - [Editing](../lectures/week-4/editing/)
 
-<!-- 
 ## Wednesday
 
 - [Digital Audio](../lectures/week-4/digital-audio-data/)
-- More recording in class if necessary
-- Reminder about razor editing with ripple mode - very useful for cutting out silence and speeding up dialogue
-- Create two folders for your sound effects and music. This way you can have control over the mix of your dialogue, sfx, and music independently.
+- More recording in class, if necessary
 - Sound Effects + music beds
   - [Finding sound effects](../lectures/week-4/sound-effects/)
-  - Listen back to the ads from a few classes ago, what types of sound effects do they use?
+  - Listen back to the ads from a few classes ago; what types of sound effects do they use?
   - Examples could be transition impacts or swooshes between character lines. Some scripts will have specific needs for effects that illustrate locations or products, like chirping birds for outdoor settings.
   - Add sound effects to separate tracks
-  - make sure your music and dialogue work well together, listen to the examples for how the dialogue is timed to the music
-- mixing - background music should be much quieter than dialogue, around -30 dB is a good start.
+- Make sure your music and dialogue work well together
+- Mixing -- background music should be much quieter than dialogue; around -30 dB is a good start.
 
+<!-- 
 ## Friday
 
 - Listen to the ads in class

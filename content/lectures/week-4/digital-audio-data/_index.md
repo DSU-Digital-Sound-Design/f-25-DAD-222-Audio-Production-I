@@ -11,9 +11,9 @@ theme = "solarized"
 ![](digital.png)
 
 {{% note %}}
-What happens in the ADC and DAC? This is the process of digitization. Analog and digital signals are totally different ways of representing sound. 
+What happens in the ADC and DAC? The process of digitization. Analog and digital signals are different ways of representing sound. 
 
-We can think of digital like a light switch, its either on or off, where analog is a continuous signal without discrete states. 
+We can think of digital as a light switch, on or off, whereas analog is a continuous signal without discrete states. 
 
 {{%/note %}}
 
@@ -24,11 +24,11 @@ We can think of digital like a light switch, its either on or off, where analog 
 ![](sampling.png)
 
 {{% note %}}
-* To convert a continuous analog signal into a series of numbers the ADC takes samples of the acoustic signal 
-* we measure the amplitude of the incoming waveform some amount of time per second; this is a frequency so is measured in Hertz; similarly to cycles per second of a tone 
-* this frequency of sampling is known as the sampling rate
-* quantization is the process of assigning an amplitude to the sample
-* sample resolution is the number of amplitude values available to the ADC
+* To convert a continuous analog signal into a series of numbers, the ADC takes samples of the acoustic signal 
+* We measure the amplitude of the incoming waveform some amount of time per second measured in Hertz
+* The frequency of sampling is known as the sampling rate 
+* Quantization is the process of assigning an amplitude to the sample
+* Sample resolution (Bit Depth) is the number of amplitude values available to the ADC
 
 {{/note %}}
 
@@ -40,29 +40,32 @@ We can think of digital like a light switch, its either on or off, where analog 
 <!-- ![](cd.jpg) -->
 
 {{% note %}}
-CD-quality audio is 44.1 kHz, this is the most common sampling rate. What this means is that the ACD measures the amplitude of the incoming waveform 44,100 times per second for each audio channel.
+CD-quality audio is 44.1 kHz, the most common sampling rate. The ACD measures the amplitude of the incoming waveform 44,100 times per second for each audio channel.
 
-We have to remember that this process of sampling is always ignoring data coming in, but it is ok because 44.1 K is high enough to capture the most important information in the audio signal.
+We must remember that this sampling process always ignores some data coming in, but 44.1 kHz/second is high enough to capture the most critical information in the audio signal.
 
 {{/note %}}
 
 ---
 
-## Nyquist Frenquency
+## Nyquist Frequency
 
-Nyquist frequency = 1⁄2 × Sampling rate
+Nyquist Frequency (fN) = Sampling Rate / 2
 
-Nyquist frequency = 1⁄2 × 44,100 Hz = 22,050 Hz = 22.05 kHz
+fN = 44,100 / 2 = 22,050 Hz
 
 {{% note %}}
-We can't represent frequencies higher than one half of the sampling rate. This frequency cutoff is called the Nyquist frequency. Here we can see the sampling theorem, developed by Harry Nyquist.
+The Nyquist frequency is defined as half of the sampling rate (Nyquist rate = 1/2 * Sampling Rate). In mathematical terms:
 
-These frequencies are actually filtered out of the signal in the recording process. This is OK because the frequencies we have lost are out of our range of hearing. 
+Nyquist Frequency (fN) = Sampling Rate / 2
 
-Higher sampling rates are often used during recording to reduce the noise in the signal. They are later downsampled to 44.1kHz. 
+For example, if you are sampling an analog signal at a rate of 44.1 kHz (44,100 samples per second), the Nyquist frequency for that sampling rate would be:
 
-* 48 kHz is common for DVD format
-  
+fN = 44,100 / 2 = 22,050 Hz
+
+In this case, the Nyquist frequency is 22,050 Hz, which means that the highest frequency component that can be accurately represented in the digital signal is 22,050 Hz. This is why the standard sampling rate for audio CDs is 44.1 kHz, as it can accurately represent audio signals up to approximately 22 kHz, covering the entire range of human hearing.
+
+Sampling at or above the Nyquist rate is essential to avoid aliasing, which is a phenomenon where higher-frequency components in the analog signal are incorrectly represented as lower-frequency components in the digital signal. In practice, it's common to sample at rates significantly higher than the Nyquist rate to ensure accurate representation of audio and other analog signals.
 
 {{/note %}}
 
@@ -79,8 +82,6 @@ Higher sampling rates are often used during recording to reduce the noise in the
 
 Higher sampling rates are often used during recording to reduce the noise in the signal. They are later downsampled to 44.1kHz. 
 
-Some people think that recording at higher sampling rates is a waste of time. Its a  bit of an argument in the field of audio.
-
 {{/note %}}
 
 ---
@@ -91,9 +92,9 @@ Some people think that recording at higher sampling rates is a waste of time. It
 
 {{% note %}}
 
-Now lets focus on the y axis, which is the amplitude of the signal.
+Now let's focus on the y-axis, the signal's amplitude.
 
-The ADC measures the incoming analog electrical waveform 44,100 times per second, or more for higher sampling rates. Each time the ADC performs this measurement, it must assign a numerical value to that sample’s amplitude. This assignment of a specific value to the measured amplitude is referred to as quantizing. Don't get this quantizing confused with quantizing of MIDI data.
+The ADC measures the incoming analog electrical waveform 44,100 times per second, or more for higher sampling rates. Each time the ADC performs this measurement, it must assign a numerical value to that sample’s amplitude. This assignment of a specific value to the measured amplitude is called quantizing. Don't get this quantizing confused with quantizing of MIDI data.
 
 This is also known as bit depth, not to be confused with "bit rate", which we will talk about at another time. 
 
@@ -107,9 +108,7 @@ This is also known as bit depth, not to be confused with "bit rate", which we wi
 
 {{% note %}}
 
-16 bits is CD quality audio.
-
-24 bits is common when recording. Higher bit depths are used to allow for a greater dynamic range. 
+* Common bit depths include 16-bit (65,536 discrete levels), 24-bit (16,777,216 discrete levels), and 32-bit (4,294,967,296 discrete levels).
 
 {{/note %}}
 
@@ -117,11 +116,9 @@ This is also known as bit depth, not to be confused with "bit rate", which we wi
 
 ## Digital Audio File Formats
 
-* Compressed
-   * AIFF - .aiff
-   * WAVE - .wav
-   * Apple's core audio format - .caf
-
+* Lossless audio formats 
+    * WAV (Waveform Audio File Format)
+    * AIFF (Audio Interchange File Format)
 
 {{% note %}}
 
@@ -134,25 +131,15 @@ In uncompressed file formats, digital audio is stored as a series of 16- or 24-b
 
 ---
 
-## 44.1 kHz, 16-bit, stereo
-
-44,100 samples/second × 2 bytes/sample = 88,200 bytes/second ≈ 90 kB/second 
-
-90 kB/second × 60 seconds/minute = 5,400 kB/minute ≈ 5 MB/minute
-
-5 MB/minute × 2 channels (left and right) = 10 MB/minute
-
----
-
 ## Compressed 
 
-* Lossless
-   * mp4
-   * Ogg 
-   * Free Lossless Audio Codec -  .flac 
-* Lossy 
-    *  mp3
-    *  mp4 with AAC 
+* MP3 (MPEG-1 Audio Layer 3)
+* AAC (Advanced Audio Coding)
+* OGG Vorbis
+* WMA (Windows Media Audio)
+* Opus
+* M4A (MPEG-4 Audio)
+* FLAC (Free Lossless Audio Codec)
 
 {{% note %}}
 Lossless compression reduces the size of audio files in such a way that the original data can be perfectly recovered. An example of lossless compression from the non-audio world is the .zip file, in which all the data from the zipped files can be fully recovered.
