@@ -86,22 +86,18 @@ Labor Day - No Class
 
 # Week 4 (9/11)
 
+
 ## Monday
 
 - [Reaper Recording](../lectures/week-3/reaper-recording/)
   - One student dialogue demo 
-- Editing
-  - Each student must edit their own commercial.
-  - More tips for editing in Reaper
-    - [Editing](../lectures/week-4/editing/)
 
 ## Wednesday
 
 - [Digital Audio](../lectures/week-4/digital-audio-data/)
-- More recording in class, if necessary
+- [Editing](../lectures/week-4/editing/) - dialogue 
 - Sound Effects + music beds
   - [Finding sound effects](../lectures/week-4/sound-effects/)
-  - Listen back to the ads from a few classes ago; what types of sound effects do they use?
   - Examples could be transition impacts or swooshes between character lines. Some scripts will have specific needs for effects that illustrate locations or products, like chirping birds for outdoor settings.
   - Add sound effects to separate tracks
 - Make sure your music and dialogue work well together
