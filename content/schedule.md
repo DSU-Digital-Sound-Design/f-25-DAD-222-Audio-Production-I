@@ -91,7 +91,7 @@ Labor Day - No Class
 - [Reaper Recording](../lectures/week-3/reaper-recording/)
   - One student dialogue demo 
 - Editing
-  - Each student must edit their own commercial.
+  - Each student must edit their commercial.
   - More tips for editing in Reaper
     - [Editing](../lectures/week-4/editing/)
 
@@ -101,20 +101,21 @@ Labor Day - No Class
 - More recording in class, if necessary
 - Sound Effects + music beds
   - [Finding sound effects](../lectures/week-4/sound-effects/)
-  - Listen back to the ads from a few classes ago; what types of sound effects do they use?
+  - Listen again to the ads from a few classes ago; what sound effects do they use?
   - Examples could be transition impacts or swooshes between character lines. Some scripts will have specific needs for effects that illustrate locations or products, like chirping birds for outdoor settings.
   - Add sound effects to separate tracks
 - Make sure your music and dialogue work well together
 - Mixing -- background music should be much quieter than dialogue; around -30 dB is a good start.
 
-<!-- 
 ## Friday
 
 - Listen to the ads in class
-- Catch up time for any behind students
+- More recording and in-class work, if necessary 
+- Time permitting, finally listening to your favorite songs! 
 
 > Project 2: Unreliable Product Ad DUE
 
+<!-- 
 # Week 5 (9/18)
 
 ## Monday
