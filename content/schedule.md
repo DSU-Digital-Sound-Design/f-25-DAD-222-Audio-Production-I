@@ -116,13 +116,13 @@ Labor Day - No Class
 
 > Project 2: Unreliable Product Ad DUE
 
-<!-- 
 # Week 5 (9/18)
 
 ## Monday
 
 - [FX Roulette game](../lectures/week-5/fx-roulette/)
 
+<!-- 
 ## Wednesday
 
 - [Reaper FX Guide](https://www.reaper.fm/guides/REAPEREffectsGuide2021.pdf) - EQ Section
