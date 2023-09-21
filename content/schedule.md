@@ -126,21 +126,13 @@ Labor Day - No Class
 
 - [Equalization](../lectures/week-5/eq/)
 - ReaEQ Guide - [Up and Running: A REAPER User Guide](https://dlz.reaper.fm/userguide/REAPEREffectsGuide2021.pdf#page=17)
-- Do this basic music mix - [download](https://mtkdata.cambridgemusictechnology.co.uk/MTK005/cfx_Mathematician.zip)
-  - set the levels so that nothing is clipping and everything can be heard easily
-  - find the tracks that still can't be heard, what other tracks are masking those?
-  - Add an equalizer to the masking track to try to "carve" out a space for the other track to be heard
-  - i'll do a mix in class and you try to recreate it as closely as you can
 
-<!-- 
 ## Friday
 
-- Continue with mix from Wednesday
-  - Build mix with volume levels
-  - add EQ to help with masking
+- Exploring EQ on a multitrack recording - [instructions](../lectures/week-5/eq-multitrack/)
 
-> Turn in what you did today to D2L
 
+<!-- 
 # Week 6 (9/25)
 
 ## Monday
