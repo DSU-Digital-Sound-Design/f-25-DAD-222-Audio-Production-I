@@ -132,15 +132,15 @@ Labor Day - No Class
 - Exploring EQ on a multitrack recording - [instructions](../lectures/week-5/eq-multitrack/)
 
 
-<!-- 
 # Week 6 (9/25)
 
 ## Monday
 
 - Dynamics effects
-  - [ReaComp](../lectures/week-5/reacomp/), ReaXComp, ReaLimit, ReaGate
+  - [ReaComp](../lectures/week-5/compression/), ReaXComp, ReaLimit, ReaGate
   - What elements in our mix are still not sitting correctly that could use compression?
 
+<!-- 
 ## Wednesday
 
 **Time based effects**
