@@ -13,6 +13,7 @@ We have learned some basics of electronic sound production with our discussion o
 
 **Synthesis** refers to any method that generates sound “from the ground up” according to some recipe, or algorithm. For example, to re-create the sound of a trumpet using a synthesis method, you could use software that adds together simple sine waves whose frequencies, amplitudes, and phases match the partials that are present in a trumpet sound. This particular method is referred to as additive synthesis and will be discussed in more detail in the next chapter along with a variety of other synthesis methods.
 
+{{%/ note %}}
 ---
 
 ## Analog Days: Synthesizers in the 1960s and 1970s
@@ -31,6 +32,7 @@ We have learned some basics of electronic sound production with our discussion o
   - oscillators, filters, and amplifiers were separate modules.
 - voltage controlled
   - keyboards, joysticks, and ribbon controllers were used to send control voltages to the modules to change their settings.
+{{%/ note %}}
 
 ---
 
@@ -70,6 +72,7 @@ articulation).
 In our DAWs we perform not actual analogue synthesis, but analogue modeling synthesis.
 
 The v stands for voltage control, which harkens back to when these modules were actually controlled by electrical voltage.
+{{%/ note %}}
 
 ---
 
@@ -87,6 +90,7 @@ The v stands for voltage control, which harkens back to when these modules were 
 Oscillator - generate a waveform at a particular frequency. They take one cycle of a waveform and repeat it at a rate determined by the MIDI key number.
 
 This is called fixed waveform or wavetable synthesis. Used alone it is the most simple form of synthesis.
+{{%/ note %}}
 
 ---
 
@@ -96,6 +100,7 @@ This is called fixed waveform or wavetable synthesis. Used alone it is the most 
 
 {{% note %}}
 An important source for timbre is noise. It is often used for percussive synthesis. When filtered it can also be used for wind sounds and rising effects in EDM.
+{{%/ note %}}
 
 ---
 
@@ -122,6 +127,7 @@ The **cutoff frequency** of the filter determines where in the spectrum the part
 
 {{% note %}}
 The third part in our synthesis chain is the amplifier. Instead of just turning the oscillator on and off we shape it with an amplitude envelope.
+{{%/ note %}}
 
 ---
 
@@ -142,6 +148,7 @@ ADSR - attack time, decay time, sustain level, release time
 - sustain - the level of amplitude that the envelope will hold after the decay phase.
   - this last as long as the note is held.
 - release - after a note off message - the time it takes for the amplitude to reach its minimum value.
+{{%/ note %}}
 
 ---
 
