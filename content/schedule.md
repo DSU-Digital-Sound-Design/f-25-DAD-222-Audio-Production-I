@@ -140,13 +140,13 @@ Labor Day - No Class
   - [ReaComp](../lectures/week-5/compression/), ReaXComp, ReaLimit, ReaGate
   - What elements in our mix are still not sitting correctly that could use compression?
 
-<!-- 
 ## Wednesday
 
 **Time based effects**
 
 - [Delay, Chorus, and Flange](../lectures/week-6/delay/)
 
+<!-- 
 ## Friday
 
 - [Reverb](../lectures/week-6/reverb/)
