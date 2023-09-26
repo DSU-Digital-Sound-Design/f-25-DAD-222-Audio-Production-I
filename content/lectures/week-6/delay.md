@@ -34,13 +34,9 @@ Here are some example songs that showcase different delay effects:
 
 We'll use three different types of sounds to experiment with our delays.
 
-Find the following sounds from [Mike's free multitrack library](https://cambridge-mt.com/ms/mtk/). Get sounds from different projects.
+Download the practice tracks [here](../delay-files.zip). 
 
-- simple percussion loop with only one instrument
-- guitar chord or melody loop
-- An a capella vocal
-
-Add these to your project as separate tracks.
+Add these to your project as separate tracks. Solo each of them individually to listen. They are not meant to be played together. 
 
 Now, create three more tracks that will be your delay sends. Name these tracks "short delay", "medium delay", and "long delay". These will not have audio on them directly. We will send audio from our other tracks to these tracks. We do this so that multiple tracks can share the same delay.
 
