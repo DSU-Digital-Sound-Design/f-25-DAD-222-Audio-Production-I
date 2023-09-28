@@ -146,11 +146,11 @@ Labor Day - No Class
 
 - [Delay, Chorus, and Flange](../lectures/week-6/delay/)
 
-<!-- 
 ## Friday
 
 - [Reverb](../lectures/week-6/reverb/)
 
+<!-- 
 # Week 7 (10/2)
 
 ## Monday

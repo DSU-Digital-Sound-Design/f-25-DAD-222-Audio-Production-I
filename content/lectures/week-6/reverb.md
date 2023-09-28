@@ -7,10 +7,19 @@ title: "Mixing with reverb"
 What is reverb used for? It can enhance these elements:
 
 - Blend
+  - Jimmy Page used a spring reverb to help the solo blend in with the rest of the song.
+  - <iframe width="560" height="75" src="https://www.youtube.com/embed/QkF3oxziUI4?si=5HJuYhExAy0a5QEL&amp;start=353" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 - Size
+  - On the strings in the song "A Day in the Life" by The Beatles, George Martin used a large amount of reverb to create the illusion of a symphony orchestra playing in a concert hall.<iframe width="560" height="75" src="https://www.youtube.com/embed/usNsCeOV4GM?si=c1ZvTXPjElePlG4u&amp;start=167" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 - Tone
+  - Reverb on the vocals changing the tone
+  - <iframe width="560" height="75" src="https://www.youtube.com/embed/CKTOvHw8qFM?si=HrEZlhPowoJjPhyc&amp;start=167" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 - Sustain
+  - reverb sustains the vocals:
+  - <iframe width="560" height="75" src="https://www.youtube.com/embed/4NRXx6U8ABQ?si=vIxpBWlNYGaTsBMd&amp;start=167" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 - Spread
+  - Reverb spreads the snaps and vocals (in the chorus)
+  - <iframe width="560" height="75" src="https://www.youtube.com/embed/fWNaR-rxAic?si=M_aKnvjvDWzBnQGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Now we mostly use plugins for reverb, but reverb has a history before digital effects. Some of the ways engineers used to generate reverb were: chambers, plates and springs.
 
@@ -26,7 +35,7 @@ Now we mostly use plugins for reverb, but reverb has a history before digital ef
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y58nroQ0DMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Reaper stock plugins:
+# Reaper stock plugins:
 
 - ReaVerb
 - ReaVerberate
