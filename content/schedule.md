@@ -150,15 +150,14 @@ Labor Day - No Class
 
 - [Reverb](../lectures/week-6/reverb/)
 
-<!-- 
 # Week 7 (10/2)
 
 ## Monday
 
 - Putting together all we've learned to make a simple mix
-  - Listen to the finished mix
-  - [In class mixing assignment](../projects/project-3-mix/) - Due by Wednesday
+- [In class mixing assignment](../projects/project-3-mix/) - Due by Friday
 
+<!-- 
 ## Wednesday
 
 **Sampling + MIDI**
