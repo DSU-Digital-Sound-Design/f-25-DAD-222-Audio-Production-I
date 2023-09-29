@@ -120,8 +120,6 @@ You'll follow the steps below to complete your own mix for this song.
 - Delays on vocals can make them sound bigger without pushing them back in the mix
 - Delays on chord instruments can sound great as well. Try using rhythmic delays to get an interesting movement to your mix.
 
-Certainly, here are step-by-step instructions for applying delays using the Reaper DAW:
-
 **1. Add Three Delay Sends with Different Lengths:**
    - Create three separate tracks to act as your delay sends. Label them accordingly for clarity.
 
