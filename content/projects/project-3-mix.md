@@ -160,8 +160,6 @@ Certainly, here are step-by-step instructions for applying delays using the Reap
 - Use at least two reverb sends. 
 - Follow the same guidelines to setup the sends as with the delay effects. 
 
-You're right, my initial scoring distribution was incorrect. Here is the rubric with a corrected points system:
-
 ### Mixing Project Rubric 
 
 | Criteria               | Exceeds Expectations (4 pts)                                                                    | Meets Expectations (3 pts)                                | Needs Improvement (2 pts)                                           | Incomplete (0-1 pt)                 |
