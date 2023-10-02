@@ -13,39 +13,39 @@ You'll follow the steps below to complete your own mix for this song.
 
 ## Organization
 
-1. **Set Your Project Tempo to 96 BPM:** 
+**1. Set Your Project Tempo to 96 BPM:** 
    - Locate the tempo settings in the bottom right hand corner of Reaper.
    - Change the tempo to 96 beats per minute (BPM). This helps you align recordings accurately with your project timeline.
 
-2. **Order Your Tracks Numerically:**
+**2. Order Your Tracks Numerically:**
    - Start with `01_Kick` and continue from there. 
 
-3. **Group the Tracks by Type:**
+**3. Group the Tracks by Type:**
    - Create three groups for your tracks: "Drums," "Chords," and "Vocals."
    - To assign tracks to these groups, simply drag and drop them into the appropriate group.
 
-4. **Color-Code Each Group:**
+**4. Color-Code Each Group:**
    - Assign a unique color to each of the three groups: one color for "Drums," another for "Chords," and a third for "Vocals."
 
 ## Build a mix
 
 > Tip: to get more fine grained control over parameters press command (control) + drag.
 
-1. **Initialize the Mix:**
+**1. Initialize the Mix:**
    - Start with all faders set to "-inf dB" (infinity decibels), which effectively mutes all tracks.
 
-2. **Set Time Selection and Repeat:**
+**2. Set Time Selection and Repeat:**
    - Set your time selection to cover the entire duration from the start to the end of measure 8 in your project.
    - Enable the "toggle repeat" function (looping) for this time selection. This ensures that the same section will play repeatedly as you work on it.
 
-3. **Determine Element Order:**
+**3. Determine Element Order:**
    - Decide the order of importance for bringing in elements. Commonly, you might start with foundational elements like drums or bass and gradually introduce other instruments, vocals, or effects. The choice depends on your specific project and musical style.
 
-4. **Bring in Elements:**
+**4. Bring in Elements:**
    - Gradually increase the fader levels for each element according to the order of importance you decided in step 3.
    - As you bring in each element, keep an eye on the meters in your software to ensure that you're not clipping. Ideally, aim to peak at around -3 to -6 dB to leave headroom for additional processing and prevent distortion.
 
-5. **Monitor and Adjust Levels:**
+**5. Monitor and Adjust Levels:**
    - Continuously monitor the meters as you add more elements to the mix.
    - If you notice any tracks peaking above your target range of -3 to -6 dB, reduce their levels using their respective faders. This helps prevent clipping and maintains a balanced mix.
 
