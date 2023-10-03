@@ -157,8 +157,14 @@ Labor Day - No Class
 - Putting together all we've learned to make a simple mix
 - [In class mixing assignment](../projects/project-3-mix/) - Due by Friday
 
-<!-- 
 ## Wednesday
+
+- More work on the [In class mixing assignment](../projects/project-3-mix/) 
+  - Listening to your balances 
+  - Showing how to implement the rest of the requirements: EQ, compression, delay, and reverb. 
+
+<!-- 
+## Friday
 
 **Sampling + MIDI**
 
@@ -166,9 +172,6 @@ Labor Day - No Class
 - [How sampling transformed music | Mark Ronson](https://www.youtube.com/watch?v=H3TF-hI7zKc)
 - [Who Sampled](http://whosampled.com) - covers and sampling
   - In-class project: based on who sampled, find three of your favorite sampling uses from who sampled. Why do you like them? Please describe how the artist used the sample and what it was about the original recording that made the artist want to use it. We'll have a few people present at the end of class.
-
-## Friday
-
 - [MIDI History](../lectures/week-7/midi-history/) - some history on the problem MIDI was invented to solve.
 
 # Week 8 (10/9)
