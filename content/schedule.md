@@ -163,17 +163,16 @@ Labor Day - No Class
   - Listening to your balances 
   - Showing how to implement the rest of the requirements: EQ, compression, delay, and reverb. 
 
-<!-- 
 ## Friday
 
 **Sampling + MIDI**
 
 - Any questions about the mix project?
-- [How sampling transformed music | Mark Ronson](https://www.youtube.com/watch?v=H3TF-hI7zKc)
+- [Sampling History](../lectures/week-7/sampling-history/)
 - [Who Sampled](http://whosampled.com) - covers and sampling
   - In-class project: based on who sampled, find three of your favorite sampling uses from who sampled. Why do you like them? Please describe how the artist used the sample and what it was about the original recording that made the artist want to use it. We'll have a few people present at the end of class.
-- [MIDI History](../lectures/week-7/midi-history/) - some history on the problem MIDI was invented to solve.
 
+<!-- 
 # Week 8 (10/9)
 
 ## Monday
@@ -183,6 +182,7 @@ Labor Day - No Class
 ## Wednesday
 
 - Grades returned - make sure you are following directions. Ask questions if you don't understand.
+- [MIDI History](../lectures/week-7/midi-history/) - some history on the problem MIDI was invented to solve.
 - [MIDI Intro](../lectures/week-7/midi-intro/)
 
 ## Friday
