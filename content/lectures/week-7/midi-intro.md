@@ -1,6 +1,39 @@
 ---
 title: "Midi Intro in Reaper"
 ---
+# Midi Intro in Reaper
+
+## Setup
+
+1. Insert a new track and select "Insert virtual instrument on new track" when prompted. This will create a track with MIDI as the input.
+2. If using a MIDI keyboard, plug it in and enable it in Reaper's preferences under MIDI Devices. The keyboard will now show up as a MIDI input for your tracks.
+3. If no MIDI keyboard, use Reaper's Virtual MIDI Keyboard under View -> Virtual MIDI Keyboard. This allows you to trigger MIDI notes from your computer keyboard.
+4. Look for yellow meters on the track input to verify MIDI input is working.
+
+## ReaSamplOmatic5000
+
+> Download these samples to use for this example.
+>
+> * [drums](../samples/drums.wav), [bass](../samples/bass.wav)
+
+1. Add ReaSamplOmatic5000 to the new track. This is Reaper's default sampler plugin.
+2. Download the provided samples and drag the bass sample onto the ReaSamplomatic plugin.
+3. Play notes on the MIDI keyboard and the sample will trigger.
+4. Switch the sampler to Note (Semitone shifted) mode to pitch shift the sample with different notes.
+5. Record a MIDI loop using the Record Arm button. Double click the MIDI item to open the MIDI editor.
+6. In the editor, notes can be edited by dragging. Create new notes with the Pencil tool.
+
+## Quantization
+
+1. Click the Q button to quantize the recording. Adjust settings to taste.
+2. Commit the changes to make quantization permanent if it sounds good.
+3. Try different grid sizes like triplet or swing for creative results.
+
+## Adding more tracks
+
+1. Add another track with ReaSamplomatic5000 for drums.
+2. Add each drum sample to a different note by setting Note Start and End knobs.
+3. Use MIDI Overdub recording mode to build up drum pattern over multiple passes.
 
 ## Setup
 
@@ -15,8 +48,6 @@ You can see that it is working if you can see yellow meters on your track. This 
 ## ReaSamplOmatic5000
 
 _ReaSamplOmatic5000_ is the default sampler in Reaper. It plays one sample at a time and is perfect for learning how MIDI and sampling work. Add an instance to your track.
-
-> Download these [samples](https://dakotastateuniversity-my.sharepoint.com/:u:/g/personal/tate_carson_dsu_edu/EWOvi1UXOD9Bg3vmW-a6GY0BBZMIGLCl8kdHBATbTnt2Gg?e=pGiHQc) to use for this example.
 
 Drag and drop the bass pluck sample into the empty file window of the sampler. Now we can play any note on our keyboard and it will play the sample.
 

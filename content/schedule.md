@@ -20,14 +20,13 @@ author: ""
   
 ## Wednesday
 
-- Listen to the **last song** playlist 
+- Listen to the **last song** playlist
 - Your **favorite song** is due Friday
 - The pre-test results were promising. You know a few things already.
   - If you haven't completed this, let's spend a few minutes and do it in class.
-  - Any questions about this? 
+  - Any questions about this?
 - Finish [Intro to Music Technology](../lectures/week-1/intro-to-music-tech-slides/) slides
 - [Sound and hearing](../lectures/week-1/sound-and-hearing/) slides
-
 
 ## Friday
 
@@ -41,6 +40,7 @@ author: ""
 - [Introduction to Reaper](../lectures/week-1/reaper-intro/)
 
 ## Wednesday
+
 - [Introduction to Reaper](../lectures/week-1/reaper-intro/#/8) - Continue with intro
 - [Saving and exporting](../lectures/week-2/this-is-reaper-2/)
 - Introduce [Project 1: Arranging Clips](../projects/project-1/)
@@ -53,8 +53,7 @@ author: ""
 
 - Show a basic version of the loops project
 - Work on the project in class
-- Listen to favorite songs 
-
+- Listen to favorite songs
 
 # Week 3 (9/4)
 
@@ -64,14 +63,13 @@ Labor Day - No Class
 
 ## Wednesday
 
-- Your favorite sounds were great! There's so much variety. 
-- Listen to loops projects 
+- Your favorite sounds were great! There's so much variety.
+- Listen to loops projects
 - [Audio Hardware slides](../lectures/week-2/audio-hardware/)
-
 
 ## Friday
 
-- Project grades are in 
+- Project grades are in
   - Follow the directions [here](../lectures/week-2/this-is-reaper-2/) to export and render your project. You have one week to resubmit for credit.
 - **Move to the studio**
   - Finish: [Audio Hardware slides](../lectures/week-2/audio-hardware/#/4)
@@ -80,17 +78,15 @@ Labor Day - No Class
     - [Studio Documentation](https://sites.google.com/view/charmstudios/studio-documentation)
     - Book your time in the studio to record your projects
 
-> [Project 2: Unreliable Product Ad](../projects/project-2-ad/) - DUE 9/15 by class time 
-> Have your script by Monday 
-
+> [Project 2: Unreliable Product Ad](../projects/project-2-ad/) - DUE 9/15 by class time
+> Have your script by Monday
 
 # Week 4 (9/11)
-
 
 ## Monday
 
 - [Reaper Recording](../lectures/week-3/reaper-recording/)
-  - One student dialogue demo 
+  - One student dialogue demo
 - Editing
   - Each student must edit their own commercial.
   - More tips for editing in Reaper
@@ -99,7 +95,7 @@ Labor Day - No Class
 ## Wednesday
 
 - [Digital Audio](../lectures/week-4/digital-audio-data/)
-- [Editing](../lectures/week-4/editing/) - dialogue 
+- [Editing](../lectures/week-4/editing/) - dialogue
 - Sound Effects + music beds
   - [Finding sound effects](../lectures/week-4/sound-effects/)
   - Listen back to the ads from a few classes ago; what types of sound effects do they use?
@@ -111,8 +107,8 @@ Labor Day - No Class
 ## Friday
 
 - Listen to the ads in class
-- More recording and in-class work, if necessary 
-- Time permitting, finally listening to your favorite songs! 
+- More recording and in-class work, if necessary
+- Time permitting, finally listening to your favorite songs!
 
 > Project 2: Unreliable Product Ad DUE
 
@@ -130,7 +126,6 @@ Labor Day - No Class
 ## Friday
 
 - Exploring EQ on a multitrack recording - [instructions](../lectures/week-5/eq-multitrack/)
-
 
 # Week 6 (9/25)
 
@@ -159,9 +154,9 @@ Labor Day - No Class
 
 ## Wednesday
 
-- More work on the [In class mixing assignment](../projects/project-3-mix/) 
-  - Listening to your balances 
-  - Showing how to implement the rest of the requirements: EQ, compression, delay, and reverb. 
+- More work on the [In class mixing assignment](../projects/project-3-mix/)
+  - Listening to your balances
+  - Showing how to implement the rest of the requirements: EQ, compression, delay, and reverb.
 
 ## Friday
 
@@ -172,7 +167,6 @@ Labor Day - No Class
 - [Who Sampled](http://whosampled.com) - covers and sampling
   - In-class project: based on who sampled, find three of your favorite sampling uses from who sampled. Why do you like them? Please describe how the artist used the sample and what it was about the original recording that made the artist want to use it. We'll have a few people present at the end of class.
 
-<!-- 
 # Week 8 (10/9)
 
 ## Monday
@@ -181,12 +175,15 @@ Labor Day - No Class
 
 ## Wednesday
 
-- Grades returned - make sure you are following directions. Ask questions if you don't understand.
+- Questions about the mix?
 - [MIDI History](../lectures/week-7/midi-history/) - some history on the problem MIDI was invented to solve.
-- [MIDI Intro](../lectures/week-7/midi-intro/)
+- Download [Sitala - Drum Sampler Plugin](https://decomposer.de/sitala/)
+  - Build a simple drum loop out of these two samples: [drums](../samples/drums.wav), [bass](../samples/bass.wav)
 
+<!-- 
 ## Friday
 
+- [MIDI Intro](../lectures/week-7/midi-intro/)
 - [Beatmaking](../lectures/week-8/beatmaking/) - listening examples
 
 # Week 9 (10/16)
