@@ -180,12 +180,12 @@ Labor Day - No Class
 - Download [Sitala - Drum Sampler Plugin](https://decomposer.de/sitala/)
   - Build a simple drum loop out of these two samples: [drums](../samples/drums.wav), [bass](../samples/bass.wav)
 
-<!-- 
 ## Friday
 
 - [MIDI Intro](../lectures/week-7/midi-intro/)
-- [Beatmaking](../lectures/week-8/beatmaking/) - listening examples
+<!-- - [Beatmaking](../lectures/week-8/beatmaking/) - listening examples -->
 
+<!-- 
 # Week 9 (10/16)
 
 ## Monday
