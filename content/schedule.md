@@ -185,7 +185,6 @@ Labor Day - No Class
 - [MIDI Intro](../lectures/week-7/midi-intro/)
 <!-- - [Beatmaking](../lectures/week-8/beatmaking/) - listening examples -->
 
-<!-- 
 # Week 9 (10/16)
 
 ## Monday
@@ -197,6 +196,8 @@ Labor Day - No Class
 - Use any of the effects we've learned so far: EQ, compression, reverb, delay
 - You can route your MIDI track to effects sends with the effects routing tab.
 
+> Project 4: [Drum Programming and Beatmaking](../projects/project-4-beats/) - DUE October ..th
+<!-- 
 ## Wednesday
 
 - [MIDI Editing](../lectures/week-9/midi-editing/)
@@ -208,7 +209,6 @@ Labor Day - No Class
 - Review sending drum parts to effects sends.
 - In class work on project
 
-> Project 4: [Drum Programming and Beatmaking](../projects/project-4-beats/) - DUE October 26th
 
 # Week 10 (10/23) - Synthesis
 
