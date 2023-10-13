@@ -196,7 +196,7 @@ Labor Day - No Class
 - Use any of the effects we've learned so far: EQ, compression, reverb, delay
 - You can route your MIDI track to effects sends with the effects routing tab.
 
-> Project 4: [Drum Programming and Beatmaking](../projects/project-4-beats/) - DUE October ..th
+> Project 4: [Drum Programming and Beatmaking](../projects/project-4-beats/) - DUE October 23th
 <!-- 
 ## Wednesday
 
