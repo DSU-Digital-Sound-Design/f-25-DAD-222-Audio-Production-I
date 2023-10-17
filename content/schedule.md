@@ -197,12 +197,13 @@ Labor Day - No Class
 - You can route your MIDI track to effects sends with the effects routing tab.
 
 > Project 4: [Drum Programming and Beatmaking](../projects/project-4-beats/) - DUE October 23th
-<!-- 
+
 ## Wednesday
 
 - [MIDI Editing](../lectures/week-9/midi-editing/)
 - [Expanding on your two bar loop](../lectures/week-9/beat-expansion/)
 
+<!-- 
 ## Friday
 
 - Review multi-velocity layers and round robin sampling.
