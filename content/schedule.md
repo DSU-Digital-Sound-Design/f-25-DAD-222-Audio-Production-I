@@ -203,13 +203,14 @@ Labor Day - No Class
 - [MIDI Editing](../lectures/week-9/midi-editing/)
 - [Expanding on your two bar loop](../lectures/week-9/beat-expansion/)
 
-<!-- 
 ## Friday
 
-- Review multi-velocity layers and round robin sampling.
 - Review sending drum parts to effects sends.
+  - Show/hide tracks using the `Track Manager` in the `Track Control Panel (TCP)` but show in the `Mixer Control Panel (MCP)`
 - In class work on project
+  - Any questions? 
 
+<!-- 
 
 # Week 10 (10/23) - Synthesis
 
