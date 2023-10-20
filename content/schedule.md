@@ -210,31 +210,32 @@ Labor Day - No Class
 - In class work on project
   - Any questions? 
 
-<!-- 
 
 # Week 10 (10/23) - Synthesis
 
 ## Monday
 
-**Synthesis and MIDI**
+- Listen to Beats
 
-- [Electronic sound production](../lectures/week-10/electronic-sound-production/)
+> Homework: I'll be gone Wednesday and Friday at the [Sixty-Sixth National Conference (2023)-National Conferences](https://www.music.org/index.php?option=com_eventbooking&view=event&id=137&Itemid=5783). Watch this YouTube [video](https://youtu.be/7qQX6YGBQEA?si=dVR7FMKpzsSevUak) that introduces the Vital Synthesizer. Go to D2L and answer the quetsions I have listen about the video. 
 
+<!-- 
 ## Wednesday
 
 - ATMI conference - move material to next week or assign students work while you're gone
-- Listen to Beats
-- Synthesis - [Modulation](../lectures/week-10/synthesis-modulation/)
+
 
 ## Friday
 
-- Spend around 10 minutes playing with the synth playground to figure out how LFOs work. A few people can share their sounds.
-- Show tone generator with scope and spectrum analyzer.
+- ATMI conference - move material to next week or assign students work while you're gone
 
 # Week 11 (10/30)
 
 ## Monday
 
+**Synthesis and MIDI**
+- [Electronic sound production](../lectures/week-10/electronic-sound-production/)
+- Synthesis - [Modulation](../lectures/week-10/synthesis-modulation/)
 - [Vital Synth](../lectures/week-10/vital-intro/)
 
 ## Wednesday
