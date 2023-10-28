@@ -9,11 +9,20 @@ theme = "solarized"
 # Electronic sound production - synthesis
 
 {{% note %}}
-We have learned some basics of electronic sound production with our discussion of MIDI editing, sequencing and sampling. Now we'll dive deeper into a very important method of sound production, synthesis.
 
-**Synthesis** refers to any method that generates sound “from the ground up” according to some recipe, or algorithm. For example, to re-create the sound of a trumpet using a synthesis method, you could use software that adds together simple sine waves whose frequencies, amplitudes, and phases match the partials that are present in a trumpet sound. This particular method is referred to as additive synthesis and will be discussed in more detail in the next chapter along with a variety of other synthesis methods.
+- Introduction
+  - Transition from basics like MIDI editing, sequencing, and sampling to a deeper concept: synthesis.  
+- Definition of Synthesis
+  - Synthesis is a method that generates sound "from the ground up" through a specific algorithm or recipe.
+- Example: Recreating a Trumpet Sound
+  - Using software to add together simple sine waves.
+  - Match the frequencies, amplitudes, and phases to the partials present in a trumpet sound.
+- Types of Synthesis
+  - The example above is an instance of additive synthesis.
+  - Additive synthesis will be covered in more detail in the next chapter, along with other methods of synthesis.
 
 {{%/ note %}}
+
 ---
 
 ## Analog Days: Synthesizers in the 1960s and 1970s
@@ -62,16 +71,29 @@ Yamaha DX7, an early all-digital, MIDI-compatible keyboard synthesizer (1983). A
 ![](basic-synth-model.png)
 
 {{% note %}}
-We can think of these as three separate modules that have different purposes and can be combined to create a sound.
+### Three Core Modules in Synthesis
 
-• The oscillator provides a basic waveform (timbre) at a particular frequency (pitch).
-• The filter modifies the spectrum (timbre) of the basic waveform.
-• The amplifier applies an envelope to the amplitude of the audio (loudness and
-articulation).
+- **Oscillator**
+  - Provides a basic waveform, which determines the timbre.
+  - Sets the frequency, affecting the pitch of the sound.
 
-In our DAWs we perform not actual analogue synthesis, but analogue modeling synthesis.
+- **Filter**
+  - Alters the spectrum or timbre of the basic waveform.
+  - Can remove or boost certain frequency components.
 
-The v stands for voltage control, which harkens back to when these modules were actually controlled by electrical voltage.
+- **Amplifier**
+  - Applies an envelope to control the amplitude of the audio.
+  - Affects loudness and articulation of the sound.
+
+### Analogue Modeling Synthesis in DAWs
+
+- **Not Actual Analogue Synthesis**
+  - In Digital Audio Workstations (DAWs), the process is not true analogue synthesis but a digital emulation known as analogue modeling synthesis.
+
+- **Voltage Control (V)**
+  - The "V" often seen in module names stands for voltage control.
+  - This is a nod to historical modules that were controlled by electrical voltage.
+
 {{%/ note %}}
 
 ---
@@ -87,9 +109,23 @@ The v stands for voltage control, which harkens back to when these modules were 
 ![](basic-waveforms.png)
 
 {{% note %}}
-Oscillator - generate a waveform at a particular frequency. They take one cycle of a waveform and repeat it at a rate determined by the MIDI key number.
 
-This is called fixed waveform or wavetable synthesis. Used alone it is the most simple form of synthesis.
+### Oscillator in Synthesis
+
+- **Primary Function**
+  - Generates a waveform at a specific frequency.
+  
+- **Cycle Repetition**
+  - Takes one cycle of a waveform and repeats it based on the MIDI key number.
+
+### Fixed Waveform or Wavetable Synthesis
+
+- **Definition**
+  - A form of synthesis where a fixed waveform is used and repeated.
+  
+- **Simplicity**
+  - When used alone, it is considered the most basic form of synthesis.
+
 {{%/ note %}}
 
 ---
@@ -99,7 +135,23 @@ This is called fixed waveform or wavetable synthesis. Used alone it is the most 
 ![](whitenoise.jpg)
 
 {{% note %}}
-An important source for timbre is noise. It is often used for percussive synthesis. When filtered it can also be used for wind sounds and rising effects in EDM.
+
+### Importance of Noise in Timbre
+
+- **Significance**
+  - Noise serves as a crucial element for creating timbre in synthesized sounds.
+
+### Applications of Noise
+
+- **Percussive Synthesis**
+  - Commonly used to generate percussive sounds like cymbals, snare drums, etc.
+  
+- **Filtered Noise**
+  - When noise is filtered, it can emulate natural sounds like wind.
+  
+- **Electronic Dance Music (EDM)**
+  - Used for creating rising effects or sweeps that are common in EDM tracks.
+
 {{%/ note %}}
 
 ---
@@ -111,22 +163,51 @@ An important source for timbre is noise. It is often used for percussive synthes
 [Learning Synths - Fitlers](https://learningsynths.ableton.com/en/filters/filters-in-the-real-world)
 
 {{% note %}}
-We have already covered filters somewhat in our discussions on mixing. Here we called them equalization and they generally had a subtle effect on the sound.
 
-in sound synthesis filters have a much more drastic and noticeable effect.
+### Filters in Mixing vs Synthesis
 
-A very common filter in synthesis is the low pass filter. It creates the typical DJ sweep sound we all know and love..
+- **In Mixing (Equalization)**
+  - Filters, often referred to as equalization, have a subtle effect on the sound.
 
-The **cutoff frequency** of the filter determines where in the spectrum the partials start to be reduced in amplitude.
+- **In Sound Synthesis**
+  - Filters produce much more drastic and noticeable changes to the sound.
 
-**Resonance** in a filter boosts the amplitude of the partials at the cutoff frequency. This has a certain timbral effect.
+### Common Types of Filters: Low Pass Filter
+
+- **Low Pass Filter**
+  - Widely used in synthesis.
+  - Creates the familiar DJ sweep sound.
+  
+### Key Parameters in Filters
+
+- **Cutoff Frequency**
+  - Determines the point in the frequency spectrum where partials start to be reduced in amplitude.
+
+- **Resonance**
+  - Boosts the amplitude of the partials at the cutoff frequency.
+  - Adds a unique timbral effect to the sound.
+
+{{%/ note %}}
 
 ---
 
 # Loudness modification: the amplifier
 
 {{% note %}}
-The third part in our synthesis chain is the amplifier. Instead of just turning the oscillator on and off we shape it with an amplitude envelope.
+
+### Role of the Amplifier
+
+- **Third Component in Synthesis Chain**
+  - Follows the oscillator and the filter in the signal path.
+
+- **Not Just On/Off**
+  - Unlike simply turning the oscillator on and off, the amplifier shapes the sound.
+
+### Amplitude Envelope
+
+- **Purpose**
+  - The amplifier uses an amplitude envelope to shape the loudness and articulation of the sound over time.
+
 {{%/ note %}}
 
 ---
@@ -139,15 +220,27 @@ The third part in our synthesis chain is the amplifier. Instead of just turning 
 
 {{% note %}}
 
-In a synthesizer, an envelope generator allows the amplifier both to determine the maximum amplitude of the sound and to shape the amplitude over the course of a note.
+### Role of Envelope Generators
 
-ADSR - attack time, decay time, sustain level, release time
+- **Functionality**
+  - Envelope generators in synthesizers allow the amplifier to both set the maximum amplitude and shape the amplitude over the duration of a note.
 
-- attack - the time it takes for the amplitude to reach its maximum value.
-- decay - the time it takes for the amplitude to reach its sustain level.
-- sustain - the level of amplitude that the envelope will hold after the decay phase.
-  - this last as long as the note is held.
-- release - after a note off message - the time it takes for the amplitude to reach its minimum value.
+### ADSR Parameters
+
+- **Attack Time**
+  - The duration it takes for the sound's amplitude to reach its maximum value.
+
+- **Decay Time**
+  - The time needed for the amplitude to drop to the sustain level.
+
+- **Sustain Level**
+  - The amplitude level that is maintained after the decay phase.
+  - This level is held as long as the note is sustained.
+
+- **Release Time**
+  - Triggered by a 'note-off' message.
+  - The duration it takes for the amplitude to drop to its minimum value.
+
 {{%/ note %}}
 
 ---

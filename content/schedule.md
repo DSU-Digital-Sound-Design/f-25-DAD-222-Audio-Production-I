@@ -219,16 +219,14 @@ Labor Day - No Class
 
 > Homework: I'll be gone Wednesday and Friday at the [Sixty-Sixth National Conference (2023)-National Conferences](https://www.music.org/index.php?option=com_eventbooking&view=event&id=137&Itemid=5783). Watch this YouTube [video](https://youtu.be/7qQX6YGBQEA?si=dVR7FMKpzsSevUak) that introduces the Vital Synthesizer. Go to D2L and answer the quetsions I have listen about the video. 
 
-<!-- 
 ## Wednesday
 
-- ATMI conference - move material to next week or assign students work while you're gone
-
+- ATMI conference 
 
 ## Friday
 
-- ATMI conference - move material to next week or assign students work while you're gone
-
+- ATMI conference 
+  
 # Week 11 (10/30)
 
 ## Monday
@@ -238,6 +236,7 @@ Labor Day - No Class
 - Synthesis - [Modulation](../lectures/week-10/synthesis-modulation/)
 - [Vital Synth](../lectures/week-10/vital-intro/)
 
+<!-- 
 ## Wednesday
 
 - [More Vital Synth](../lectures/week-11/vital-pt-2/)
