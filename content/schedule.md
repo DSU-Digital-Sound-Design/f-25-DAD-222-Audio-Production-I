@@ -226,7 +226,7 @@ Labor Day - No Class
 ## Friday
 
 - ATMI conference 
-  
+  ``
 # Week 11 (10/30)
 
 ## Monday
@@ -236,27 +236,27 @@ Labor Day - No Class
 - Synthesis - [Modulation](../lectures/week-10/synthesis-modulation/)
 - [Vital Synth](../lectures/week-10/vital-intro/)
 
-<!-- 
 ## Wednesday
 
 - [More Vital Synth](../lectures/week-11/vital-pt-2/)
 
+> [Synth composition](../projects/project-5-synth/) - Due 11/13
+
+<!-- 
 ## Friday
 
 - [Vital Modulation](../lectures/week-11/vital-pt-3/)
 - Preset analysis - pick a random preset and see how it works
+
+> Final Project proposal - [see D2L](https://d2l.sdbor.edu/d2l/le/content/1725928/viewContent/10822719/View?dst=1)
+>
+> [Final Project description](../projects/final-project/)
 
 # Week 12 (11/6)
 
 ## Monday
 
 - in class work on project
-
-> [Synth composition](../projects/project-5-synth/)
-
-> Final Project proposal - [see D2L](https://d2l.sdbor.edu/d2l/le/content/1725928/viewContent/10822719/View?dst=1)
->
-> [Final Project description](../projects/final-project/)
 
 ## Wednesday
 
