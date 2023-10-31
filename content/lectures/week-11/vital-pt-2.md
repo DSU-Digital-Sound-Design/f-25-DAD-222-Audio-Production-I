@@ -30,6 +30,7 @@ In the previous lesson, we explored the ADSR envelope in Vital Synth. Today, we'
 1. **Set Waveform**: For each oscillator, choose a sine tone. This is the first option under basic shapes.
 2. **Detune Oscillators**: Adjust the detune for oscillators 1 and 2 slightly above and below oscillator 1.
 3. **Activate Filters**: Turn on the filters in Vital.
+4. **Save and Export**: Save the patch for reuse and export to share the patch with other users. 
 
 #### What to Notice
 
