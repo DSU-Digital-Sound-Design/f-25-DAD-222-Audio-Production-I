@@ -2,34 +2,54 @@
 title: "Final Project"
 ---
 
-## Goals:
+####  Project Goals:
 
-- Students will develop their projects based on their own creative vision.
-- Students will use multiple techniques to realize their vision.
-- Students will begin to develop their own voices as artists.
+- **Personal Creative Expression:** Encourage students to explore and express their unique artistic identity through their projects.
+- **Technique Application:** Ensure students apply a variety of techniques learned during the course to manifest their creative vision.
+- **Artistic Development:** Foster the growth of each student's distinctive voice and style as an emerging artist.
 
-Create a **3-5-minute** composition that you feel represents you as an artist. You will use multiple techniques that we have learned through the semester to create your work. This should include:
+#### Project Overview:
 
-- Recording instruments or voice in the studio
-  - Using the vocal/instrument recordings in your project
-  - OR: Sampling using those recordings
-- Effects
-- MIDI Drums or percussion using ReaSamplomatic5000
-- Vital Synth
+Compose a **3-5-minute audio piece** that embodies your identity as an artist. Your creation should integrate various techniques discussed during the semester, including:
 
-If you don't want to create a musical composition mention that in your proposal and proposal something different. This could be a podcast, sound design, or some other type of audio project that shows what you've learned in this class.
+- **Studio Recording:** Incorporate recordings of instruments or voice.
+  - Utilize these recordings directly in your project.
+  - Alternatively, create samples from these recordings.
+- **Audio Effects:** Employ various audio effects to enhance your composition.
+- **Percussion with Sitalia:** Integrate MIDI drums or percussion.
+- **Vital Synth Usage:** Incorporate sounds created with the Vital Synth.
 
-Each of these techniques doesn’t need to be the focus of the project, but they need to be used in some way. For example, if you record in the studio, you can then layer in MIDI drum sounds and synthesizers that double instruments you recorded. If you do most of the composing in the DAW, record some sounds in the studio to make your composition sound more realistic.
+**Alternative Projects:** If musical composition is not your preference, submit a proposal for an alternative project such as a podcast, sound design piece, or another audio format that showcases your learnings.
 
-Rule on loops: You may use one or two loops as long as they are processed beyond recognition using effects or some other technique.
+**Technique Integration:** While not all techniques must be central to your project, each should be incorporated in some capacity. For instance, studio recordings can be layered with MIDI drums and synthesized sounds to achieve a more authentic feel.
 
-Feel free to compose in whatever style you like, techno, vaproware/wave, drill-core, whatever. Do you want to include a video? No problem.
+**Rule on Loops:** You may include one or two loops, provided they are significantly altered using effects or other methods to become unrecognizable.
 
-> Each project will be presented to the class during the final exam time: December 9th, 8 a.m. - 10 a.m.
-> Failure to attend this exam time will result in failing the exam.
+**Stylistic Freedom:** Feel free to explore any genre, such as techno, vaporware/wave, drill-core, etc. Incorporating a video is also welcome.
 
-## Deliverables
+> **Presentation:** Projects will be presented during the final exam slot on December 8th, from 8 a.m. to 10 a.m. Attendance is mandatory; failure to attend will result in failing the exam.
 
-Turn in a consolidated project file along with a rendered master track. Also, turn in a page long reflection on your project. A section in the beginning should cover your influences for the work, who are you listening to in order to guide this composition? How is your work different from theirs? Next you should include the steps that you went through to create the project, the problems you ran into and the solutions you came up with. Finally, cover the any future work you plan to do with the project or new projects you might want to tackle with the skills you learned on this project.
+#### Deliverables:
 
-Grading: A successful project will show an understanding of the techniques we’ve learned throughout the semester and an application of those techniques towards a development of the student’s voice as an artist. Grading will also be based on the level of creativity and effort you put into your project.
+- **Consolidated Project File:** Submit the complete project file used for your composition.
+- **Rendered Master Track:** Provide a final rendered version of your audio piece.
+- **Reflective Essay:** Submit a one-page reflection that includes:
+  - **Influences:** Discuss the artists or works that influenced your composition. How does your piece differ from these influences?
+  - **Creative Process:** Detail the steps you took, challenges faced, and solutions devised during the project's creation.
+  - **Future Endeavors:** Share potential future projects or how you might further develop the skills acquired in this course.
+
+#### Grading Criteria:
+
+- **Technique Understanding:** Demonstrate proficiency in the techniques taught throughout the semester.
+- **Artistic Voice Development:** Exhibit the growth of your unique artistic voice.
+- **Creativity and Effort:** Show the level of originality and dedication invested in your project.
+
+## Rubric 
+
+| **Level** | **Description** |
+|-----------|-----------------|
+| **Exceptional (A)** | Exhibits an exceptional understanding and application of various techniques learned throughout the semester, with a high level of technical proficiency and creativity. The student’s unique artistic voice is prominently and compellingly showcased, reflecting personal style and influences. The project demonstrates advanced complexity and seamless integration of various elements such as studio recordings, MIDI, effects, and synthesis. The reflective essay provides insightful analysis of influences, the creative process, challenges, solutions, and future aspirations, showing critical thinking and self-awareness. The project is presented in a polished and professional manner, effectively communicating the creative vision and techniques used. |
+| **Proficient (B)** | Shows a solid understanding and application of techniques with evidence of creative effort. The student’s artistic voice is evident and well-defined, showing originality and personal style. The project demonstrates a good level of complexity and integration of different elements. The reflective essay provides a clear analysis of influences, the creative process, challenges, and solutions, demonstrating self-awareness. The project is presented effectively, with clear communication of the creative vision and techniques used. |
+| **Competent (C)** | Demonstrates an adequate understanding and application of techniques, meeting basic technical requirements but lacking in complexity. The student’s artistic voice is present but not strongly defined, with some originality and personal style. The project demonstrates basic complexity and integration of elements. The reflective essay discusses influences and the creative process, showing some self-awareness. The project is presented in a satisfactory manner, but may lack clarity or detail in communicating the creative vision and techniques. |
+| **Developing (D)** | Shows a limited understanding and application of techniques, meeting minimal technical requirements with a lack of creativity. The student’s artistic voice is weak or unclear, with limited originality and personal style. The project demonstrates minimal complexity and integration of elements. The reflective essay provides a limited discussion of influences and the creative process, with little self-awareness. The project is presented in a basic manner, with the student struggling to communicate their creative vision and techniques effectively. |
+| **Unsatisfactory (F)** | Fails to demonstrate an understanding or application of techniques, not meeting technical requirements and showing no creativity. The student’s artistic voice is absent, with the work lacking originality and personal style. The project lacks complexity and integration of different elements. The reflective essay provides no meaningful reflection, failing to discuss influences or the creative process. The project is poorly presented or not presented at all, with the student failing to communicate their creative vision and techniques. |

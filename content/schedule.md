@@ -242,7 +242,6 @@ Labor Day - No Class
 
 > [Synth composition](../projects/project-5-synth/) - Due 11/13
 
-<!-- 
 ## Friday
 
 - [Vital Modulation](../lectures/week-11/vital-pt-3/)
@@ -252,6 +251,7 @@ Labor Day - No Class
 >
 > [Final Project description](../projects/final-project/)
 
+<!-- 
 # Week 12 (11/6)
 
 ## Monday
@@ -286,5 +286,5 @@ Labor Day - No Class
 
 # Week 16
 
-- Final Exam Presentation: Friday, December 9, 8 am - 10 am
+- Final Exam Presentation: Friday, December 8, 8 am - 10 am
  -->
