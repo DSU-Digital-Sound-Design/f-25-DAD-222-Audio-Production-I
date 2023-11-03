@@ -247,7 +247,6 @@ Labor Day - No Class
 - [Vital Modulation](../lectures/week-11/vital-pt-3/)
 - Preset analysis - pick a random preset and see how it works
 
-> Final Project proposal - [see D2L](https://d2l.sdbor.edu/d2l/le/content/1725928/viewContent/10822719/View?dst=1)
 >
 > [Final Project description](../projects/final-project/)
 
