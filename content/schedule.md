@@ -250,15 +250,16 @@ Labor Day - No Class
 >
 > [Final Project description](../projects/final-project/)
 
-<!-- 
 # Week 12 (11/6)
 
 ## Monday
 
+- Listen to one synth composition 
 - in class work on project
 
 ## Wednesday
 
+- Listen to one synth composition
 - in class work on project
 
 ## Friday
@@ -270,6 +271,8 @@ Labor Day - No Class
 ## Monday
 
 - Listen to Synth projects
+- Proposals for final project are due. 
+
 
 ## Wednesday
 
@@ -286,4 +289,4 @@ Labor Day - No Class
 # Week 16
 
 - Final Exam Presentation: Friday, December 8, 8 am - 10 am
- -->
+
