@@ -254,12 +254,12 @@ Labor Day - No Class
 
 ## Monday
 
-- Listen to one synth composition 
+- [Brian Eno - An Ending (Ascent) (Remastered 2019) - Invidious](https://vid.puffyan.us/watch?v=OlaTeXX3uH8)
 - in class work on project
 
 ## Wednesday
 
-- Listen to one synth composition
+- [Apreludes (In C Sharp Major) - Invidious](https://vid.puffyan.us/watch?v=2PfcvfUgXEk)
 - in class work on project
 
 ## Friday
