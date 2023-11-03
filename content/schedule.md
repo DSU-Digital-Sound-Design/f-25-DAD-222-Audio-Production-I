@@ -282,9 +282,23 @@ Labor Day - No Class
 
 - In class work on final projects
 
-## Week 14, 15
+# Week 14
 
-- I class work on final project
+## Monday
+
+- In class work on final 
+
+## Wednesday 
+
+- Individual meetings with students where you show progress on the project for a small part of the final grade 
+
+## Friday 
+
+- Individual meetings with students where you show progress on the project for a small part of the final grade 
+  
+# Week 15
+
+- In class work on final project
 
 # Week 16
 
