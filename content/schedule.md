@@ -254,12 +254,13 @@ Labor Day - No Class
 
 ## Monday
 
-- [Brian Eno - An Ending (Ascent) (Remastered 2019) - Invidious](https://vid.puffyan.us/watch?v=OlaTeXX3uH8)
+- [Brian Eno - An Ending (Ascent) (Remastered 2019)](https://vid.puffyan.us/watch?v=OlaTeXX3uH8)
 - in class work on project
 
 ## Wednesday
 
-- [Apreludes (In C Sharp Major) - Invidious](https://vid.puffyan.us/watch?v=2PfcvfUgXEk)
+- [Apreludes (In C Sharp Major)](https://vid.puffyan.us/watch?v=2PfcvfUgXEk)
+- [Tim Hecker - Music of the Air](https://vid.puffyan.us/watch?v=ULNBMQcXnpE)
 - in class work on project
 
 ## Friday
