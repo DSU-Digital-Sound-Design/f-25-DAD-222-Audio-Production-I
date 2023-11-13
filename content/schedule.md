@@ -277,6 +277,7 @@ Labor Day - No Class
 
 ## Wednesday
 
+- finish listening to synth projects 
 - Individual meetings about project proposals 
 
 ## Friday
