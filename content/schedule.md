@@ -274,7 +274,6 @@ Labor Day - No Class
 - Listen to Synth projects
 - Proposals for final project are due. 
 
-
 ## Wednesday
 
 - finish listening to synth projects 
@@ -284,25 +283,39 @@ Labor Day - No Class
 
 - In class work on final projects
 
-# Week 14
+# Week 14 (11/20)
 
 ## Monday
 
 - In class work on final 
+- Schedule who will show progress on what days after thanksgiving break. 
+
+## Wednesday, Friday 
+
+- No class -  Thanksgiving Holiday 
+
+# Week 15 (11/27)
+
+# Monday 
+
+- 3-4 students show progress on project to the whole class 
 
 ## Wednesday 
 
-- Individual meetings with students where you show progress on the project for a small part of the final grade 
+- 3-4 students show progress on project to the whole class 
 
 ## Friday 
 
-- Individual meetings with students where you show progress on the project for a small part of the final grade 
-  
-# Week 15
+- 3-4 students show progress on project to the whole class 
 
-- In class work on final project
 
-# Week 16
+# Week 16 (12/4)
+
+## Monday 
+
+- 3-4 students show progress on project to the whole class 
+
+# Final Exam 
 
 - Final Exam Presentation: Friday, December 8, 8 am - 10 am
 
