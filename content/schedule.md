@@ -277,7 +277,7 @@ Labor Day - No Class
 
 ## Wednesday
 
-- In class work on final projects
+- Individual meetings about project proposals 
 
 ## Friday
 
