@@ -277,11 +277,12 @@ Labor Day - No Class
 ## Wednesday
 
 - finish listening to synth projects 
-- Individual meetings about project proposals 
+- A short lesson on [TX16Wx Software Sampler](https://www.tx16wx.com/features/) 
+  - Creating a multi-layered velocity-sensitive kalimba 
 
 ## Friday
 
-- In class work on final projects
+- No class for family reasons 
 
 # Week 14 (11/20)
 
