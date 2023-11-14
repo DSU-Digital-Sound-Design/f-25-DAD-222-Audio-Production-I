@@ -279,7 +279,7 @@ Labor Day - No Class
 - finish listening to synth projects 
 - Proposals
   - Make sure your proposals relate to what we have learned in the class. The goal is to learn how to produce your own sounds. 
-- A short lesson on [TX16Wx Software Sampler](https://www.tx16wx.com/features/) 
+- A short lesson on ReaSamplomatic5000
   - Creating a multi-layered velocity-sensitive kalimba 
 
 ## Friday
