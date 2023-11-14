@@ -10,7 +10,7 @@ title: "Final Project"
 
 #### Project Overview:
 
-Compose a **3-5-minute audio piece** that embodies your identity as an artist. Your creation should integrate various techniques discussed during the semester, including:
+Compose a **3-5-minute audio piece** that embodies your identity as an artist. Your creation should integrate at least two techniques discussed during the semester. These could include:
 
 - **Studio Recording:** Incorporate recordings of instruments or voice.
   - Utilize these recordings directly in your project.
@@ -23,7 +23,7 @@ Compose a **3-5-minute audio piece** that embodies your identity as an artist. Y
 
 **Technique Integration:** While not all techniques must be central to your project, each should be incorporated in some capacity. For instance, studio recordings can be layered with MIDI drums and synthesized sounds to achieve a more authentic feel.
 
-**Rule on Loops:** You may include one or two loops, provided they are significantly altered using effects or other methods to become unrecognizable.
+**Rule on Loops:** You may include one or two loops, provided they are significantly altered using effects or other methods to become your own.
 
 **Stylistic Freedom:** Feel free to explore any genre, such as techno, vaporware/wave, drill-core, etc. Incorporating a video is also welcome.
 
