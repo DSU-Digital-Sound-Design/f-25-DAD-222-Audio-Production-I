@@ -1,6 +1,5 @@
 ---
 title: "Schedule"
-date: "2024-08-26"
 author: ""
 ---
 
@@ -32,6 +31,7 @@ author: ""
 
 - [Sound and hearing](../lectures/week-1/sound-and-hearing/) slides
 
+<!-- 
 # Week 2 (9/2)
 
 ## Monday (9/2)
@@ -186,8 +186,11 @@ author: ""
 ## Wednesday (10/23)
 
 - [MIDI Intro](../lectures/week-7/midi-intro/)
+-->
 <!-- - [Beatmaking](../lectures/week-8/beatmaking/) - listening examples -->
 
+
+<!-- 
 ## Friday (10/25)
 
 - Create at least a 2 bar loop today, we'll go over how to extend it more on Monday.
@@ -315,3 +318,5 @@ author: ""
 # Final Exam
 
 - **Final Exam Presentation:** Friday, December 13, 8 am - 10 am
+
+ -->
