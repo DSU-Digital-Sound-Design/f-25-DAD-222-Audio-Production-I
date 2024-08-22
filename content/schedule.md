@@ -151,7 +151,7 @@ author: ""
 ## Friday (10/11)
 
 - Putting together all we've learned to make a simple mix
-- [In class mixing assignment](../projects/project-3-mix/) - Due by Wednesday, 10/16
+- [Project 3: In class mixing assignment](../projects/project-3-mix/) - Due by Wednesday, 10/16
 
 # Week 8 (10/14)
 
@@ -161,7 +161,7 @@ author: ""
 
 ## Wednesday (10/16)
 
-- More work on the [In class mixing assignment](../projects/project-3-mix/)
+- More work on the [Project 3: In class mixing assignment](../projects/project-3-mix/)
   - Listening to your balances
   - Showing how to implement the rest of the requirements: EQ, compression, delay, and reverb.
 
