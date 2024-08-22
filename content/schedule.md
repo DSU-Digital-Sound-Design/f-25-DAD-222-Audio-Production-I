@@ -1,14 +1,14 @@
 ---
 title: "Schedule"
-date: "2022-8-27"
+date: "2024-08-26"
 author: ""
 ---
 
 {{< toc >}}
 
-# Week 1 (8/21)
+# Week 1 (8/26)
 
-## Monday
+## Monday (8/26)
 
 - Class introductions
   - What's your name, major, and what is the **last** song you listened to?
@@ -16,9 +16,9 @@ author: ""
 - [Intro to Music Technology](../lectures/week-1/intro-to-music-tech-slides/) slides
 - Pre-test - on [D2L](https://d2l.sdbor.edu/d2l/le/content/1840590/viewContent/11705355/View)
 
-> Homework: [Your favorite song](https://d2l.sdbor.edu/d2l/le/content/1840590/viewContent/11705356/View) - Post a recording or video of one of your favorite songs or pieces of music that involve some type of audio production. Find some aspects of the piece that you would like to learn how to recreate in this class. Write a paragraph describing why you like it and what you would like to learn from it.
-  
-## Wednesday
+> **Homework:** [Your favorite song](https://d2l.sdbor.edu/d2l/le/content/1840590/viewContent/11705356/View) - Post a recording or video of one of your favorite songs or pieces of music that involve some type of audio production. Find some aspects of the piece that you would like to learn how to recreate in this class. Write a paragraph describing why you like it and what you would like to learn from it. **Due Friday, 8/30.**
+
+## Wednesday (8/28)
 
 - Listen to the **last song** playlist
 - Your **favorite song** is due Friday
@@ -28,18 +28,22 @@ author: ""
 - Finish [Intro to Music Technology](../lectures/week-1/intro-to-music-tech-slides/) slides
 - [Sound and hearing](../lectures/week-1/sound-and-hearing/) slides
 
-## Friday
+## Friday (8/30)
 
 - [Sound and hearing](../lectures/week-1/sound-and-hearing/) slides
 
-# Week 2 (8/28)
+# Week 2 (9/2)
 
-## Monday
+## Monday (9/2)
+
+- **No Class - Labor Day**
+
+## Wednesday (9/4)
 
 - Listen to a few of your songs
 - [Introduction to Reaper](../lectures/week-1/reaper-intro/)
 
-## Wednesday
+## Friday (9/6)
 
 - [Introduction to Reaper](../lectures/week-1/reaper-intro/#/8) - Continue with intro
 - [Saving and exporting](../lectures/week-2/this-is-reaper-2/)
@@ -47,27 +51,23 @@ author: ""
   - Find loops and preview them - [Looper Man](https://www.looperman.com) - show the different features of this website
   - Find drums, percussion, chords and acapellas
 
-> [Project 1: Arranging Clips](../projects/project-1/) (Due Friday Midnight)
+> **Project 1: Arranging Clips** - Due Friday, 9/13 by midnight.
 
-## Friday
+# Week 3 (9/9)
+
+## Monday (9/9)
 
 - Show a basic version of the loops project
 - Work on the project in class
 - Listen to favorite songs
 
-# Week 3 (9/4)
-
-## Monday
-
-Labor Day - No Class
-
-## Wednesday
+## Wednesday (9/11)
 
 - Your favorite sounds were great! There's so much variety.
 - Listen to loops projects
 - [Audio Hardware slides](../lectures/week-2/audio-hardware/)
 
-## Friday
+## Friday (9/13)
 
 - Project grades are in
   - Follow the directions [here](../lectures/week-2/this-is-reaper-2/) to export and render your project. You have one week to resubmit for credit.
@@ -78,12 +78,19 @@ Labor Day - No Class
     - [Studio Documentation](https://sites.google.com/view/charmstudios/studio-documentation)
     - Book your time in the studio to record your projects
 
-> [Project 2: Unreliable Product Ad](../projects/project-2-ad/) - DUE 9/15 by class time
-> Have your script by Monday
+> **Project 2: Unreliable Product Ad** - DUE 9/27 by class time. Have your script ready by Monday, 9/23.
 
-# Week 4 (9/11)
+# Week 4 (9/16) - **Studio Week**
 
-## Monday
+## Monday (9/16) - **TBD**
+
+## Wednesday (9/18) - **TBD**
+
+## Friday (9/20) - **TBD**
+
+# Week 5 (9/23)
+
+## Monday (9/23)
 
 - [Reaper Recording](../lectures/week-3/reaper-recording/)
   - One student dialogue demo
@@ -92,7 +99,7 @@ Labor Day - No Class
   - More tips for editing in Reaper
     - [Editing](../lectures/week-4/editing/)
 
-## Wednesday
+## Wednesday (9/25)
 
 - [Digital Audio](../lectures/week-4/digital-audio-data/)
 - [Editing](../lectures/week-4/editing/) - dialogue
@@ -104,61 +111,61 @@ Labor Day - No Class
 - Make sure your music and dialogue work well together
 - Mixing -- background music should be much quieter than dialogue; around -30 dB is a good start.
 
-## Friday
+## Friday (9/27)
 
 - Listen to the ads in class
 - More recording and in-class work, if necessary
 - Time permitting, finally listening to your favorite songs!
 
-> Project 2: Unreliable Product Ad DUE
+> **Project 2: Unreliable Product Ad DUE**
 
-# Week 5 (9/18)
+# Week 6 (9/30)
 
-## Monday
+## Monday (9/30)
 
 - [FX Roulette game](../lectures/week-5/fx-roulette/)
-
-## Wednesday
-
 - [Equalization](../lectures/week-5/eq/)
 - ReaEQ Guide - [Up and Running: A REAPER User Guide](https://dlz.reaper.fm/userguide/REAPEREffectsGuide2021.pdf#page=17)
 
-## Friday
+## Wednesday (10/2)
 
 - Exploring EQ on a multitrack recording - [instructions](../lectures/week-5/eq-multitrack/)
 
-# Week 6 (9/25)
-
-## Monday
+## Friday (10/4)
 
 - Dynamics effects
   - [ReaComp](../lectures/week-5/compression/), ReaXComp, ReaLimit, ReaGate
   - What elements in our mix are still not sitting correctly that could use compression?
 
-## Wednesday
+# Week 7 (10/7)
 
-**Time based effects**
+## Monday (10/7)
 
-- [Delay, Chorus, and Flange](../lectures/week-6/delay/)
+- **Time based effects**
+  - [Delay, Chorus, and Flange](../lectures/week-6/delay/)
 
-## Friday
+## Wednesday (10/9)
 
 - [Reverb](../lectures/week-6/reverb/)
 
-# Week 7 (10/2)
-
-## Monday
+## Friday (10/11)
 
 - Putting together all we've learned to make a simple mix
-- [In class mixing assignment](../projects/project-3-mix/) - Due by Friday
+- [In class mixing assignment](../projects/project-3-mix/) - Due by Wednesday, 10/16
 
-## Wednesday
+# Week 8 (10/14)
+
+## Monday (10/14)
+
+- No class for Native American Day
+
+## Wednesday (10/16)
 
 - More work on the [In class mixing assignment](../projects/project-3-mix/)
   - Listening to your balances
   - Showing how to implement the rest of the requirements: EQ, compression, delay, and reverb.
 
-## Friday
+## Friday (10/18)
 
 **Sampling + MIDI**
 
@@ -167,27 +174,21 @@ Labor Day - No Class
 - [Who Sampled](http://whosampled.com) - covers and sampling
   - In-class project: based on who sampled, find three of your favorite sampling uses from who sampled. Why do you like them? Please describe how the artist used the sample and what it was about the original recording that made the artist want to use it. We'll have a few people present at the end of class.
 
-# Week 8 (10/9)
+# Week 9 (10/21)
 
-## Monday
-
-- No class for Native America day
-
-## Wednesday
+## Monday (10/21)
 
 - Questions about the mix?
 - [MIDI History](../lectures/week-7/midi-history/) - some history on the problem MIDI was invented to solve.
 - Download [Sitala - Drum Sampler Plugin](https://decomposer.de/sitala/)
   - Build a simple drum loop out of these two samples: [drums](../samples/drums.wav), [bass](../samples/bass.wav)
 
-## Friday
+## Wednesday (10/23)
 
 - [MIDI Intro](../lectures/week-7/midi-intro/)
 <!-- - [Beatmaking](../lectures/week-8/beatmaking/) - listening examples -->
 
-# Week 9 (10/16)
-
-## Monday
+## Friday (10/25)
 
 - Create at least a 2 bar loop today, we'll go over how to extend it more on Monday.
 - You can redo your loop project, this time with MIDI, or do something new.
@@ -196,129 +197,121 @@ Labor Day - No Class
 - Use any of the effects we've learned so far: EQ, compression, reverb, delay
 - You can route your MIDI track to effects sends with the effects routing tab.
 
-> Project 4: [Drum Programming and Beatmaking](../projects/project-4-beats/) - DUE October 23th
+> **Project 4: Drum Programming and Beatmaking** - DUE Monday, 11/4
 
-## Wednesday
+# Week 10 (10/28)
 
-- [MIDI Editing](../lectures/week-9/midi-editing/)
-- [Expanding on your two bar loop](../lectures/week-9/beat-expansion/)
-
-## Friday
-
-- Review sending drum parts to effects sends.
-  - Show/hide tracks using the `Track Manager` in the `Track Control Panel (TCP)` but show in the `Mixer Control Panel (MCP)`
-- In class work on project
-  - Any questions? 
-
-
-# Week 10 (10/23) - Synthesis
-
-## Monday
+## Monday (10/28)
 
 - Listen to Beats
+- [Reaper Recording](../lectures/week-3/reaper-recording/)
+  - One student dialogue demo
 
-> Homework: I'll be gone Wednesday and Friday at the [Sixty-Sixth National Conference (2023)-National Conferences](https://www.music.org/index.php?option=com_eventbooking&view=event&id=137&Itemid=5783). Watch this YouTube [video](https://youtu.be/7qQX6YGBQEA?si=dVR7FMKpzsSevUak) that introduces the Vital Synthesizer. Go to D2L and answer the quetsions I have listen about the video. 
+## Wednesday (10/30)
 
-## Wednesday
+- **Synthesis and MIDI**
+  - [Electronic sound production](../lectures/week-10/electronic-sound-production/)
+  - Synthesis - [Modulation](../lectures/week-10/synthesis-modulation/)
+  - [Vital Synth](../lectures/week-10/vital-intro/)
 
-- ATMI conference 
+## Friday (11/1)
 
-## Friday
-
-- ATMI conference 
-  ``
-# Week 11 (10/30)
-
-## Monday
-
-**Synthesis and MIDI**
-- [Electronic sound production](../lectures/week-10/electronic-sound-production/)
-- Synthesis - [Modulation](../lectures/week-10/synthesis-modulation/)
-- [Vital Synth](../lectures/week-10/vital-intro/)
-
-## Wednesday
-
-- [More Vital Synth](../lectures/week-11/vital-pt-2/)
-
-> [Synth composition](../projects/project-5-synth/) - Due 11/13
-
-## Friday
-
-- [Vital Modulation](../lectures/week-11/vital-pt-3/)
+- More on Vital Synth and Synthesis
 - Preset analysis - pick a random preset and see how it works
 
->
-> [Final Project description](../projects/final-project/)
+# Week 11 (11/4)
 
-# Week 12 (11/6)
+## Monday (11/4)
 
-## Monday
+- **MIDI Editing**
+  - [Editing](../lectures/week-4/editing/)
+  - MIDI dialogue
+  - Sound Effects + music beds
+    - [Finding sound effects](../lectures/week-4/sound-effects/)
+    - Listen back to ads from a few classes ago; what types of sound effects do they use?
+    - Examples could be transition impacts or swooshes between character lines. Some scripts will have specific needs for effects that illustrate locations or products, like chirping birds for outdoor settings.
+    - Add sound effects to separate tracks
+  - Make sure your music and dialogue work well together
+  - Mixing -- background music should be much quieter than dialogue; around -30 dB is a good start.
 
-- [Brian Eno - An Ending (Ascent) (Remastered 2019)](https://vid.puffyan.us/watch?v=OlaTeXX3uH8)
-- in class work on project
+## Wednesday (11/6)
 
-## Wednesday
+- Work on MIDI composition in class
+- Listen to MIDI assignments
 
-- [Apreludes (In C Sharp Major)](https://vid.puffyan.us/watch?v=2PfcvfUgXEk)
-- [Tim Hecker - Music of the Air](https://vid.puffyan.us/watch?v=ULNBMQcXnpE)
-- in class work on project
+> **MIDI Composition** - DUE Friday, 11/15
 
-## Friday
+## Friday (11/8)
 
-- Veterans Day - no class
+- Listening to MIDI assignments
+- Discussion on composition techniques and feedback
 
-# Week 13 (11/13)
+# Week 12 (11/11)
 
-## Monday
+## Monday (11/11)
 
-- Listen to Synth projects
-- Proposals for final project are due. 
+- No class for Veterans Day
 
-## Wednesday
+## Wednesday (11/13)
 
-- finish listening to synth projects 
-- Proposals
-  - Make sure your proposals relate to what we have learned in the class. The goal is to learn how to produce your own sounds. 
-- A short lesson on ReaSamplomatic5000
-  - Creating a multi-layered velocity-sensitive kalimba 
+- Synthesis continued: Exploring advanced techniques in synthesis and sound design
+- [Vital Synth](../lectures/week-10/vital-pt-2/)
 
-## Friday
+## Friday (11/15)
 
-- No class for family reasons 
+- More on Vital Synth
+- Work on synthesis assignments
 
-# Week 14 (11/20)
+> **Synthesis Project** - DUE Monday, 11/25
 
-## Monday
+# Week 13 (11/18)
 
-- In class work on final 
-- Schedule who will show progress on what days after thanksgiving break. 
+## Monday (11/18)
 
-## Wednesday, Friday 
+- Start final project discussions and brainstorming
+- Introduction to sound design for interactive media (games, VR)
+- Project proposals due Wednesday, 11/20
 
-- No class -  Thanksgiving Holiday 
+## Wednesday (11/20)
 
-# Week 15 (11/27)
+- Final project proposals review
+- Begin working on the final project
 
-# Monday 
+## Friday (11/22)
 
-- 3-4 students show progress on project to the whole class 
+- Continue working on the final project in class
 
-## Wednesday 
+# Week 14 (11/25)
 
-- 3-4 students show progress on project to the whole class 
+## Monday (11/25)
 
-## Friday 
+- In-class work on the final project
+- Schedule who will show progress on what days after Thanksgiving break
 
-- 3-4 students show progress on project to the whole class 
+## Wednesday, Friday (11/27, 11/29)
 
+- No class - Thanksgiving Holiday
 
-# Week 16 (12/4)
+# Week 15 (12/2)
 
-## Monday 
+## Monday (12/2)
 
-- 3-4 students show progress on project to the whole class 
+- 3-4 students show progress on project to the whole class
 
-# Final Exam 
+## Wednesday (12/4)
 
-- Final Exam Presentation: Friday, December 8, 8 am - 10 am
+- 3-4 students show progress on project to the whole class
 
+## Friday (12/6)
+
+- 3-4 students show progress on project to the whole class
+
+# Week 16 (12/9)
+
+## Monday (12/9)
+
+- 3-4 students show progress on project to the whole class
+
+# Final Exam
+
+- **Final Exam Presentation:** Friday, December 13, 8 am - 10 am

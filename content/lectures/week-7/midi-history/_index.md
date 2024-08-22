@@ -39,6 +39,7 @@ theme = "solarized"
     - MIDI devices connect with 5-pin DIN cables between MIDI In and MIDI Out ports. Many audio interfaces also have MIDI ports. USB and Firewire connections can also carry MIDI data.
   - **Messages**
     - The MIDI specification defines the structure of MIDI messages. Messages contain commands for things like note on/off, controllers, program change, pitch bend, etc. Commands include the channel number, note/controller numbers, velocities, and other parameters.
+{{%/note %}}
 
 ---
 

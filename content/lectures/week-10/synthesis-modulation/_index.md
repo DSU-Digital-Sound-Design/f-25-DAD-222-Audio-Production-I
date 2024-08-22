@@ -25,7 +25,7 @@ The modulatable parameters of our model are this:
 There are three basic ways to control these parameters: through **direct control**, with an **envelope**, and with a **low frequency oscillator (LFO)**.
 
 Direct control refers to the parameters being controlled directly by MIDI messages or you actually turning knobs and sliders yourself on an analogue synthesizer.
-
+{{%/ note %}}
 ---
 
 ## Modulation with LFOs

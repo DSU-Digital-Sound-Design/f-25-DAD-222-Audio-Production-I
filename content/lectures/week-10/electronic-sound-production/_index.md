@@ -64,6 +64,7 @@ theme = "solarized"
 {{% note %}}
 Yamaha DX7, an early all-digital, MIDI-compatible keyboard synthesizer (1983). At about $2,000, the DX7 was relatively inexpensive by early 1980s’ standards.
 
+{{%/ note %}}
 ---
 
 ## Basic synthesis model

@@ -30,7 +30,7 @@ We can think of digital as a light switch, on or off, whereas analog is a contin
 * Quantization is the process of assigning an amplitude to the sample
 * Sample resolution (Bit Depth) is the number of amplitude values available to the ADC
 
-{{/note %}}
+{{%/note %}}
 
 ---
 
@@ -44,7 +44,7 @@ CD-quality audio is 44.1 kHz, the most common sampling rate. The ACD measures th
 
 We must remember that this sampling process always ignores some data coming in, but 44.1 kHz/second is high enough to capture the most critical information in the audio signal.
 
-{{/note %}}
+{{%/note %}}
 
 ---
 
@@ -67,7 +67,7 @@ In this case, the Nyquist frequency is 22,050 Hz, which means that the highest f
 
 Sampling at or above the Nyquist rate is essential to avoid aliasing, which is a phenomenon where higher-frequency components in the analog signal are incorrectly represented as lower-frequency components in the digital signal. In practice, it's common to sample at rates significantly higher than the Nyquist rate to ensure accurate representation of audio and other analog signals.
 
-{{/note %}}
+{{%/note %}}
 
 ---
 
@@ -82,7 +82,7 @@ Sampling at or above the Nyquist rate is essential to avoid aliasing, which is a
 
 Higher sampling rates are often used during recording to reduce the noise in the signal. They are later downsampled to 44.1kHz. 
 
-{{/note %}}
+{{%/note %}}
 
 ---
 
@@ -98,7 +98,7 @@ The ADC measures the incoming analog electrical waveform 44,100 times per second
 
 This is also known as bit depth, not to be confused with "bit rate", which we will talk about at another time. 
 
-{{/note %}}
+{{%/note %}}
 
 ---
 
@@ -110,7 +110,7 @@ This is also known as bit depth, not to be confused with "bit rate", which we wi
 
 * Common bit depths include 16-bit (65,536 discrete levels), 24-bit (16,777,216 discrete levels), and 32-bit (4,294,967,296 discrete levels).
 
-{{/note %}}
+{{%/note %}}
 
 ---
 
@@ -127,7 +127,7 @@ Once we convert to digital, how is it stored?
 
 In uncompressed file formats, digital audio is stored as a series of 16- or 24-bit amplitude values or as 32-bit floating-point amplitude values—32-bit floating-point values are used for internal calculations within most audio recording software, but recording (ADC) and playback (DAC) are done with 16 or 24 bits. Chunks of data written at the beginning of the file indicate information such as the sampling rate, the resolution, the number of channels (two for stereo, six for 5.1 surround, etc.), and the length of the file. Some formats include other information as well, such as loop points for use by hardware or software samplers. Digital audio that is used by audio editing/processing/mixing software is stored in an uncompressed file format.
 
-{{/note %}}
+{{%/note %}}
 
 ---
 
@@ -149,4 +149,4 @@ Lossy compression, on the other hand, reduces audio file sizes by permanently an
 Most lossy compression schemes utilize perceptual encoding to achieve file size reduction without a substantial loss in quality. 
 
 The term “perceptual encoding” encompasses a variety of techniques that use knowledge of the human auditory system to selectively remove elements that we wouldn’t hear anyway. As an example, one of the auditory phenomena utilized by perceptual encoders is frequency masking.
-{{/note %}}
+{{%/note %}}
