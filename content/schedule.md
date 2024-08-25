@@ -13,9 +13,9 @@ author: ""
   - What's your name, major, and what is the **last** song you listened to?
 - Introduction to [syllabus](../syllabus)
 - [Intro to Music Technology](../lectures/week-1/intro-to-music-tech-slides/) slides
-- Pre-test - on [D2L](https://d2l.sdbor.edu/d2l/le/content/1840590/viewContent/11705355/View)
+- Pre-test - on D2L
 
-> **Homework:** [Your favorite song](https://d2l.sdbor.edu/d2l/le/content/1840590/viewContent/11705356/View) - Post a recording or video of one of your favorite songs or pieces of music that involve some type of audio production. Find some aspects of the piece that you would like to learn how to recreate in this class. Write a paragraph describing why you like it and what you would like to learn from it. **Due Friday, 8/30.**
+> **Homework:** [Your favorite song](https://d2l.sdbor.edu/d2l/le/content/1950074/viewContent/12965704/View) - **Due Friday, 8/30.**
 
 ## Wednesday (8/28)
 

@@ -21,16 +21,29 @@ Lets go ahead and create a definition, based on devices, activities and concepts
 
 # What other types of fields does music technology touch?
 
+{{% note %}}
+- Audio Engineering
+- Music Production
+- Acoustics
+- Computer Science
+- Electronic Engineering
+- Music Performance
+- Sound Design
+- Interactive Media
+{{%/ note %}}
+
 ---
 
-# Hardware and software
+## Hardware and software
 
-- Methods of sound capture and production
-  - Microphone
-  - Loudspeaker
-  - Pickup
-    - Coil and Piezo
-  - Tonewheel organ
+- **Methods of sound capture and production**
+  - **Microphone:** Captures sound by converting air pressure variations into electrical signals.
+  - **Loudspeaker:** Converts electrical signals back into sound.
+  - **Pickup:**
+    - **Coil:** Converts string vibrations into electrical signals, typically used in electric guitars.
+    - **Piezo:** Captures vibrations from surfaces, commonly used in acoustic instruments.
+  - **Tonewheel Organ:** An electromechanical instrument generating sound using rotating metal tonewheels.
+
 
 ---
 
@@ -46,6 +59,10 @@ Jimmy Smith
 
 # Electronic instruments
 
+- **Theremin:** An early electronic instrument controlled without physical contact.
+- **Synthesizers:** Instruments that generate sound electronically, often with extensive sound-shaping capabilities.
+
+
 ---
 
 ## Theramin - Clara Rockmore - The Swan
@@ -60,33 +77,40 @@ Jimmy Smith
 
 ---
 
-# Computer based instruments
+- **Software Synthesizers:** Virtual instruments that simulate the sound of traditional or new electronic instruments.
+- **Sample Libraries:** Collections of pre-recorded sounds used to create music.
 
 ---
 
-# Digital Audio Workstations
+## Digital Audio Workstations (DAWs)
 
-- Ableton Live
-- Reaper
-- Protools
-- Logic Pro
+- **Ableton Live:** Popular for live performance and electronic music production.
+- **Reaper:** Flexible and cost-effective DAW suitable for all types of audio production.
+- **Pro Tools:** "Industry standard" for recording, mixing, and post-production.
+- **Logic Pro:** DAW for Mac users, widely used in music production.
+
+
 
 ---
 
-# Laptop orchestra
+## Laptop Orchestra
+
+- Combines live performance with computer-generated sound.
+- Musicians use laptops and other digital instruments as their primary tools.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S-T8kcSRLL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 ---
 
-# Activities
+## Activities in Music Technology
 
-- sequencing
-- composing
-- mixing / mastering
-- live-sound
-- programming
-- live coding
+- **Sequencing:** Arranging musical elements in a specific order for playback.
+- **Composing:** Creating original music using various technologies.
+- **Mixing / Mastering:** Refining and balancing sound in a recording.
+- **Live-Sound:** Managing audio during live performances.
+- **Programming:** Writing code to create or manipulate sound.
+- **Live Coding:** Performing music by writing and modifying code in real-time.
 
 ---
 
