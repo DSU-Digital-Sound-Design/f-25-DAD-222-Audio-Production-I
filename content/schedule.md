@@ -19,13 +19,8 @@ author: ""
 
 ## Wednesday (8/28)
 
-- Listen to the **last song** playlist
 - Your **favorite song** is due Friday
-- The pre-test results were promising. You know a few things already.
-  - If you haven't completed this, let's spend a few minutes and do it in class.
-  - Any questions about this?
 - Finish [Intro to Music Technology](../lectures/week-1/intro-to-music-tech-slides/) slides
-- [Sound and hearing](../lectures/week-1/sound-and-hearing/) slides
 
 ## Friday (8/30)
 
