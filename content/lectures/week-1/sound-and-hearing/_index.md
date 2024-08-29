@@ -7,13 +7,21 @@ margin = 0.2
 separator = "##"
 +++
 
-# Sound and hearing
+## Introduction to Sound and Hearing
 
-{{% note %}} 
+### What You'll Learn
+- Basics of sound: amplitude, frequency, phase, and harmonics
+- How the ear processes sound
+- Introduction to psychoacoustics: How we perceive sound
+- Practical implications for audio production
 
-To understand the basics of audio production, we need to understand the basics of sound. Recording, sampling, and synthesis all start and end with sound.
+### Why It Matters
+Understanding sound and hearing is foundational for anyone working in audio production, from recording and mixing to synthesis and sound design.
 
+{{% note %}}
+This slide sets the stage for the presentation by outlining what students will learn and why it's important. Emphasize that these fundamentals will be referenced throughout their studies and careers.
 {{%/ note %}}
+
 
 ---
 
@@ -73,6 +81,18 @@ This diagram is helpful, but this is not usually how we visualize sound. We do i
 
 ---
 
+## Understanding Amplitude
+
+### Key Concepts
+- Amplitude measures the strength or intensity of a sound wave.
+- It directly relates to perceived loudness.
+
+{{% note %}}
+Introduce the concept of amplitude here. Stress that amplitude is a fundamental aspect of how we perceive sound, and it directly affects the loudness we hear.
+{{%/ note %}}
+
+---
+
 ## Amplitude
 
 ![](amplitude.png)
@@ -83,52 +103,83 @@ The distance above or below the centerline of a waveform (such as a pure sine wa
 
 ---
 
-## Frequency
+## Amplitude in the Real World
+
+- **Example:** Think about the difference in loudness between a whisper and a shout.
+- **Interactive Example** [amplitude](https://contrib.pbslearningmedia.org/WGBH/buac20/buac20-int-wavesamplitude/index.html)
+- **Tip:** When recording, always monitor amplitude levels to avoid distortion.
+
+{{% note %}}
+Use this slide to connect the concept of amplitude to everyday experiences. Play the sound clip and ask students to describe what they hear. Reinforce the importance of monitoring levels in recording.
+{{%/ note %}}
+
+---
+
+## Understanding Frequency
+
+### Key Concepts
+- Frequency refers to the number of cycles per second in a sound wave.
+- It determines the pitch of the sound.
 
 ![](frequency.png)
 
 {{% note %}}
+Transition into the concept of frequency. Explain that frequency is crucial for understanding pitch, which is another fundamental aspect of sound.
+
 The rate at which an acoustic generator, electrical signal, or vibrating mass repeats within a cycle of positive and negative amplitude is known as the frequency of that signal.
 
 We can also measure a frequency in cycles per second; (Hz) or hertz (Hz). An "A" note is 440 Hz.
 {{%/ note %}}
 
+---
+
+## Frequency in Action
+
+- **Example:** A bass note versus a high-pitched whistle.
+- **Interactive Example** [frequency](https://contrib.pbslearningmedia.org/WGBH/buac20/buac20-int-wavesfreq/index.html)
+- **Tip:** Different frequencies interact in complex ways in a mix. 
+
+{{% note %}}
+Play the sound clip and discuss how low and high frequencies differ in sound. Highlight the importance of understanding frequency when working with EQ and other audio tools.
+{{%/ note %}}
 
 ---
 
-## Phase
+## Phase Relationships
+
+- **Key Concept:** Phase refers to the timing relationship between two sound waves.
+- **Impact:** Out-of-phase waves can cancel each other out, leading to a reduction in sound.
+- **Sound Demo:** [Phase](https://youtu.be/bc1Z1ck9hKQ)
 
 ![](phase.png)
 
 {{% note %}}
-For simplicity’s sake, let’s limit our example to two pure tone waveforms (sine waves) that have equal amplitudes and frequency but start their cyclic periods at different times. Such waveforms are said to be out of phase to each other.
-
-Out-of-phase signals can cause reductions in amplitude and are generally undesirable.
-
-The example shows waves that either increase the amplitude, cancel, or combine. The last is more likely in practice.
-
+Discuss the concept of phase, emphasizing how out-of-phase signals can lead to issues like phase cancellation. Use the demo to show this effect in practice.
 {{%/ note %}}
 
+---
+
+[Random phases - square and sawtooth](https://tomasboril.cz/fourierseries3d/en/)
 
 ---
 
-[Random phases - square and sawtooth](https://tomasboril.cz/fourierseries3d/)
 
----
-## Harmonic content
+## Harmonic Content
 
+- **Key Concept:** Harmonics are additional frequencies in a sound that define its timbre.
+- **Real-World Example:** Why a guitar and piano sound different, even when playing the same note.
+- **Sound Clips:** [Fourier Series 3D interactive demonstration](https://tomasboril.cz/fourierseries3d/en/)
+  
 {{% note %}}
+Explain harmonics and how they contribute to the unique sound of different instruments. Use the sound clips to demonstrate these differences in timbre.
+
 Most real life sounds are much more complex than a sine wave.
 
 The factor that helps us differentiate between instrumental “voicings” is the presence of frequencies (called partials) that exist in addition to the fundamental pitch that’s being played. Partials that are higher than the fundamental frequency are called upper partials or overtones. If the overtones are whole-number multiples of the fundamental frequency, they are called harmonics.
 
 Harmonics also form the basis of synthesis.
-
 {{%/ note %}}
 
----
-
-- [Fourier Series 3D interactive demonstration](https://tomasboril.cz/fourierseries3d/en/)
 ---
 
 # The Decibel
@@ -153,11 +204,15 @@ Variations in sound pressure level or SPL and is measured on a logarithmic scale
 
 ---
 
-# Psychoacoustics
+## Introduction to Psychoacoustics
+
+- **What Is It?** Psychoacoustics explores how our brain interprets sound.
+- **Key Concepts:** Pitch perception, loudness perception, and spatial hearing.
 
 {{% note %}}
-This is not the end of the story. We now have to talk about psychoacoustics. Psychoacoustics deals with how and why the brain interprets a particular sound stimulus in a certain way. Although much study has been devoted to this subject, the primary device in psychoacoustics is the all-elusive brain, which is still largely unknown to present-day science.
+Introduce the concept of psychoacoustics and explain why it's important in audio production. Stress that this field helps us understand how listeners perceive the sounds we create.
 {{%/ note %}}
+
 
 ---
 
@@ -168,37 +223,35 @@ This is not the end of the story. We now have to talk about psychoacoustics. Psy
 {{% note %}}
 What sound comes into your ears is not always what you "hear"; your brain completes the picture. Our ears perception of timbre and frequency changes with the loudness of a perceived signal
 
-The Fletcher-Munson equal-loudness contour curves (Figure 2.26) indicate the ear’s average sensitivity to different frequencies at various levels. These indicate the sound-pressure levels required for our ears to hear frequencies along the curve as being equal in level to a 1000-Hz reference level (measured in phons).
+This image is known as the **Fletcher-Munson curve** or **equal-loudness contour**. It’s a graph that shows how the human ear perceives loudness at different frequencies and volumes.
+
+### Breaking It Down:
+
+- **Horizontal Axis (X-axis):** 
+  - This represents the **frequency** of a sound, measured in Hertz (Hz). The frequency ranges from low (20 Hz) to high (10,000 Hz). Lower frequencies are bass sounds, while higher frequencies are treble sounds.
+
+- **Vertical Axis (Y-axis):**
+  - This represents the **sound pressure level (SPL)** in decibels (dB SPL), which is a measure of how loud a sound is.
+
+- **Curves on the Graph:**
+  - Each curve shows the ear’s sensitivity to different frequencies at various loudness levels. 
+  - The numbers on the right represent **loudness levels** in phons, which correspond to the perceived loudness of a 1,000 Hz tone at different decibel levels.
+  - For example, the 60-phon curve means that all the frequencies on that line sound equally loud to our ears as a 1,000 Hz tone at 60 dB SPL.
+
+### Key Points:
+
+- **Threshold of Hearing:** 
+  - The dotted line near the bottom represents the quietest sound that the average human ear can hear at each frequency. This is known as the **threshold of hearing**.
+
+- **Sensitivity Variation:** 
+  - The ear is most sensitive to frequencies between **1,000 and 5,000 Hz**. Sounds in this range are perceived as louder compared to lower or higher frequencies at the same SPL.
+  
+- **Practical Implications:**
+  - This means that a low-frequency sound (like a deep bass) needs to be much louder than a mid-frequency sound (like a human voice) for us to perceive them as equally loud.
+
+In simple terms, this graph tells us that our ears don’t hear all frequencies equally well, especially at lower volumes. This is why, for instance, bass might seem softer at lower volumes and why sound engineers compensate for this in their mixing.
+
+
 {{%/ note %}}
 
----
 
-## Beats
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yia8spG8OmA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-{{% note %}}
-Two tones that differ only slightly in frequency and have approximately the same amplitude will produce an effect known as beats. What you'll hear is changes in amplitude. This is how many people tune instruments.
-
-Lets do the DIY for beats on pg 68.
-{{%/ note %}}
-
----
-
-## Combination Tones
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OiW8gzBGz1A?start=583" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-{{% note %}}
-Combination tones result when two loud tones differ by more than 50 Hz. In this case, the ear perceives an additional set of tones that are equal to both the sum and the difference between the two original tones as well as being equal to the sum and difference between their harmonics.
-{{%/ note %}}
-
----
-
-## Masking
-
-{{% note %}}
-Masking is the phenomenon by which loud signals prevent the ear from hearing softer sounds. The greatest masking effect occurs when the frequency of the sound and the frequency of the masking noise are close to each other. For example, a 4 kHz tone will mask a softer 3.5 kHz tone but has little effect on the audibility of a quiet 1000 Hz tone.
-
-Lets try the diy the modrec.com
-{{%/ note %}}
