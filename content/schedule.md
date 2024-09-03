@@ -26,7 +26,6 @@ author: ""
 
 - [Sound and hearing](../lectures/week-1/sound-and-hearing/) slides
 
-<!-- 
 # Week 2 (9/2)
 
 ## Monday (9/2)
@@ -36,11 +35,12 @@ author: ""
 ## Wednesday (9/4)
 
 - Listen to a few of your songs
-- [Introduction to Reaper](../lectures/week-1/reaper-intro/)
+- [Introduction to Reaper](../lectures/week-2/reaper-intro/)
 
+<!-- 
 ## Friday (9/6)
 
-- [Introduction to Reaper](../lectures/week-1/reaper-intro/#/8) - Continue with intro
+- [Introduction to Reaper](../lectures/week-2/reaper-intro/#/8) - Continue with intro
 - [Saving and exporting](../lectures/week-2/this-is-reaper-2/)
 - Introduce [Project 1: Arranging Clips](../projects/project-1/)
   - Find loops and preview them - [Looper Man](https://www.looperman.com) - show the different features of this website
