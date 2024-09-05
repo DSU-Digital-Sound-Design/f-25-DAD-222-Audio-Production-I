@@ -37,7 +37,6 @@ author: ""
 - Listen to a few of your songs
 - [Introduction to Reaper](../lectures/week-2/reaper-intro/)
 
-<!-- 
 ## Friday (9/6)
 
 - [Introduction to Reaper](../lectures/week-2/reaper-intro/#/8) - Continue with intro
@@ -48,6 +47,7 @@ author: ""
 
 > **Project 1: Arranging Clips** - Due Friday, 9/13 by midnight.
 
+<!-- 
 # Week 3 (9/9)
 
 ## Monday (9/9)
