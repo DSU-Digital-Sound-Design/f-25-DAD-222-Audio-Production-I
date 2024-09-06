@@ -47,23 +47,29 @@ author: ""
 
 > **Project 1: Arranging Clips** - Due Friday, 9/13 by midnight.
 
-<!-- 
 # Week 3 (9/9)
 
 ## Monday (9/9)
 
-- Show a basic version of the loops project
-- Work on the project in class
 - Listen to favorite songs
+  - Class playlist: https://music.apple.com/us/playlist/dad-222-favorite-song-24/pl.u-ddWuM5NmYA
+  - Note: `Please respond when writing in full sentences and not bulleted points.`
+- Show a basic version of the loops project
+  - Find 7 clips from Looperman
+  - Layer and rename tracks in Reaper
+  - Build arrangement 
+- Work on the project in class
 
+<!-- 
 ## Wednesday (9/11)
 
-- Your favorite sounds were great! There's so much variety.
-- Listen to loops projects
+- Some layering and mixing of the project from Monday
 - [Audio Hardware slides](../lectures/week-2/audio-hardware/)
 
 ## Friday (9/13)
 
+- Finish the in-class project
+  - mixing and exporting 
 - Project grades are in
   - Follow the directions [here](../lectures/week-2/this-is-reaper-2/) to export and render your project. You have one week to resubmit for credit.
 - **Move to the studio**
