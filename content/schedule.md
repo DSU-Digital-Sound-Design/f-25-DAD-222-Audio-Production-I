@@ -60,12 +60,12 @@ author: ""
   - Build arrangement 
 - Work on the project in class
 
-<!-- 
 ## Wednesday (9/11)
 
 - Some layering and mixing of the project from Monday
 - [Audio Hardware slides](../lectures/week-2/audio-hardware/)
 
+<!-- 
 ## Friday (9/13)
 
 - Finish the in-class project
