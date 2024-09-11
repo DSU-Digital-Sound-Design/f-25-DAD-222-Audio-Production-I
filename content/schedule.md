@@ -78,15 +78,14 @@ author: ""
 
 > **Project 2: Unreliable Product Ad** - DUE 9/27 by class time. Have your script ready by Monday, 9/23.
 
+# Week 4 (9/16) - **No classes this week due to conference travel**
+
+- Work on your script for the Unreliable Product Ad
+- Read through the [Charm Studios](https://sites.google.com/view/charmstudios) to familiarize yourself with the studio and equipment before we start recording next week..
+
+
+
 <!-- 
-# Week 4 (9/16) - **Studio Week**
-
-## Monday (9/16) - **TBD**
-
-## Wednesday (9/18) - **TBD**
-
-## Friday (9/20) - **TBD**
-
 # Week 5 (9/23)
 
 ## Monday (9/23)
