@@ -65,13 +65,10 @@ author: ""
 - Some layering and mixing of the project from Monday
 - [Audio Hardware slides](../lectures/week-2/audio-hardware/)
 
-<!-- 
 ## Friday (9/13)
 
 - Finish the in-class project
   - mixing and exporting 
-- Project grades are in
-  - Follow the directions [here](../lectures/week-2/this-is-reaper-2/) to export and render your project. You have one week to resubmit for credit.
 - **Move to the studio**
   - Finish: [Audio Hardware slides](../lectures/week-2/audio-hardware/#/4)
   - Studio tour
@@ -81,6 +78,7 @@ author: ""
 
 > **Project 2: Unreliable Product Ad** - DUE 9/27 by class time. Have your script ready by Monday, 9/23.
 
+<!-- 
 # Week 4 (9/16) - **Studio Week**
 
 ## Monday (9/16) - **TBD**
