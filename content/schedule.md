@@ -85,7 +85,6 @@ author: ""
 
 
 
-<!-- 
 # Week 5 (9/23)
 
 ## Monday (9/23)
@@ -97,6 +96,7 @@ author: ""
   - More tips for editing in Reaper
     - [Editing](../lectures/week-4/editing/)
 
+<!-- 
 ## Wednesday (9/25)
 
 - [Digital Audio](../lectures/week-4/digital-audio-data/)
