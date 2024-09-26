@@ -76,7 +76,7 @@ author: ""
     - [Studio Documentation](https://sites.google.com/view/charmstudios/studio-documentation)
     - Book your time in the studio to record your projects
 
-> **Project 2: Unreliable Product Ad** - DUE 9/27 by class time. Have your script ready by Monday, 9/23.
+> **Project 2: Unreliable Product Ad** - Have your script ready by Monday, 9/23.
 
 # Week 4 (9/16) - **No classes this week due to conference travel**
 
@@ -89,6 +89,10 @@ author: ""
 
 ## Monday (9/23)
 
+- out of town - no class
+
+## Wednesday (9/25)
+
 - [Reaper Recording](../lectures/week-3/reaper-recording/)
   - One student dialogue demo
 - Editing
@@ -96,27 +100,20 @@ author: ""
   - More tips for editing in Reaper
     - [Editing](../lectures/week-4/editing/)
 
-<!-- 
-## Wednesday (9/25)
+## Friday (9/27)
 
-- [Digital Audio](../lectures/week-4/digital-audio-data/)
+- [Unreliable Product Ad](../projects/project-2-ad/) - Due October 2nd
 - [Editing](../lectures/week-4/editing/) - dialogue
 - Sound Effects + music beds
   - [Finding sound effects](../lectures/week-4/sound-effects/)
-  - Listen back to the ads from a few classes ago; what types of sound effects do they use?
   - Examples could be transition impacts or swooshes between character lines. Some scripts will have specific needs for effects that illustrate locations or products, like chirping birds for outdoor settings.
   - Add sound effects to separate tracks
 - Make sure your music and dialogue work well together
 - Mixing -- background music should be much quieter than dialogue; around -30 dB is a good start.
+- [Digital Audio](../lectures/week-4/digital-audio-data/)
 
-## Friday (9/27)
 
-- Listen to the ads in class
-- More recording and in-class work, if necessary
-- Time permitting, finally listening to your favorite songs!
-
-> **Project 2: Unreliable Product Ad DUE**
-
+<!-- 
 # Week 6 (9/30)
 
 ## Monday (9/30)
@@ -127,6 +124,7 @@ author: ""
 
 ## Wednesday (10/2)
 
+- Listen to ads in class
 - Exploring EQ on a multitrack recording - [instructions](../lectures/week-5/eq-multitrack/)
 
 ## Friday (10/4)
