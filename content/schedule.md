@@ -103,6 +103,7 @@ author: ""
 ## Friday (9/27)
 
 - [Unreliable Product Ad](../projects/project-2-ad/) - Due October 2nd
+- Another recording day for some more practice, but focusing on editing and mixing. 
 - [Editing](../lectures/week-4/editing/) - dialogue
 - Sound Effects + music beds
   - [Finding sound effects](../lectures/week-4/sound-effects/)
@@ -110,7 +111,6 @@ author: ""
   - Add sound effects to separate tracks
 - Make sure your music and dialogue work well together
 - Mixing -- background music should be much quieter than dialogue; around -30 dB is a good start.
-- [Digital Audio](../lectures/week-4/digital-audio-data/)
 
 
 <!-- 
@@ -118,6 +118,7 @@ author: ""
 
 ## Monday (9/30)
 
+- [Digital Audio](../lectures/week-4/digital-audio-data/)
 - [FX Roulette game](../lectures/week-5/fx-roulette/)
 - [Equalization](../lectures/week-5/eq/)
 - ReaEQ Guide - [Up and Running: A REAPER User Guide](https://dlz.reaper.fm/userguide/REAPEREffectsGuide2021.pdf#page=17)
