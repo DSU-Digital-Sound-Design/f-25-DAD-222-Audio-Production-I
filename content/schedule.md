@@ -113,19 +113,19 @@ author: ""
 - Mixing -- background music should be much quieter than dialogue; around -30 dB is a good start.
 
 
-<!-- 
 # Week 6 (9/30)
 
 ## Monday (9/30)
 
-- [Digital Audio](../lectures/week-4/digital-audio-data/)
 - [FX Roulette game](../lectures/week-5/fx-roulette/)
-- [Equalization](../lectures/week-5/eq/)
-- ReaEQ Guide - [Up and Running: A REAPER User Guide](https://dlz.reaper.fm/userguide/REAPEREffectsGuide2021.pdf#page=17)
+- [Digital Audio](../lectures/week-4/digital-audio-data/)
 
+<!-- 
 ## Wednesday (10/2)
 
 - Listen to ads in class
+- [Equalization](../lectures/week-5/eq/)
+- ReaEQ Guide - [Up and Running: A REAPER User Guide](https://dlz.reaper.fm/userguide/REAPEREffectsGuide2021.pdf#page=17)
 - Exploring EQ on a multitrack recording - [instructions](../lectures/week-5/eq-multitrack/)
 
 ## Friday (10/4)
