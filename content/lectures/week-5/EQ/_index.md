@@ -68,18 +68,3 @@ In audio and sound engineering, "EQ" stands for equalization. Equalization is a 
 
 <iframe src="https://dlz.reaper.fm/userguide/REAPEREffectsGuide2021.pdf#page=17" style="width:100%; height: 700px"></iframe>
 
----
-
-## EQ Project 
-
-Find three loops from [Freesound](https://freesound.org/) or Looperman: 
-
-1. full frequency range
-2. high mid-range to high-frequency 
-3. low-frequency
-
-{{% note %}}
-Find tracks spectrums by clicking on the spectrogram button on the waveform in freesound. 
-
-Listen to how the high and low frequency tracks interact with the full frequency spectrum track. Equipment with using a high pass or lowpass filter to fit the three tracks together. 
-{{%/ note %}}

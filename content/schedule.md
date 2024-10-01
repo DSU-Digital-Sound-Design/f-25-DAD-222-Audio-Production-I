@@ -118,16 +118,16 @@ author: ""
 ## Monday (9/30)
 
 - [FX Roulette game](../lectures/week-5/fx-roulette/)
-- [Digital Audio](../lectures/week-4/digital-audio-data/)
 
-<!-- 
 ## Wednesday (10/2)
 
 - Listen to ads in class
-- [Equalization](../lectures/week-5/eq/)
-- ReaEQ Guide - [Up and Running: A REAPER User Guide](https://dlz.reaper.fm/userguide/REAPEREffectsGuide2021.pdf#page=17)
-- Exploring EQ on a multitrack recording - [instructions](../lectures/week-5/eq-multitrack/)
+- [Digital Audio](../lectures/week-4/digital-audio-data/)
+- [EQ in class assignment](../lectures/week-5/eq-assignment/)
+<!-- - [Equalization](../lectures/week-5/eq/) -->
+<!-- - Exploring EQ on a multitrack recording - [instructions](../lectures/week-5/eq-multitrack/) -->
 
+<!-- 
 ## Friday (10/4)
 
 - Dynamics effects
