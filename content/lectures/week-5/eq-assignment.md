@@ -6,13 +6,13 @@ title: EQ Exploration Project
 
 [Cheatsheet](../musicfrequencycheatsheet.pdf)
 
-**Objective**: Use EQ in Reaper to manipulate specific frequency ranges in a full-spectrum track from Looperman, referencing the **Music Instrument Frequency Cheatsheet** for guidance.
+**Objective**: Use EQ in Reaper to manipulate specific frequency ranges in a full-spectrum tracks from Looperman, referencing the **Music Instrument Frequency Cheatsheet** for guidance.
 
 ### Instructions:
 
 **Find a Three Loops**:
 
-- Go to Looperman and search for tracks that includes combinations of instruments. Look for tracks in these catagories, or similar:
+- Go to Looperman and search for three tracks that includes combinations of instruments. Look for tracks in these catagories, or similar:
     - *drum and bass* or *funk*
     - *acoustic* or *singer-songwriter*
     - *rock* or *metal*
