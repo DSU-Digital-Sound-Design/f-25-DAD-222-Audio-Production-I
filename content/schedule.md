@@ -125,15 +125,15 @@ author: ""
 - [Digital Audio](../lectures/week-4/digital-audio-data/)
 - [EQ in class assignment](../lectures/week-5/eq-assignment/)
 <!-- - [Equalization](../lectures/week-5/eq/) -->
-<!-- - Exploring EQ on a multitrack recording - [instructions](../lectures/week-5/eq-multitrack/) -->
 
-<!-- 
 ## Friday (10/4)
 
+- Exploring EQ on a multitrack recording - [instructions](../lectures/week-5/eq-multitrack/)
 - Dynamics effects
   - [ReaComp](../lectures/week-5/compression/), ReaXComp, ReaLimit, ReaGate
   - What elements in our mix are still not sitting correctly that could use compression?
 
+<!-- 
 # Week 7 (10/7)
 
 ## Monday (10/7)

@@ -1,51 +1,70 @@
 ---
-title: "Compression and when to use it"
+title: "Compression and When to Use It"
 ---
 
-Download [these audio tracks](../comp-audio.zip) to practice with in class. 
+Download [these audio tracks](../comp-audio.zip) to practice with in class.
 
-> Compression is the process of reducing the difference between a signal's loudest and quietest parts, or its dynamic range.
+> Compression is a technique that controls the dynamic range of an audio signal—this means balancing the loudest and quietest parts by reducing peaks and boosting lower parts when needed.
 
 ![](../Figure-7.11-Dynamics-compression-and-expansion.png)
 
-[source](http://digitalsoundandmusic.com/chapters/ch7/)
+This image shows how compression affects the dynamic range, balancing the loud and quiet moments of a signal.
 
-See the [Reaper Effects guide](https://www.reaper.fm/guides/REAPEREffectsGuide2021.pdf) section on compression (Chapter 2) for basic definitions of parameters.
+For more detailed definitions of compressor parameters, check out the [Reaper Effects guide](https://dlz.reaper.fm/userguide/REAPEREffectsGuide2021.pdf), specifically Chapter 2 on compression.
 
-Some uses for compression:
+### Why Use Compression?
 
-- Our singer sings too softly causing the vocals to get lost in the mix
-- Or conversely if the singer sings too loudly, it would overpower the mix
-- Make drums and percussion more cutting and aggressive by reducing their dynamic range
+Here are some common uses for compression in music:
 
-### Drums
+- **Vocals**: Compression keeps vocals at a steady level, so softer parts don’t get lost and louder parts don’t overwhelm the mix.
+- **Drums**: Compressing drums can make them punchier by controlling their dynamic range, giving them more presence.
+- **Instruments**: Compression can also add sustain to instruments like guitars, making notes last longer and sound fuller.
 
-We'll start with the drums on our mix. Solo the **kick drum** and add a ReaComp to it. Check the auto make-up gain (the level of the output volume will be increased to compensate for any reduction caused by the compression).
+### Applying Compression to Drums
 
-The most important parameters are **threshold** and **ratio**
+Let's start by compressing the **kick drum** in our mix using ReaComp in Reaper:
 
-> **Threshold** - Determines the volume at which compression should be applied.
+1. Click on the FX button on the kick drum track.
+2. Search for "ReaComp" in the FX browser and add it to the track.
+3. Enable **Auto Make-up** gain to keep the output volume consistent after compression.
+
+Two important parameters to focus on are **threshold** and **ratio**.
+
+> **Threshold**: This determines the volume level at which the compressor starts to work. If the sound goes above this level, the compressor kicks in.
 >
-> **Ratio** - Determines the extent to which the compression will reduce the track's volume above the threshold.
+> **Ratio**: Once the threshold is crossed, the ratio determines how much the volume is reduced. For example, with a 4:1 ratio, for every 4 dB over the threshold, the output only increases by 1 dB.
 
 ![](../Audio-Compressor-Ratio-Chart-652x435-1418756899.jpg)
 
-Set your ratio to 4:1 and the compressor will only compress your signal by 1 dB if it was 4 dB before it hit the threshold. As you pull down the threshold value, you will see how much gain reduction is happening in the gain reduction meter.
+Try setting the ratio to 4:1 and adjust the threshold. As you lower the threshold, you’ll see the gain reduction meter show how much the volume is being reduced.
 
-Listen to the kick before and after to hear the tonal changes that the compressor adds.
+Listen carefully to the kick drum before and after applying compression to hear how the sound becomes more controlled.
 
-The next most important settings are the **attack** and **release** times. These parameters are towards the more advanced side of compressor usage.
+### Fine-Tuning Attack and Release
 
-> Attack - Determines how quickly the compressor responds when the threshold level is reached or exceeded. A zero
-> setting means the full compression will be applied immediately and suddenly: the greater the number of
-> milliseconds specified, the more gradual the response.
+Once you have set the threshold and ratio, you can adjust the **attack** and **release** settings. These determine how quickly the compressor reacts to changes in volume.
 
-> Release - Determines how quickly the compressor responds when the volume drops below the threshold level. A zero
-> setting means that the compression will be fully and instantly released. A higher setting ensures that the release
-> will be more gradual
+> **Attack**: Controls how fast the compressor kicks in after the threshold is crossed. A fast attack (e.g., 10 ms) clamps down on transients quickly, while a slower attack allows more of the initial hit to come through, adding punch.
+>
+> **Release**: Determines how fast the compressor stops compressing after the volume falls below the threshold. A fast release (e.g., 100 ms) ensures that the compression stops quickly, preserving the natural sound between hits.
 
-These are subtle to hear but easier to see in the gain reduction meter.
+For a punchy kick drum, set the attack to around 10 ms and release to 100 ms. Watch the gain reduction meter and adjust these values while listening for the best sound.
 
-Now try the same process on our snare drum and other instruments.
+### Applying Compression to Other Instruments
 
-Try buss compression for the drums to bring them together. 
+Once you're comfortable with compressing the kick drum, apply similar techniques to other drum elements, such as the snare, adjusting the threshold, ratio, attack, and release according to the characteristics of each sound.
+
+### Bus Compression
+
+After compressing individual drum tracks, you can try **bus compression**, which applies compression to all the drum tracks together. This can help glue the drum sounds together for a more cohesive mix.
+
+Here’s how to set up bus compression:
+
+1. Create a new track and name it "Drum Bus."
+2. Route all individual drum tracks (kick, snare, etc.) to this new bus.
+3. Add ReaComp to the Drum Bus and set a gentle ratio (e.g., 2:1). This will bring all the drum elements together without sounding over-compressed.
+
+### Conclusion: Keep Experimenting
+
+Compression is a versatile tool for shaping the dynamics of your audio. Start by experimenting with your drums, then try applying compression to other elements like vocals and guitars. Over time, you’ll develop an ear for how compression can enhance your mix.
+
