@@ -133,20 +133,21 @@ author: ""
 - DAD day at MAAC - Nov 14th
   - think of a project you'd like to have shown at the event; every DSD student is required to show at least one work.
 - Exploring EQ on a multitrack recording - [instructions](../lectures/week-5/eq-multitrack/)
+
+# Week 7 (10/7)
+
+## Monday (10/7)
+
 - Dynamics effects
   - [ReaComp](../lectures/week-5/compression/), ReaXComp, ReaLimit, ReaGate
   - What elements in our mix are still not sitting correctly that could use compression?
 
 <!-- 
-# Week 7 (10/7)
+## Wednesday (10/9)
 
-## Monday (10/7)
 
 - **Time based effects**
   - [Delay, Chorus, and Flange](../lectures/week-6/delay/)
-
-## Wednesday (10/9)
-
 - [Reverb](../lectures/week-6/reverb/)
 
 ## Friday (10/11)
