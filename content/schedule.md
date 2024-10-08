@@ -142,7 +142,6 @@ author: ""
   - [ReaComp](../lectures/week-5/compression/), ReaXComp, ReaLimit, ReaGate
   - What elements in our mix are still not sitting correctly that could use compression?
 
-<!-- 
 ## Wednesday (10/9)
 
 
@@ -150,6 +149,7 @@ author: ""
   - [Delay, Chorus, and Flange](../lectures/week-6/delay/)
 - [Reverb](../lectures/week-6/reverb/)
 
+<!-- 
 ## Friday (10/11)
 
 - Putting together all we've learned to make a simple mix

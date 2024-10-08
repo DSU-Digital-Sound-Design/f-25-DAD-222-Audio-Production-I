@@ -1,61 +1,64 @@
 ---
-title: "Delay in Reaper"
+title: Delay in Reaper
 ---
 
-Delay is one of the most simple time based effects.
+Delay is one of the simplest time-based effects in audio production. It takes the incoming audio, stores it in a digital buffer for a set time, and then plays it back.
 
-- Delay takes the incoming audio and stores it in a digital buffer for a set time before playing it back 
-- The delayed signal is mixed with the original, undelayed signal 
-- The length of the delay time determines the character of the effect:
-- Long delays of 100ms+ create clear, audible echoes
-- Short delays of 10-50ms thickens the sound without noticeable echoes 
-- Very short delays of a few ms act like a comb filter, cutting frequencies
-- Feeding the delay output back into the input creates fading repeats
-- Adjusting the delay time with feedback creates different effects
+- The delayed signal is mixed with the original, undelayed signal.
+- The length of the delay time shapes the character of the effect:
+  - **Long delays** (100ms+) create clear, audible echoes.
+  - **Short delays** (10-50ms) thicken the sound without noticeable echoes.
+  - **Very short delays** (a few ms) act like a comb filter, altering frequencies.
+- Feeding the delay output back into the input creates repeating echoes that fade out over time.
+- Adjusting the delay time with feedback can produce different creative effects.
+
 ## Examples
 
-Here are some example songs that showcase different delay effects:
+Here are some examples of songs that showcase various delay effects:
 
 **Long Delay (100ms+) - Clear Echoes**
-- [Guns N' Roses - Welcome To The Jungle](https://www.youtube.com/watch?v=o1tj2zJ2Wvg) - The guitar intro has long delays on it, creating prominent echoes.
-- [ U2: Where The Streets Have No Name](https://www.youtube.com/watch?v=3FsrPEUt2Dg) - The guitar notes in the intro have long delay echoes.
+- [The Edge (U2) - I Still Haven't Found What I'm Looking For](https://www.youtube.com/watch?v=e3-5YC_oHjE) – The delay effect on the guitar is iconic and helps create the spacious, atmospheric sound U2 is known for.
+- [U2 - Where The Streets Have No Name](https://www.youtube.com/watch?v=3FsrPEUt2Dg) – The guitar notes in the intro have long, echoing delays.
 
 **Medium Delay (10-50ms) - Thickening Effect**
-- [Nirvana - Smells Like Teen Spirit](https://www.youtube.com/watch?v=hTWKbfoikeg) - The vocals have a medium delay that thickens the sound.
+- [Nirvana - Smells Like Teen Spirit](https://www.youtube.com/watch?v=hTWKbfoikeg) – The vocals use medium delay to thicken the sound.
 
 **Short Delay (Few ms) - Comb Filtering**
-- [The White Stripes - Seven Nation Army](https://www.youtube.com/watch?v=0J2QdDbelmY) - The main riff has a very short delay that gives it a comb filtered sound.
-- Chorus and Flanging are types of comb filtering. 
+- [The White Stripes - Seven Nation Army](https://www.youtube.com/watch?v=0J2QdDbelmY) – The main riff uses a very short delay, creating a comb-filtered sound.
+- *Note: Chorus and flanging are also forms of comb filtering.*
 
-**Feedback Delay (Repeating Echoes)**
-- [Harry Styles - As It Was](https://www.youtube.com/watch?v=H5v3kku4y6Q) - heard in the background 
 
-## In class mix
+## In-Class Mix Exercise
 
-We'll use three different types of sounds to experiment with our delays.
+We'll experiment with delay effects using three different types of sounds.
 
-Download the practice tracks [here](../delay-files.zip). 
+Download the practice tracks [here](../delay-files.zip) and add them to your project as separate tracks. Solo each track to listen individually. They are not meant to be played together.
 
-Add these to your project as separate tracks. Solo each of them individually to listen. They are not meant to be played together. 
+Next, create three new tracks for delay sends: name them "Short Delay," "Medium Delay," and "Long Delay." These tracks will hold your delay effects and won't have any audio directly on them. We'll send audio from the other tracks to these sends, so multiple tracks can share the same delay.
 
-Now, create three more tracks that will be your delay sends. Name these tracks "short delay", "medium delay", and "long delay". These will not have audio on them directly. We will send audio from our other tracks to these tracks. We do this so that multiple tracks can share the same delay.
+1. Add a _ReaDelay_ plugin to each of the delay send tracks.
+2. Set the **dry level** to **-inf dB** (so the dry signal is not included in the delay send).
+3. Adjust delay times:
+   - Short Delay: 10-50ms
+   - Medium Delay: 100-300ms
+   - Long Delay: 300ms+
 
-Add a _ReaDelay_ plugin to each of these delay sends. Make sure the dry level is set to -inf dB. We don't want the dry signal to be in the delay send. Set the short delay between 10 and 50 ms, set the medium delay to 100 - 300 ms, and then set the long delay to something greater than 300 ms.
-
-Listen to the effect each delay has on each track. Fade in your send amount until you achieve the desired sound. Remember that in a real production these delays won't be as noticeable because they'll be mixed with other sounds. Context is key.
+Now, experiment by sending audio to the delay tracks. Adjust the send levels to fade in the delay until you get the desired sound. In real production, delays are often more subtle because they're blended with other sounds. Remember, context is key!
 
 ## Flanger
 
-A flanger is created from modulating the delay time periodically. The delay line should be short, around 20 ms, and the rate of modulation should be around 10 Hz. Reaper has two flanger effects, _Flanger_ and _Flanger Baby_. Try them both on their own send tracks.
+A flanger is created by modulating the delay time periodically. The delay should be short, around 20ms, with a modulation rate of around 10Hz. Reaper has two flanger effects: _Flanger_ and _Flanger Baby_. Try using both on their own send tracks to hear the differences.
 
 Example: [Heart - Barracuda](https://www.youtube.com/watch?v=VdOkQ6THDVw)
 
 ## Chorus
 
-A chorus effect consists of multiple varying delays added together. In an actual choral ensemble, it is impossible for multiple singers on one part to produce exactly the same pitch at exactly the same time; they will each be slightly detuned in relation to one another. The same is true of any group of instruments playing the same part, such as the violins in an orchestra. The multiple time-varying delays when combined with the original signal simulate such an effect. To keep the effect subtle, the depth is usually modest and the modulation rate not very high.
+A chorus effect is made by layering multiple varying delays. In real life, no two singers or instruments perform exactly in sync, creating slight variations in pitch and timing. A chorus simulates this effect by combining time-varying delays with the original signal. To keep it subtle, set the modulation rate and depth to low values.
 
 Find the chorus effect in Reaper and test it out.
 
-> Extra credit: there are a lot of other delay effects available in reaper that you can find when searching for delays. Test these and and find otu what they can do.
-
 Example: [Nirvana - Come As You Are](https://www.youtube.com/watch?v=vabnZ9-ex7o)
+
+---
+
+Reaper has a wide range of other delay effects. Search for "delay" in the plugin menu, test different ones, and explore what they can do.
