@@ -147,13 +147,10 @@ author: ""
 
 - **Time based effects**
   - [Delay, Chorus, and Flange](../lectures/week-6/delay/)
-- [Reverb](../lectures/week-6/reverb/)
 
-<!-- 
 ## Friday (10/11)
 
-- Putting together all we've learned to make a simple mix
-- [Project 3: In class mixing assignment](../projects/project-3-mix/) - Due by Wednesday, 10/16
+- [Reverb](../lectures/week-6/reverb/)
 
 # Week 8 (10/14)
 
@@ -161,8 +158,11 @@ author: ""
 
 - No class for Native American Day
 
+<!-- 
 ## Wednesday (10/16)
 
+- Putting together all we've learned to make a simple mix
+- [Project 3: In class mixing assignment](../projects/project-3-mix/) - Due by Wednesday, 10/16
 - More work on the [Project 3: In class mixing assignment](../projects/project-3-mix/)
   - Listening to your balances
   - Showing how to implement the rest of the requirements: EQ, compression, delay, and reverb.
