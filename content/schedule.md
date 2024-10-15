@@ -158,15 +158,13 @@ author: ""
 
 - No class for Native American Day
 
-<!-- 
 ## Wednesday (10/16)
 
 - Putting together all we've learned to make a simple mix
-- [Project 3: In class mixing assignment](../projects/project-3-mix/) - Due by Wednesday, 10/16
-- More work on the [Project 3: In class mixing assignment](../projects/project-3-mix/)
-  - Listening to your balances
-  - Showing how to implement the rest of the requirements: EQ, compression, delay, and reverb.
+- [Project 3: In class mixing assignment](../projects/project-3-mix/) - Due by 10/25
 
+
+<!-- 
 ## Friday (10/18)
 
 **Sampling + MIDI**
