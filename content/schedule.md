@@ -164,8 +164,14 @@ author: ""
 - [Project 3: In class mixing assignment](../projects/project-3-mix/) - Due by 10/25
 
 
-<!-- 
 ## Friday (10/18)
+
+- Continue looking at [Project 3: In class mixing assignment](../projects/project-3-mix/)
+
+<!-- 
+# Week 9 (10/21)
+
+## Monday (10/21)
 
 **Sampling + MIDI**
 
@@ -173,11 +179,6 @@ author: ""
 - [Sampling History](../lectures/week-7/sampling-history/)
 - [Who Sampled](http://whosampled.com) - covers and sampling
   - In-class project: based on who sampled, find three of your favorite sampling uses from who sampled. Why do you like them? Please describe how the artist used the sample and what it was about the original recording that made the artist want to use it. We'll have a few people present at the end of class.
-
-# Week 9 (10/21)
-
-## Monday (10/21)
-
 - Questions about the mix?
 - [MIDI History](../lectures/week-7/midi-history/) - some history on the problem MIDI was invented to solve.
 - Download [Sitala - Drum Sampler Plugin](https://decomposer.de/sitala/)
