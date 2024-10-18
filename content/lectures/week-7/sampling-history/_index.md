@@ -141,6 +141,19 @@ Hip hop sampling benefited from digital samplers, making the process more effici
 
 ---
 
+## The Kraftwerk Connection
+
+- **Kraftwerk**, a German electronic music group, was influenced by avant-garde techniques, including some elements of **musique concrète**.
+- **Afrika Bambaataa** famously sampled Kraftwerk in his pioneering hip hop track **"Planet Rock"** (1982).
+
+
+[Planet Rock by Afrika Bambaataa and Soulsonic Force - Samples, Covers and Remixes | WhoSampled](https://www.whosampled.com/Afrika-Bambaataa/Planet-Rock/)
+
+{{% note %}}
+Kraftwerk's influence demonstrates how early electronic and experimental music practices (including techniques developed by musique concrète) indirectly impacted the evolution of hip hop sampling.
+{{%/ note %}}
+
+---
 
 ## Early Sampler - Fairlight CMI
 
