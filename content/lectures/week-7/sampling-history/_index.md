@@ -161,6 +161,12 @@ Kraftwerk's influence demonstrates how early electronic and experimental music p
 
 ---
 
+### Sesame Street: Herbie Hancock Makes Sounds
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oKoisNv1ftw?si=m0GpDG83YPes86jv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ## Examples from the Fairlight/other samplers
 
 - [Tracks Sampled by Kate Bush | WhoSampled](https://www.whosampled.com/Kate-Bush/samples/)
