@@ -2,36 +2,62 @@
 title: "Project 4: Beatmaking"
 ---
 
-Create a **16-32 measure** musical composition using samples from several different sources. Each of these catagories will represent one track and instance of Sitalia. This project can be a re-imaginging of your loop project but with these new samples. 
+**Objective:**\
+Create a **16-32 measure** musical composition using samples from multiple sources. Each category listed below will represent one track, with an instance of the Sitala sampler for each track. This project can be a reimagining of your loop project, but with new samples.
 
-The project should contain at least four tracks of the following types. Each of the four tracks need to contain only MIDI information used to trigger Sitalia. Download the samples with a Youtube Downloader like [Youtube Downloader - Online Youtube Video Downloader | YT1s.com](https://yt1s.com/en629). After downloading the track, select and render the portion you wish to use and then open it in Sitalia. 
+### **Requirements:**
 
-## Track Catagories 
+- The project must contain at least **four tracks**, each using only MIDI information to trigger Sitala.
+- Download the samples using a YouTube downloader, such as [YT1s.com](https://yt1s.com/en629).
+- After downloading, select and render the portion of the track you wish to use, then open it in Sitala.
+- Use the production techniques we've covered in class, such as EQ, compression, reverb, and delay, to enhance your project.
+- Feel free to manipulate your samples in creative ways beyond just EQ and compression. You can use techniques like **time-stretching, reversing, pitch-shifting**, or other effects to make the samples your own.
+- Optionally, challenge yourself to explore a **new genre** or blend multiple genres for this project. This could help expand your musical creativity and push your boundaries.
 
-1. **Drum Loop** - A drum loop from a classic breakbeat like "Amen, Brother" by The Winstons. This provides a rhythmic foundation. 
-   1. Ex: [Drum Breaks (Most Used) Music Samples, Covers and Remixes | WhoSampled](https://www.whosampled.com/song-tag/Drum%20Breaks%20%28Most%20Used%29/) 
-2. **Chordal Hits** - Find a sample or loop that is of a chordal instrument. You can search Who Sampled by instrument. Ex: [Piano Music Samples, Covers and Remixes | WhoSampled](https://www.whosampled.com/song-tag/Piano/) or [Johannes Brahms - Samples, Covers and Remixes | WhoSampled](https://www.whosampled.com/Johannes-Brahms/)
-3. **Vocal Sample** - Ex: 
-   1. [Mariah Carey - Samples, Covers and Remixes | WhoSampled](https://www.whosampled.com/Mariah-Carey/) 
-   2. [Think (About It) by Lyn Collins - Samples, Covers and Remixes | WhoSampled](https://www.whosampled.com/Lyn-Collins/Think-(About-It)/)
-   3. [Burial's 'Archangel' sample of Ray J's 'One Wish' | WhoSampled](https://www.whosampled.com/sample/2631/Burial-Archangel-Ray-J-One-Wish/)
-4. **Found Sounds** - From [freesound.org](http://freesound.org) look for short sounds like vinyl noise, field recordings, etc add texture and ear candy.
+### **Track Categories:**
 
-Use the production techniques we've learned so far in class to make your project sound good. This includes EQ, compression, reverb, and delay.
+**Drum Loop:**\
+   Use a drum loop from a classic breakbeat, such as *"Amen, Brother"* by The Winstons. This will serve as the rhythmic foundation of your composition.
 
-> In addition to your four MIDI tracks, you can use `one` audio loop in your project if you wish. 
+   - Example: [Drum Breaks (Most Used) on WhoSampled](https://www.whosampled.com/song-tag/Drum%20Breaks%20%28Most%20Used%29/)
 
-Submit to D2L:
+**Chordal Hits:**\
+   Find a sample or loop of a chordal instrument (e.g., piano or guitar).
 
-- a compressed folder containing your project files (including audio)
-- a rendered audio file of your master mix.
+   - Examples: [Piano Samples on WhoSampled](https://www.whosampled.com/song-tag/Piano/) | [Johannes Brahms Samples on WhoSampled](https://www.whosampled.com/Johannes-Brahms/)
 
-## Rubric
+**Vocal Sample:**\
+   Use a short vocal phrase or hit to add a melodic or rhythmic element.
 
-| Overall Assessment | Points   | Criteria                                                                                                                                                                                                                                          |
-| ------------------ | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Excellent          | 90-100   | The student has created a highly original and well-produced musical composition. The track selection, arrangement, MIDI sequencing, sample usage, production techniques, and overall sound quality are all of the highest quality.                |
-| Good               | 80-89    | The student has created a creative and well-produced musical composition. The track selection, arrangement, MIDI sequencing, sample usage, production techniques, and overall sound quality are all of a high standard.                           |
-| Fair               | 70-79    | The student has created a musical composition that meets the basic requirements of the project. The track selection, arrangement, MIDI sequencing, sample usage, production techniques, and overall sound quality are all satisfactory.           |
-| Poor               | 60-69    | The student has created a musical composition that does not meet the basic requirements of the project. The track selection, arrangement, MIDI sequencing, sample usage, production techniques, and overall sound quality are all below standard. |
-| Failing            | Below 60 | The student has not created a musical composition that meets the basic requirements of the project. The track selection, arrangement, MIDI sequencing, sample usage, production techniques, and overall sound quality are all very poor.          |
+   - Examples:
+     - [Mariah Carey Samples on WhoSampled](https://www.whosampled.com/Mariah-Carey/)
+     - [Lyn Collins - ](https://www.whosampled.com/Lyn-Collins/Think-\(About-It\)/)[*Think (About It)*](https://www.whosampled.com/Lyn-Collins/Think-\(About-It\)/)[ on WhoSampled](https://www.whosampled.com/Lyn-Collins/Think-\(About-It\)/)
+     - [Burial's ](https://www.whosampled.com/sample/2631/Burial-Archangel-Ray-J-One-Wish/)*[Archangel](https://www.whosampled.com/sample/2631/Burial-Archangel-Ray-J-One-Wish/)*[ sampling Ray J's ](https://www.whosampled.com/sample/2631/Burial-Archangel-Ray-J-One-Wish/)*[One Wish](https://www.whosampled.com/sample/2631/Burial-Archangel-Ray-J-One-Wish/)*[ on WhoSampled](https://www.whosampled.com/sample/2631/Burial-Archangel-Ray-J-One-Wish/)
+
+**Found Sounds:**\
+   Source a sample from [Freesound.org](http://freesound.org) to add texture or "ear candy" to your composition. This could include vinyl noise, ambient field recordings, or other short sounds. Optionally, create your own found sound using a Zoom recorder or your phone.
+
+> **Note:** In addition to the four MIDI-triggered tracks, you may use **one** audio loop if you wish.
+
+### **Submission Instructions:**
+
+Submit to D2L the following:
+
+- A compressed folder containing all project files, including audio files and any samples used.
+- A rendered audio file of your final master mix.
+
+---
+
+### **Rubric:**
+
+| **Overall Assessment** | **Points** | **Letter Grade** | **Criteria**                                                                                                                                                                                                                                 |
+| ---------------------- | ---------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Excellent**          | 41-45      | A (90-100)       | The composition is highly original and well-produced. Track selection, arrangement, MIDI sequencing, sample usage, and production techniques (EQ, compression, reverb, delay) are of exceptional quality, resulting in a polished final mix. |
+| **Good**               | 36-40      | B (80-89)        | The composition is creative and well-produced. Track selection, arrangement, MIDI sequencing, sample usage, and production techniques are of a high standard, contributing to a cohesive and engaging project.                               |
+| **Fair**               | 31-35      | C (70-79)        | The composition meets the basic project requirements. Track selection, arrangement, MIDI sequencing, and production techniques are satisfactory, though there may be some inconsistencies in sound quality or overall production.            |
+| **Poor**               | 26-30      | D (60-69)        | The composition does not fully meet the project requirements. Track selection, arrangement, MIDI sequencing, sample usage, and production techniques are below the expected standard, resulting in a subpar final mix.                       |
+| **Failing**            | Below 26   | F (Below 60)     | The composition does not meet the project requirements. Track selection, arrangement, MIDI sequencing, and production techniques are all of very poor quality, significantly impacting the overall sound and composition.                    |
+
+---
+
+[Back to Schedule](../../schedule/)

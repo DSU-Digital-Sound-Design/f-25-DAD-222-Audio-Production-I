@@ -3,7 +3,8 @@ title: "Midi Intro in Reaper"
 ---
 # Midi Intro in Reaper
 
-> Download the Sitalia plugin: [old version](https://decomposer.de/sitala/#downloads)
+> Download the Sitala plugin: [old version](https://decomposer.de/sitala/#downloads)
+
 ## Setup
 
 1. Insert a new track and select "Insert virtual instrument on new track" when prompted. This will create a track with MIDI as the input.
@@ -11,7 +12,7 @@ title: "Midi Intro in Reaper"
 3. If no MIDI keyboard, use Reaper's Virtual MIDI Keyboard under View -> Virtual MIDI Keyboard. This allows you to trigger MIDI notes from your computer keyboard.
 4. Look for yellow meters on the track input to verify MIDI input is working.
 
-## Sitalia 
+## Sitala 
 
 > Find two loops from looperman for this example. One should be drums and one should be a bass sound. 
 

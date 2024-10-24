@@ -185,15 +185,10 @@ author: ""
 - [MIDI History](../lectures/week-7/midi-history/) - some history on the problem MIDI was invented to solve.
 - Download [Sitala - Drum Sampler Plugin](https://decomposer.de/sitala/)
   - Build a simple drum loop out of these two samples: [drums](../samples/drums.wav), [bass](../samples/bass.wav)
-- [MIDI Intro](../lectures/week-7/midi-intro/)
 
-
-<!-- 
--->
-<!-- - [Beatmaking](../lectures/week-8/beatmaking/) - listening examples -->
-<!-- 
 ## Friday (10/25)
 
+- [MIDI Intro](../lectures/week-7/midi-intro/)
 - Create at least a 2 bar loop today, we'll go over how to extend it more on Monday.
 - You can redo your loop project, this time with MIDI, or do something new.
 - Add **one or two samples** from [freesound](https://freesound.org) to your composition
@@ -201,15 +196,15 @@ author: ""
 - Use any of the effects we've learned so far: EQ, compression, reverb, delay
 - You can route your MIDI track to effects sends with the effects routing tab.
 
-> **Project 4: Drum Programming and Beatmaking** - DUE Monday, 11/4
+> [**Project 4: Drum Programming and Beatmaking**](../projects/project-4-beats/) - DUE Monday, 11/4
 
+<!-- 
 # Week 10 (10/28)
 
 ## Monday (10/28)
 
 - Listen to Beats
-- [Reaper Recording](../lectures/week-3/reaper-recording/)
-  - One student dialogue demo
+- [Beatmaking](../lectures/week-8/beatmaking/) - listening examples
 
 ## Wednesday (10/30)
 
