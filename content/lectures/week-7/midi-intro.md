@@ -1,37 +1,39 @@
 ---
-title: "Midi Intro in Reaper"
+title: "MIDI Introduction in Reaper"
 ---
-# Midi Intro in Reaper
 
-> Download the Sitala plugin: [old version](https://decomposer.de/sitala/#downloads)
+> Download the Sitala plugin: [Old Version](https://decomposer.de/sitala/#downloads)
 
-## Setup
+## Setting Up MIDI
 
-1. Insert a new track and select "Insert virtual instrument on new track" when prompted. This will create a track with MIDI as the input.
-2. If using a MIDI keyboard, plug it in and enable it in Reaper's preferences under MIDI Devices. The keyboard will now show up as a MIDI input for your tracks.
-3. If no MIDI keyboard, use Reaper's Virtual MIDI Keyboard under View -> Virtual MIDI Keyboard. This allows you to trigger MIDI notes from your computer keyboard.
-4. Look for yellow meters on the track input to verify MIDI input is working.
+1. **Insert a New Track**: In Reaper, insert a new track and select "Insert virtual instrument on new track" when prompted. This will create a track with MIDI as the input.
+2. **Connect Your MIDI Keyboard**: If you're using a MIDI keyboard, plug it in and enable it in Reaper's preferences under MIDI Devices. Once enabled, your keyboard will appear as a MIDI input for your tracks.
+3. **Use Reaper's Virtual MIDI Keyboard**: If you don't have a physical MIDI keyboard, you can use Reaper's Virtual MIDI Keyboard by going to `View -> Virtual MIDI Keyboard`. This allows you to trigger MIDI notes directly from your computer keyboard.
+4. **Verify MIDI Input**: Look for yellow meters on the track input to confirm that MIDI input is being received.
 
-## Sitala 
+## Working with Sitala
 
-> Find two loops from looperman for this example. One should be drums and one should be a bass sound. 
+> Find two loops from Looperman for this example: one should be a drum loop and the other a bass sound.
 
-1. Add Sitalia to the new track. 
-2. Add the bass loop to an instance of Sitalia 
-3. Play notes on the MIDI keyboard and the sample will trigger.
-4. Record a MIDI loop using the Record Arm button. Double click the MIDI item to open the MIDI editor.
-   1. Create a loop 
-   2. Use Record: MIDI/Overdub Replace 
-5. In the editor, notes can be edited by dragging. Create new notes with the Pencil tool.
+1. **Add Sitala to the Track**: Add Sitala to your newly created track.
+2. **Load a Bass Loop**: Import the bass loop into an instance of Sitala.
+3. **Trigger the Sample**: Use your MIDI keyboard to trigger the bass sample and play notes.
+4. **Record a MIDI Loop**:
+   1. Arm the track for recording by pressing the Record Arm button.
+   1. Record a MIDI loop and then double-click the MIDI item to open it in the MIDI editor.
+   1. In the editor, create a loop and use the `Record: MIDI/Overdub Replace` function.
+5. **Editing MIDI Notes**: In the MIDI editor, you can drag notes to adjust their position or create new ones using the Pencil tool.
 
-## Quantization
+## Quantizing MIDI Notes
 
-1. Click the Q button to quantize the recording. Adjust settings to taste.
-2. Commit the changes to make quantization permanent if it sounds good.
-3. Try different grid sizes like triplet or swing for creative results.
+1. **Quantize Your Recording**: Click the **Q** button to quantize your MIDI recording, aligning the notes to the grid.
+2. **Adjust Settings**: Adjust the quantization settings to fit the desired timing.
+3. **Commit the Changes**: If the quantized result sounds good, commit the changes to make them permanent.
+4. **Experiment with Different Grid Sizes**: Try different grid sizes, like triplets or swing, for more creative rhythmic variations.
 
-## Adding more tracks
+## Adding More Tracks
 
-1. Add another track with Sitalia for drums.
-2. Add each drum sample to a different note by setting Note Start and End knobs.
-3. Use MIDI Overdub recording mode to build up drum pattern over multiple passes.
+1. **Add Another Track for Drums**: Create an additional track with another instance of Sitala for drums.
+2. **Assign Samples to Different Notes**: Load different drum samples into Sitala and assign each one to a separate note by adjusting the Note Start and End knobs.
+3. **Use MIDI Overdub Recording**: Use the MIDI Overdub recording mode to layer drum patterns over multiple recording passes.
+
