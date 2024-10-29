@@ -205,14 +205,14 @@ author: ""
 - in class work on beatmaking project
 - [Beatmaking](../lectures/week-8/beatmaking/) - listening examples
 
-<!-- 
 ## Wednesday (10/30)
 
 - **Synthesis and MIDI**
   - [Electronic sound production](../lectures/week-10/electronic-sound-production/)
-  - Synthesis - [Modulation](../lectures/week-10/synthesis-modulation/)
+  <!-- - Synthesis - [Modulation](../lectures/week-10/synthesis-modulation/) -->
   - [Vital Synth](../lectures/week-10/vital-intro/)
 
+<!-- 
 ## Friday (11/1)
 
 - More on Vital Synth and Synthesis
