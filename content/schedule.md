@@ -210,9 +210,7 @@ author: ""
 - **Synthesis and MIDI**
   - [Electronic sound production](../lectures/week-10/electronic-sound-production/)
   <!-- - Synthesis - [Modulation](../lectures/week-10/synthesis-modulation/) -->
-  - [Vital Synth](../lectures/week-10/vital-intro/)
 
-<!-- 
 ## Friday (11/1)
 
 - More on Vital Synth and Synthesis
@@ -222,17 +220,11 @@ author: ""
 
 ## Monday (11/4)
 
-- **MIDI Editing**
-  - [Editing](../lectures/week-4/editing/)
-  - MIDI dialogue
-  - Sound Effects + music beds
-    - [Finding sound effects](../lectures/week-4/sound-effects/)
-    - Listen back to ads from a few classes ago; what types of sound effects do they use?
-    - Examples could be transition impacts or swooshes between character lines. Some scripts will have specific needs for effects that illustrate locations or products, like chirping birds for outdoor settings.
-    - Add sound effects to separate tracks
-  - Make sure your music and dialogue work well together
-  - Mixing -- background music should be much quieter than dialogue; around -30 dB is a good start.
+- [Vital Synth](../lectures/week-10/vital-intro/)
 
+
+
+<!-- 
 ## Wednesday (11/6)
 
 - Work on MIDI composition in class
