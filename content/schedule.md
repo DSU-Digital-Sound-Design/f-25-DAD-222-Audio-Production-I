@@ -209,7 +209,6 @@ author: ""
 
 - **Synthesis and MIDI**
   - [Electronic sound production](../lectures/week-10/electronic-sound-production/)
-  <!-- - Synthesis - [Modulation](../lectures/week-10/synthesis-modulation/) -->
 
 ## Friday (11/1)
 
@@ -222,21 +221,19 @@ author: ""
 
 - [Vital Synth](../lectures/week-10/vital-intro/)
 
-
-
-<!-- 
 ## Wednesday (11/6)
 
-- Work on MIDI composition in class
-- Listen to MIDI assignments
+- [Adaptive Grid Tool](../lectures/week-11/adaptive-grid/)
+- [Modulation - LFO and Mod Envelopes](../lectures/week-11/vital-modulation/)
 
-> **MIDI Composition** - DUE Friday, 11/15
 
 ## Friday (11/8)
 
-- Listening to MIDI assignments
-- Discussion on composition techniques and feedback
+- Wave tables and warp modes 
+<!-- - Discussion on composition techniques and feedback
+> **MIDI Composition** - DUE Monday, 11/25 -->
 
+<!-- 
 # Week 12 (11/11)
 
 ## Monday (11/11)
@@ -245,13 +242,13 @@ author: ""
 
 ## Wednesday (11/13)
 
+- Effects and Post-processng 
 - Synthesis continued: Exploring advanced techniques in synthesis and sound design
 - [Vital Synth](../lectures/week-10/vital-pt-2/)
 
 ## Friday (11/15)
 
-- More on Vital Synth
-- Work on synthesis assignments
+- Building a Full Patch with Macros 
 
 > **Synthesis Project** - DUE Monday, 11/25
 
