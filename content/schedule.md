@@ -229,7 +229,8 @@ author: ""
 
 ## Friday (11/8)
 
-- Wave tables and warp modes 
+- [Effects and Post-processing](../lectures/week-11/effects/) 
+- 
 <!-- - Discussion on composition techniques and feedback
 > **MIDI Composition** - DUE Monday, 11/25 -->
 
@@ -242,7 +243,7 @@ author: ""
 
 ## Wednesday (11/13)
 
-- Effects and Post-processng 
+
 - Synthesis continued: Exploring advanced techniques in synthesis and sound design
 - [Vital Synth](../lectures/week-10/vital-pt-2/)
 
