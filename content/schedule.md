@@ -230,8 +230,8 @@ author: ""
 ## Friday (11/8)
 
 - [Effects and Post-processing](../lectures/week-11/effects/) 
-- 
-<!-- - Discussion on composition techniques and feedback
+  
+> [Vital Synth Project](../projects/project-5-synth/) - DUE Friday, 11/22 
 
 
 <!-- 
@@ -247,13 +247,12 @@ author: ""
 - Synthesis continued: Exploring advanced techniques in synthesis and sound design
 - [Vital Synth](../lectures/week-10/vital-pt-2/)
 
-> **MIDI Composition** - DUE Monday, 11/25 
+
 
 ## Friday (11/15)
 
 - Building a Full Patch with Macros 
 
-> **Synthesis Project** - DUE Monday, 11/25
 
 # Week 13 (11/18)
 
