@@ -234,7 +234,6 @@ author: ""
 > [Vital Synth Project](../projects/project-5-synth/) - DUE Friday, 11/22 
 
 
-<!-- 
 # Week 12 (11/11)
 
 ## Monday (11/11)
@@ -243,11 +242,9 @@ author: ""
 
 ## Wednesday (11/13)
 
-- Creating a full patch in Vital Synth and adding macros etc. 
-- Synthesis continued: Exploring advanced techniques in synthesis and sound design
-- [Vital Synth](../lectures/week-10/vital-pt-2/)
+- [Drum Synthesis](../lectures/week-12/drum-synthesis/)
 
-
+<!-- 
 
 ## Friday (11/15)
 
