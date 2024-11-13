@@ -242,6 +242,8 @@ author: ""
 
 ## Wednesday (11/13)
 
+- [DAD @ MAAC #3](../lectures/week-12/dad-maac-3.jpg)
+- [Vital Synth Manual](https://hooklineismyhomie.weebly.com/uploads/1/4/9/6/149651803/vital_user_manual.pdf)
 - [Drum Synthesis](../lectures/week-12/drum-synthesis/)
 
 <!-- 
