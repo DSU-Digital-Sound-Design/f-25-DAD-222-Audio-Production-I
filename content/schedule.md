@@ -246,13 +246,12 @@ author: ""
 - [Vital Synth Manual](https://hooklineismyhomie.weebly.com/uploads/1/4/9/6/149651803/vital_user_manual.pdf)
 - [Drum Synthesis](../lectures/week-12/drum-synthesis/)
 
-<!-- 
 
 ## Friday (11/15)
 
 - Building a Full Patch with Macros 
 
-
+<!-- 
 # Week 13 (11/18)
 
 ## Monday (11/18)
