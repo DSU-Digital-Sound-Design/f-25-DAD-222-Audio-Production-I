@@ -259,22 +259,28 @@ author: ""
 - Start [final project](../projects/final-project) discussions and brainstorming
 - Project proposals due Friday
 
-<!-- 
 ## Wednesday (11/20)
 
-- Final project proposals review
-- Begin working on the final project
+- Group Brainstorming (15 minutes):
+  - Group sharing ideas for final project. 
+- Work Session (35 minutes):
+  - Start drafting proposals during class.
+  - I'll provide feedback and suggestions individually.
 
 ## Friday (11/22)
 
-- Continue working on the final project in class
+- Play Vital Projects in class
+- After you play your project spend a few minutes presenting your final project proposal. 
 
 # Week 14 (11/25)
 
 ## Monday (11/25)
 
-- In-class work on the final project
-- Schedule who will show progress on what days after Thanksgiving break
+- **Technical Setup Day**
+  - Divide class into two groups of 4 students:
+    - Group A (25 minutes): Studio setup and troubleshooting.
+    - Group B (25 minutes): Independent work on laptops in the classroom (e.g., sound sourcing, arranging).
+  - Groups switch halfway through.
 
 ## Wednesday, Friday (11/27, 11/29)
 
@@ -284,24 +290,31 @@ author: ""
 
 ## Monday (12/2)
 
-- 3-4 students show progress on project to the whole class
-
+- **Critique Session:**
+  - Each student presents 2-3 minutes of their project (rough mix, composition, or sound design).
+  - Talk about where you're are in the process and what you want to do next. 
+  
 ## Wednesday (12/4)
 
-- 3-4 students show progress on project to the whole class
+- **Guided Work Session**
+  - Group A (25 minutes): Studio work and troubleshooting.
+  - Group B (25 minutes): Independent work in the classroom. 
+- Groups switch halfway through.
 
 ## Friday (12/6)
 
-- 3-4 students show progress on project to the whole class
+- Meet back in the classroom for a more focused sharing session
+  - Each student shares one thing their struggling with that they want feedback on. 
 
 # Week 16 (12/9)
 
 ## Monday (12/9)
 
-- 3-4 students show progress on project to the whole class
+- Course Evals 
+- Final Q&A session 
+- One-on-one help if needed. 
 
 # Final Exam
 
 - **Final Exam Presentation:** Friday, December 13, 8 am - 10 am
 
- -->
