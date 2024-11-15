@@ -251,15 +251,15 @@ author: ""
 
 - Building a Full Patch with Macros 
 
-<!-- 
 # Week 13 (11/18)
 
 ## Monday (11/18)
 
-- Start final project discussions and brainstorming
-- Introduction to sound design for interactive media (games, VR)
-- Project proposals due Wednesday, 11/20
+- Vital Synth Patch sharing - Students share a synth patch they made with the class. 
+- Start [final project](../projects/final-project) discussions and brainstorming
+- Project proposals due Friday
 
+<!-- 
 ## Wednesday (11/20)
 
 - Final project proposals review
