@@ -83,3 +83,4 @@ Create a 2-3 minute music composition using Vital, a powerful wavetable synthesi
    - **Clarity of Reflection**: Is the creative process explained well, including genre-specific choices?
    - **Technical Details**: Are the synth patches organized and labeled clearly?
 
+<!-- Rubric scorer from Claude Artifacts: https://claude.site/artifacts/b508c17e-d23f-4a71-923d-433388582d02 -->
