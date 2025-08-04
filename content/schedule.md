@@ -46,6 +46,7 @@ author: ""
 
 > **Project 1: Arranging Clips** - Due Friday, 9/12 by midnight.
 
+
 <!-- 
 # Week 3 (9/8)
 
@@ -226,6 +227,7 @@ author: ""
 ## Monday (11/3)
 
 - [Vital Synth](../lectures/week-10/vital-intro/)
+- [Vital Synth Manual](https://hooklineismyhomie.weebly.com/uploads/1/4/9/6/149651803/vital_user_manual.pdf)
 
 ## Wednesday (11/5)
 
@@ -243,13 +245,12 @@ author: ""
 
 ## Monday (11/10)
 
-- **Tuesday, 11/11 - No class for Veterans Day (observed)**
+- [Drum Synthesis](../lectures/week-12/drum-synthesis/)
 
 ## Wednesday (11/12)
 
-- [DAD @ MAAC #3](../lectures/week-12/dad-maac-3.jpg)
-- [Vital Synth Manual](https://hooklineismyhomie.weebly.com/uploads/1/4/9/6/149651803/vital_user_manual.pdf)
-- [Drum Synthesis](../lectures/week-12/drum-synthesis/)
+- [Leads and Keys](../lectures/week-12/leads-and-keys/)
+  
 
 ## Friday (11/14)
 
@@ -298,7 +299,7 @@ author: ""
 
 - **Critique Session:**
   - Each student presents 2-3 minutes of their project (rough mix, composition, or sound design).
-  - Talk about where you're are in the process and what you want to do next. 
+  - Talk about where you are in the process and what you want to do next. 
   
 ## Wednesday (12/3)
 
@@ -310,7 +311,7 @@ author: ""
 ## Friday (12/5)
 
 - Meet back in the classroom for a more focused sharing session
-  - Each student shares one thing their struggling with that they want feedback on. 
+  - Each student shares one thing they're struggling with that they want feedback on.
 
 # Week 16 (12/8)
 
