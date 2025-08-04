@@ -1,5 +1,5 @@
 ---
-title: "Angels in Amplifiers Mix"
+title: "Project 3: Angels in Amplifiers Mix"
 ---
  
 We'll use all we have learned so far about mixing to create a rough mix of Angels In Amplifiers song _I'm Alright_. You can download the project files [here](https://mtkdata.cambridgemusictechnology.co.uk/MTK006/AngelsInAmplifiers_ImAlright.zip). Click [here](https://previews.cambridge-mt.com/ImAlright_Preview.mp3) to listen to a mixed version of this song. The engineer is using some techniques that we haven't learned yet, but mix does show good use of balance, equalization, compression and reverb. 

@@ -13,7 +13,6 @@ author: ""
   - What's your name, major, and what is the **last** song you listened to?
 - Introduction to [syllabus](../syllabus)
 - [Intro to Music Technology](../lectures/week-1/intro-to-music-tech-slides/) slides
-- Pre-test - on D2L
 
 > **Homework:** [Your favorite song](https://d2l.sdbor.edu/d2l/le/content/1950074/viewContent/12965704/View) - **Due Friday, 8/29.**
 
@@ -47,12 +46,13 @@ author: ""
 
 > **Project 1: Arranging Clips** - Due Friday, 9/12 by midnight.
 
+<!-- 
 # Week 3 (9/8)
 
 ## Monday (9/8)
 
 - Listen to favorite songs
-  - Class playlist: https://music.apple.com/us/playlist/dad-222-favorite-song-24/pl.u-ddWuM5NmYA
+  - Class playlist: ___
   - Note: `Please respond when writing in full sentences and not bulleted points.`
 - Show a basic version of the loops project
   - Find 7 clips from Looperman
@@ -69,40 +69,44 @@ author: ""
 
 - Finish the in-class project
   - mixing and exporting 
-- **Move to the studio**
   - Finish: [Audio Hardware slides](../lectures/week-2/audio-hardware/#/4)
+
+> **Project 2: Unreliable Product Ad** - Have your script ready by Monday, 9/22.
+
+# Week 4 (9/15) 
+
+## Monday (9/15)
+
+- [Digital Audio Data](../lectures/week-4/digital-audio-data/)
+
+## Wednesday (9/17)
+
+- **Move to the studio**
   - Studio tour
     - [Microphones presentation](https://docs.google.com/presentation/d/130uChoUPV370sMNJEc02n41QXdygYUO5zVqAWKoa900/present#slide=id.p1)
     - [Studio Documentation](https://sites.google.com/view/charmstudios/studio-documentation)
     - Book your time in the studio to record your projects
-
-> **Project 2: Unreliable Product Ad** - Have your script ready by Monday, 9/22.
-
-# Week 4 (9/15) - **No classes this week due to conference travel**
-
-- Work on your script for the Unreliable Product Ad
-- Read through the [Charm Studios](https://sites.google.com/view/charmstudios) to familiarize yourself with the studio and equipment before we start recording next week.
-
-# Week 5 (9/22)
-
-## Monday (9/22)
-
-- out of town - no class
-
-## Wednesday (9/24)
-
 - [Reaper Recording](../lectures/week-3/reaper-recording/)
   - One student dialogue demo
+
+## Friday (9/19)
+
 - Editing
   - Each student must edit their own commercial.
   - More tips for editing in Reaper
     - [Editing](../lectures/week-4/editing/)
 
-## Friday (9/26)
+# Week 5 (9/22)
+
+
+## Monday (9/22)
 
 - [Unreliable Product Ad](../projects/project-2-ad/) - Due October 2nd
 - Another recording day for some more practice, but focusing on editing and mixing. 
-- [Editing](../lectures/week-4/editing/) - dialogue
+
+
+## Wednesday (9/24)
+
 - Sound Effects + music beds
   - [Finding sound effects](../lectures/week-4/sound-effects/)
   - Examples could be transition impacts or swooshes between character lines. Some scripts will have specific needs for effects that illustrate locations or products, like chirping birds for outdoor settings.
@@ -110,16 +114,19 @@ author: ""
 - Make sure your music and dialogue work well together
 - Mixing -- background music should be much quieter than dialogue; around -30 dB is a good start.
 
+## Friday (9/26)
+
+- [FX Roulette game](../lectures/week-5/fx-roulette/)
+
 # Week 6 (9/29)
 
 ## Monday (9/29)
 
-- [FX Roulette game](../lectures/week-5/fx-roulette/)
+- [EQ](../lectures/week-5/eq/)
 
 ## Wednesday (10/1)
 
 - Listen to ads in class
-- [Digital Audio](../lectures/week-4/digital-audio-data/)
 - [EQ in class assignment](../lectures/week-5/eq-assignment/)
 
 ## Friday (10/3)
@@ -321,3 +328,4 @@ author: ""
 
 - **Final Exam Presentation:** Friday, December 12, 8:00 AM - 10:00 AM
 
+ -->

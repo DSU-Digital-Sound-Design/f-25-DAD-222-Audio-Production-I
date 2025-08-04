@@ -13,7 +13,7 @@ theme = ["terminal", "reveal-hugo"]
   themeColor = "green"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 3
+  showMenuItems = 4
 
   # show selector to switch language
   showLanguageSelector = false
@@ -54,17 +54,25 @@ theme = ["terminal", "reveal-hugo"]
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "syllabus"
-        name = "Syllabus"
-        url = "/syllabus"
-      [[languages.en.menu.main]]
         identifier = "schedule"
         name = "Schedule"
         url = "/schedule"  
+        weight = 1
+      [[languages.en.menu.main]]
+        identifier = "syllabus"
+        name = "Syllabus"
+        url = "/syllabus"
+        weight = 3
       [[languages.en.menu.main]]
         identifier = "projects"
         name = "Projects"
         url = "/projects"  
+        weight = 2
+      [[languages.en.menu.main]]
+        identifier = "resources"
+        name = "Resources"
+        url = "/resources"
+        weight = 4
 
 [outputFormats.Reveal]
     baseName = "index"
