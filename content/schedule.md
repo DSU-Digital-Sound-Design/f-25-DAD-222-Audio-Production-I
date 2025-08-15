@@ -46,23 +46,19 @@ author: ""
 
 > **Project 1: Arranging Clips** - Due Friday, 9/12 by midnight.
 
-
-<!-- 
 # Week 3 (9/8)
 
 ## Monday (9/8)
 
+- No class - work on your loops project independently 
+
+## Wednesday (9/10)
+
 - Listen to favorite songs
-  - Class playlist: ___
-  - Note: `Please respond when writing in full sentences and not bulleted points.`
 - Show a basic version of the loops project
   - Find 7 clips from Looperman
   - Layer and rename tracks in Reaper
   - Build arrangement 
-- Work on the project in class
-
-## Wednesday (9/10)
-
 - Some layering and mixing of the project from Monday
 - [Audio Hardware slides](../lectures/week-2/audio-hardware/)
 
@@ -74,6 +70,7 @@ author: ""
 
 > **Project 2: Unreliable Product Ad** - Have your script ready by Monday, 9/22.
 
+<!-- 
 # Week 4 (9/15) 
 
 ## Monday (9/15)
@@ -102,8 +99,8 @@ author: ""
 
 ## Monday (9/22)
 
-- [Unreliable Product Ad](../projects/project-2-ad/) - Due October 2nd
-- Another recording day for some more practice, but focusing on editing and mixing. 
+- [Unreliable Product Ad](../projects/project-2-ad/) - Due October 1st
+- Another recording day for some more practice, but focusing on editing and mixing.
 
 
 ## Wednesday (9/24)
@@ -138,7 +135,7 @@ author: ""
   - think of a project you'd like to have shown at the event; every DSD student is required to show at least one work.
 - Exploring EQ on a multitrack recording - [instructions](../lectures/week-5/eq-multitrack/)
 
-> **Project 2: Unreliable Product Ad** - Due Thursday, 10/2 by midnight.
+> **Project 2: Unreliable Product Ad** - Due Wednesday, 10/1 by midnight.
 
 # Week 7 (10/6)
 
@@ -277,7 +274,7 @@ author: ""
 - Play Vital Projects in class
 - After you play your project spend a few minutes presenting your final project proposal. 
 
-> **Project 5: Vital Synth** - Due Friday, 11/21 by midnight.
+> **Project 5: Vital Synth** - Due Friday, 11/21.
 
 # Week 14 (11/24)
 
