@@ -20,7 +20,7 @@ author: ""
 - Introduction to [syllabus](../syllabus)
 - [Intro to Music Technology](../lectures/week-1/intro-to-music-tech-slides/) slides
 
-> **Homework:** [Your favorite song](https://d2l.sdbor.edu/d2l/le/content/1950074/viewContent/12965704/View) - **Due Friday, 8/29.**
+> **Homework:** Your favorite sound (submit on D2L)- **Due Friday, 8/29.**
 
 ## Wednesday (8/27)
 
