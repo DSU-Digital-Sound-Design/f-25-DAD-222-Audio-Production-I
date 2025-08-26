@@ -58,88 +58,53 @@ Discuss how these elements interact in modern music production and performance.
 - Ask students which areas they're most interested in exploring. 
 {{% /note %}}
 
+Here’s your in-class assignment formatted as Markdown slides in the same style as your example:
+
 ---
 
-## Historical Overview
+## Quick Activity: Exploring 120 Years of Electronic Music
 
-- [120 Years of Electronic Music History](https://120years.net)
+* Visit [120years.net](https://120years.net/)
+* Spend a few minutes browsing the site
+* Pick one instrument, invention, or story that stands out to you
 
 {{% note %}}
-- Highlight key milestones in music technology development.
-- Discuss how technological advancements have shaped musical styles and genres.
 
-### Pre-1800
-1. **1748: Denis D’Or**  
-   - The Denis D’Or, created by Václav Prokop Diviš, is considered one of the earliest attempts at an electrically enhanced instrument. Although little is known about its exact mechanics, it symbolizes the early exploration of electricity in musical instrument design.
+* Encourage students not to overthink — just choose something surprising, weird, or cool.
+  {{% /note %}}
 
-2. **1759: Clavecin Électrique**  
-   - This instrument, invented by Jean-Baptiste Thillaie de Laborde, is notable for being one of the first keyboard instruments to incorporate electrical components, using static electricity to control sound-producing mechanisms.
+---
 
-### 1800–1900
-1. **1897: Telharmonium**  
-   - Invented by Thaddeus Cahill, the Telharmonium is one of the earliest electronic instruments and a precursor to the modern synthesizer. It was an electromechanical instrument that produced sound using tone wheels and was transmitted over telephone lines, a significant innovation at the time.
+## Step 2: Small Group Sharing
 
-2. **1899: Singing Arc**  
-   - The Singing Arc, developed by William Duddell, used an electric arc to create sound, marking an important step in the development of electronic sound production methods.
+* Turn to a partner or small group
+* Share what you found:
 
-### 1900–1920
-1. **1905: Helmholtz Sound Synthesiser**  
-   - Based on Hermann von Helmholtz’s theories, this instrument was one of the first to use resonators to analyze and synthesize sound waves, laying groundwork for later developments in sound synthesis.
+  * What is it called and when was it made?
+  * What stood out to you (design, sound, history)?
+  * Can you connect it to anything you already know about music or sound design?
 
-2. **1915: Audion Piano**  
-   - Lee De Forest's Audion Piano was one of the first electronic instruments to use vacuum tube technology, which became a cornerstone in the development of electronic music.
+{{% note %}}
 
-### 1920–1930
-1. **1920: Theremin**  
-   - Invented by Leon Theremin, this is one of the most famous early electronic instruments, notable for being played without physical contact. It had a profound influence on both music and the popular imagination, being used in everything from classical music to sci-fi soundtracks.
+* Keep this short — a couple of minutes each.
+* Aim for curiosity, not detailed research.
+  {{% /note %}}
 
-2. **1928: Ondes Martenot**  
-   - The Ondes Martenot, created by Maurice Martenot, is another early electronic instrument that influenced a variety of composers and is still used in contemporary music. Its expressive capabilities set it apart from other electronic instruments of the time.
+---
 
-### 1930–1940
-1. **1930: Trautonium**  
-   - Friedrich Trautwein’s Trautonium is significant for its unique sound and for being one of the first instruments to use subtractive synthesis. It was famously used by composer Oskar Sala, especially for creating the bird sounds in Alfred Hitchcock’s *The Birds*.
+## Step 3: Whole Class Discussion
 
-2. **1935: Hammond Organ**  
-   - The Hammond Organ, invented by Laurens Hammond, is an electromechanical organ that became widely popular in jazz, blues, and rock music. It introduced the tonewheel technology that influenced later electronic instruments.
+* Volunteers share highlights
+* Guiding questions:
 
-### 1940–1950
-1. **1940: Voder & Vocoder**  
-   - Developed by Homer Dudley, these are among the earliest speech synthesizers. The Vocoder, in particular, became iconic in electronic music, influencing the development of vocal effects in various genres.
+  * Did anyone find an instrument that feels like an ancestor to today’s tech?
+  * Did you notice recurring themes in invention or use?
+  * Which ones seemed totally bizarre or impractical?
 
-2. **1948: Free Music Machine**  
-   - Created by Percy Grainger and Burnett Cross, this machine was an early experiment in generating music electronically, without relying on human performance, pointing towards future developments in computer music.
+{{% note %}}
 
-### 1950–1960
-1. **1951: RCA Synthesiser I & II**  
-   - The RCA Synthesizers were among the first programmable electronic synthesizers. They were massive machines that used punched paper tape to control the synthesis of music, paving the way for more accessible and flexible synthesizers.
-
-2. **1957: ANS Synthesiser**  
-   - Created by Evgeny Murzin, the ANS Synthesiser is notable for its unique interface that allowed composers to draw on a glass plate to create sound, representing an early form of graphical synthesis.
-
-### 1960–1970
-1. **1963: Mellotron**  
-   - The Mellotron is a tape-based keyboard that became iconic in rock music, used by bands like The Beatles and King Crimson. It’s an early example of a sampler, predating digital sampling technology.
-
-2. **1964: Moog Synthesizers**  
-   - Robert Moog’s synthesizers revolutionized music production with their modular design and became the foundation for modern synthesizers. The Moog sound is iconic in electronic music.
-
-### 1970–1980
-1. **1970: Buchla Synthesizers**  
-   - Developed by Don Buchla, these synthesizers are known for their innovative interface, which often eschewed traditional keyboards in favor of touchpads and other controls, influencing the development of electronic music performance.
-
-2. **1979: Fairlight CMI**  
-   - The Fairlight CMI was one of the first digital sampling synthesizers, enabling musicians to record and manipulate real-world sounds in a way that was revolutionary at the time. It had a profound impact on the music industry in the 1980s.
-
-### 1980–1990
-1. **1981: Yamaha GS1 & GS2**  
-   - These are early examples of FM synthesis, a technology that would become central to many popular synthesizers of the 1980s, such as the Yamaha DX7.
-
-2. **1987: Synclavier II**  
-   - The Synclavier II was a digital synthesizer and music workstation that became synonymous with high-end music production in the 1980s. It was used by artists like Michael Jackson and Stevie Wonder.
-
-
-{{% /note %}}
+* End by tying discoveries back to sound design history and innovation.
+  {{% /note %}}
 
 ---
 
