@@ -58,8 +58,6 @@ Discuss how these elements interact in modern music production and performance.
 - Ask students which areas they're most interested in exploring. 
 {{% /note %}}
 
-Here’s your in-class assignment formatted as Markdown slides in the same style as your example:
-
 ---
 
 ## Quick Activity: Exploring 120 Years of Electronic Music
