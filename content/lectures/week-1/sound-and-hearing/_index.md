@@ -15,9 +15,6 @@ separator = "##"
 - Introduction to psychoacoustics: How we perceive sound
 - Practical implications for audio production
 
-### Why It Matters
-Understanding sound and hearing is foundational for anyone working in audio production, from recording and mixing to synthesis and sound design.
-
 {{% note %}}
 This slide sets the stage for the presentation by outlining what students will learn and why it's important. Emphasize that these fundamentals will be referenced throughout their studies and careers.
 {{%/ note %}}
@@ -213,6 +210,37 @@ Variations in sound pressure level or SPL and is measured on a logarithmic scale
 Introduce the concept of psychoacoustics and explain why it's important in audio production. Stress that this field helps us understand how listeners perceive the sounds we create.
 {{%/ note %}}
 
+---
+
+## Psychoacoustic Masking
+
+- **Key Concept:** One sound can make another harder to hear, especially if they are close in frequency.  
+- **Example:** Kick drum and bass guitar often mask each other.  
+- **Why It Matters:** MP3 and AAC compression rely on masking to discard “inaudible” sounds.  
+
+**Interactive Demo:** [Auditory Masking Experiment (Music Perception Lab)](https://auditoryneuroscience.com/index.php/scene_analysis/masking_tone_noise/)  
+
+{{% note %}}
+Play a steady low-frequency tone, then add a second tone slightly above it.  
+Ask students if they can hear both equally. Often, the first tone seems to fade or disappear.  
+Relate this to mixing challenges and codec design.  
+{{%/ note %}}
+
+---
+
+## Binaural Beats
+
+- **Key Concept:** Two slightly different frequencies, one to each ear, produce a perceived “beat” at the difference frequency.  
+- **Example:** 440 Hz in the left ear and 446 Hz in the right ear produces a 6 Hz beat.  
+- **Why It Matters:** Shows how the brain constructs sound beyond the ear.  
+
+**Interactive Demo:** [Binaural Beats Generator](https://mynoise.net/NoiseMachines/binauralBrainwaveGenerator.php/)  
+
+{{% note %}}
+Use headphones!  
+This demo highlights how perception emerges in the brain, not just in the ears.  
+Connect it to psychoacoustics concepts like spatial hearing and pitch perception.  
+{{%/ note %}}
 
 ---
 
@@ -221,37 +249,40 @@ Introduce the concept of psychoacoustics and explain why it's important in audio
 ![](fm-curve.png)
 
 {{% note %}}
-What sound comes into your ears is not always what you "hear"; your brain completes the picture. Our ears perception of timbre and frequency changes with the loudness of a perceived signal
+This is the **equal-loudness contour graph** (also called Fletcher–Munson curves).  
 
-This image is known as the **Fletcher-Munson curve** or **equal-loudness contour**. It’s a graph that shows how the human ear perceives loudness at different frequencies and volumes.
+**What it shows:**  
+- **X-axis (Hz):** frequency, from bass (20 Hz) to treble (20,000 Hz).  
+- **Y-axis (dB SPL):** physical loudness level.  
+- **Curves:** each line shows tones judged as equally loud by listeners.  
+- The numbers on the curves are in **phons**, matched to the loudness of a 1,000 Hz tone at that level.  
 
-### Breaking It Down:
+**Why multiple lines?**  
+- Each curve starts with a different **reference loudness** at 1,000 Hz.  
+- Example: a 40-phon contour = 1,000 Hz tone at 40 dB SPL used as the reference.  
+- An 80-phon contour = 1,000 Hz tone at 80 dB SPL.  
+- Listeners adjusted other frequencies until they sounded equally loud, producing this family of curves.  
 
-- **Horizontal Axis (X-axis):** 
-  - This represents the **frequency** of a sound, measured in Hertz (Hz). The frequency ranges from low (20 Hz) to high (10,000 Hz). Lower frequencies are bass sounds, while higher frequencies are treble sounds.
-
-- **Vertical Axis (Y-axis):**
-  - This represents the **sound pressure level (SPL)** in decibels (dB SPL), which is a measure of how loud a sound is.
-
-- **Curves on the Graph:**
-  - Each curve shows the ear’s sensitivity to different frequencies at various loudness levels. 
-  - The numbers on the right represent **loudness levels** in phons, which correspond to the perceived loudness of a 1,000 Hz tone at different decibel levels.
-  - For example, the 60-phon curve means that all the frequencies on that line sound equally loud to our ears as a 1,000 Hz tone at 60 dB SPL.
-
-### Key Points:
-
-- **Threshold of Hearing:** 
-  - The dotted line near the bottom represents the quietest sound that the average human ear can hear at each frequency. This is known as the **threshold of hearing**.
-
-- **Sensitivity Variation:** 
-  - The ear is most sensitive to frequencies between **1,000 and 5,000 Hz**. Sounds in this range are perceived as louder compared to lower or higher frequencies at the same SPL.
-  
-- **Practical Implications:**
-  - This means that a low-frequency sound (like a deep bass) needs to be much louder than a mid-frequency sound (like a human voice) for us to perceive them as equally loud.
-
-In simple terms, this graph tells us that our ears don’t hear all frequencies equally well, especially at lower volumes. This is why, for instance, bass might seem softer at lower volumes and why sound engineers compensate for this in their mixing.
-
-
+**Key takeaways for students:**  
+- At low levels (20–40 phons), bass and treble need much more level to be perceived as equally loud.  
+- At higher levels (80–100 phons), the curves flatten — the ear is more balanced across the spectrum.  
+- This explains why music sounds “thin” when quiet but “full” when louder.  
+- It’s also why old stereos had a “loudness” button — to boost bass and treble at low volumes.  
 {{%/ note %}}
 
 
+---
+
+## Equal-Loudness Contours in Action
+
+- **Key Concept:** Our ears don’t hear all frequencies equally well.  
+- **Example:** Bass must be louder than midrange to be perceived equally loud.  
+- **Why It Matters:** Mixing at low volume often makes bass and treble feel weak.  
+
+**Interactive Demo:** [Equal Loudness Experiment](https://www.phys.unsw.edu.au/jw/hearing.html)  
+
+{{% note %}}
+Play tones of different frequencies at the same level.  
+Ask students: which sounds louder? They’ll notice midrange tones stand out more.  
+Use this to reinforce why engineers check mixes at multiple levels and why Fletcher–Munson curves matter.  
+{{%/ note %}}
