@@ -45,13 +45,16 @@ author: ""
 
 ## Friday (9/5)
 
-- [Introduction to Reaper](../lectures/week-2/reaper-intro/#/8) - Continue with intro
+- Listent to a few more songs that we haven't heard yet
+- [Introduction to Reaper](../lectures/week-2/reaper-intro/#/6) - Continue with intro
 - [Saving and exporting](../lectures/week-2/this-is-reaper-2/)
 - Introduce [Project 1: Arranging Clips](../projects/project-1/)
   - Find loops and preview them - [Looper Man](https://www.looperman.com) - show the different features of this website
   - Find drums, percussion, chords and acapellas
 
 > **Project 1: Arranging Clips** - Due Friday, 9/12 by midnight.
+> 
+> **Reminder**: All projects will be played out loud in class. Make sure you are comfortable sharing what you’ve created with the group.
 
 # Week 3 (9/8)
 
