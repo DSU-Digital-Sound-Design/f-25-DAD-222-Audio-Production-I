@@ -52,7 +52,7 @@ author: ""
   - Find loops and preview them - [Looper Man](https://www.looperman.com) - show the different features of this website
   - Find drums, percussion, chords and acapellas
 
-> **Project 1: Arranging Clips** - Due Friday, 9/12 by midnight.
+> **Project 1: Arranging Clips** - Due Monday, 9/15 by class.
 > 
 > **Reminder**: All projects will be played out loud in class. Make sure you are comfortable sharing what you’ve created with the group.
 
