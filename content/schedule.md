@@ -78,14 +78,13 @@ author: ""
   - mixing and exporting 
   - Finish: [Audio Hardware slides](../lectures/week-2/audio-hardware/#/4)
 
-> **Project 2: Unreliable Product Ad** - Have your script ready by Monday, 9/22.
-
 <!-- 
 # Week 4 (9/15) 
 
 ## Monday (9/15)
 
 - [Digital Audio Data](../lectures/week-4/digital-audio-data/)
+> **Project 2: Unreliable Product Ad** - Have your script ready by Monday, 9/22.
 
 ## Wednesday (9/17)
 
