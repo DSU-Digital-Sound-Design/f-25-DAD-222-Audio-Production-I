@@ -84,7 +84,7 @@ author: ""
 
 - Listen to loops projects
 <!-- - [Digital Audio Data](../lectures/week-4/digital-audio-data/) -->
-> **Project 2: [Unreliable Product Ad](../projects/project-2-PSA/)** - Have your script ready by Monday, 9/22.
+> **Project 2: [Saterical PSA](../projects/project-2-PSA/)** - Have your script ready by Monday, 9/22.
 
 ## Wednesday (9/17)
 
