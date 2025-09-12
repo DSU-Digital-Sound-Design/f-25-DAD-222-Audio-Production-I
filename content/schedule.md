@@ -78,13 +78,13 @@ author: ""
   - mixing and exporting 
   - Finish: [Audio Hardware slides](../lectures/week-2/audio-hardware/#/4)
 
-<!-- 
 # Week 4 (9/15) 
 
 ## Monday (9/15)
 
-- [Digital Audio Data](../lectures/week-4/digital-audio-data/)
-> **Project 2: Unreliable Product Ad** - Have your script ready by Monday, 9/22.
+- Listen to loops projects
+<!-- - [Digital Audio Data](../lectures/week-4/digital-audio-data/) -->
+> **Project 2: [Unreliable Product Ad](../projects/project-2-PSA/)** - Have your script ready by Monday, 9/22.
 
 ## Wednesday (9/17)
 
@@ -103,6 +103,7 @@ author: ""
   - More tips for editing in Reaper
     - [Editing](../lectures/week-4/editing/)
 
+<!-- 
 # Week 5 (9/22)
 
 
