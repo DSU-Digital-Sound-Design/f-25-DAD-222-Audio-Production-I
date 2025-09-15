@@ -36,9 +36,9 @@ Your PSA should follow a traditional announcement structure while twisting it wi
 
 ### Deliverables
 
-* Reaper project folder with an “Audio” subfolder containing all source files.
+* Reaper project folder with an “Media” subfolder containing all source files.
 * Final rendered 30-second WAV file.
-* Final script in PDF or TXT format.
+* Final script in Word or PDF format.
 
 ---
 
