@@ -1,5 +1,5 @@
 ---
-title: "Editing Assignment Instructions"
+title: "Editing a Story from CMU Arctic"
 ---
 
 ### Project: Build a Story from CMU Arctic Recordings
