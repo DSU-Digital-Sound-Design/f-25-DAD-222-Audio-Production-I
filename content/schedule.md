@@ -99,9 +99,10 @@ author: ""
 ## Friday (9/19)
 
 - Editing
-  - Each student must edit their own commercial.
+  - Each student must edit their own PSA.
   - More tips for editing in Reaper
     - [Editing](../lectures/week-4/editing/)
+  - In class editing assignment [instructions](../lectures/week-4/editing-assignment/)
 
 <!-- 
 # Week 5 (9/22)

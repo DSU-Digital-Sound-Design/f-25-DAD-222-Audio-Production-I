@@ -2,40 +2,72 @@
 title: "Basic Editing in Reaper"
 ---
 
-
 ### Undoing Edits
 
-If you make a mistake while editing, you can easily undo it by pressing `Cmd+Z` (Mac) or `Ctrl+Z` (Windows). If you'd like to see a full history of your changes, you can access the undo history by navigating to `Edit -> Undo History`. This allows you to view all your previous actions and return to any earlier state in your editing session.
+If you make a mistake while editing, press `Cmd+Z` (Mac) or `Ctrl+Z` (Windows) to undo. For a complete list of your previous actions, open `Edit -> Undo History`. This lets you step back through your edit sequence and return to any earlier state.
 
-### Adjusting Item Content
+### Adjusting Item Content (Slip Editing)
 
-To adjust the timing of content inside an item without moving the entire item itself, hold down the `Alt` key (Windows) or `Option` key (Mac) and drag the item left or right. This lets you shift the contents within the item while keeping the item’s position on the timeline unchanged.
+To adjust the timing of content inside an item without moving the entire item, hold `Alt` (Windows) or `Option` (Mac) and drag left or right. This “slip edit” is ideal for tightening dialogue or syncing effects to visuals while keeping the item anchored on the timeline.
 
 ### Splitting Items
 
-Place your cursor at the point in the item where you'd like to make a cut, and press `S`. This splits the item into smaller chunks, making it easier to work with specific sections or delete unwanted parts. If you decide you want to undo the splits, you can "heal" the item by going to the item menu and selecting `Heal splits in items`. This merges the splits back together.
+Place the cursor where you need a cut and press `S` to split the item. This makes it easy to remove unwanted sections or rearrange dialogue. To revert multiple splits within a single item, choose `Item -> Heal splits in items`.
 
 ### Healing vs. Gluing
 
-Healing only works to undo splits within a single item, restoring it to its original form. However, if you want to join different items into one, use the `Glue` feature. Glue allows you to combine multiple items, even if they weren’t originally connected, into a single continuous item.
+* **Heal** returns one item to its original, unsplit form (only if all the pieces come from the same original item).
+* **Glue** merges two or more adjacent items into one continuous file, even if they were originally separate. Use this after making a series of precise edits to simplify the project.
 
 ### Crossfading Between Items
 
-When you drag one item on top of another, Reaper will automatically create a crossfade at the point where they overlap. Crossfades ensure that the transition between two audio items is smooth, reducing the risk of pops or clicks. It’s generally best to keep these crossfades short for clean and subtle transitions.
+Drag one item slightly over another to create an automatic crossfade. Adjust fade length by dragging the fade handles. Short fades keep transitions smooth and avoid pops or clicks.
+
+### Fades and Volume Envelopes
+
+* Drag the top corners of an item to create quick fade-ins or fade-outs.
+* For more detailed level control, enable track volume envelopes (`Track Envelopes -> Volume`) and add automation points for gradual changes, useful for ducking music under dialogue.
 
 ### Editing Across Multiple Tracks
 
-The same editing principles apply when working with multiple tracks. For example, if you need to make changes across several tracks at once, you can duplicate a track twice and select all the items by right-clicking and dragging over them. This will allow you to edit multiple sections together as needed.
+To edit multiple tracks at once, right-click and drag to select items across tracks. You can then move, trim, or split them together—helpful when aligning dialogue with music or effects.
 
 ---
 
 ### Ripple Editing
 
-Ripple editing is a useful tool that automatically adjusts the position of other items on the same track or across multiple tracks as you edit. To enable it, go to the toolbar and click on `Ripple Editing Per Track`. With this enabled, when you move, delete, or trim an item, all the subsequent items will automatically shift in time, keeping everything aligned and maintaining your project's arrangement. This is especially helpful for removing silences in dialogue recordings or when rearranging a sequence of audio items.
+Ripple editing shifts subsequent items automatically when you move or delete a section, maintaining the project’s timing.
+
+* **Per Track**: Only items on the active track shift.
+* **All Tracks**: Every track shifts together.
+
+Toggle from the toolbar or via `Options -> Ripple Editing`. This is ideal when removing silences or rearranging dialogue sequences.
 
 ---
 
 ### Razor Editing
 
-Razor editing allows for fast, precise adjustments to your audio. To enter razor editing mode, right-click and drag over the section of the item you wish to modify. A razor icon will appear, indicating that you can now edit the selected region. Once selected, press `Delete` to remove the highlighted section. Razor edits can be combined with ripple editing for more efficient adjustments to dialogue or other types of audio content.
+Razor editing lets you quickly select and edit time-based areas across one or more tracks.
 
+* **Select a range**: Hold **Ctrl** (Windows) or **Cmd** (Mac) and drag across the timeline to create a shaded region (the “razor area”).
+* **Move**: Drag the shaded area to move it.
+* **Delete**: press `Delete` to remove the selected time range.
+* **Multi-track work**: Razor areas can span multiple tracks, which makes it ideal for rearranging complex dialogue or music sections.
+
+Tip: You can also combine razor editing with ripple editing (set to “per-track” or “all tracks”) so that when you cut or move a razor area, everything after it automatically shifts to stay in sync.
+
+---
+
+### Grouping Items
+
+For multi-mic recordings or dialogue with music, select related items, right-click, and choose `Group Items`. Grouped items stay locked in relative position, making multi-track edits safer.
+
+### Snap/Grid Settings
+
+Ensure consistent timing by toggling `Snap` on (`Shift+S`) and setting the grid to an appropriate value (e.g., quarter-note for music, fine increments for dialogue). Adjust the grid from the top toolbar.
+
+### Additional Tips for a PSA Project
+
+* Use **Markers** (`M`) to label key sections such as intro, VO, SFX, or outro.
+* Keep your session organized: name tracks clearly (VO, Music, Effects) and color-code items.
+* Regularly save versions (`File -> Save As`) to maintain backups as you experiment.
