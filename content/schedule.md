@@ -104,16 +104,15 @@ author: ""
     - [Editing](../lectures/week-4/editing/)
   - In class editing assignment [instructions](../lectures/week-4/editing-assignment/)
 
-<!-- 
 # Week 5 (9/22)
 
 
 ## Monday (9/22)
 
-- [Unreliable Product Ad](../projects/project-2-ad/) - Due October 1st
 - Another recording day for some more practice, but focusing on editing and mixing.
 
 
+<!-- 
 ## Wednesday (9/24)
 
 - Sound Effects + music beds
