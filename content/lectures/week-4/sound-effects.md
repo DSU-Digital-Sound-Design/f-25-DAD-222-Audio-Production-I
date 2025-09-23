@@ -20,3 +20,26 @@ title: "Free Sound Effects"
 
 - [99 Sounds](https://99sounds.org/free-sound-effects/)
 - [GDC 2019](https://bedroomproducersblog.com/2019/03/27/sonniss-gdc-2019-audio-bundle/)
+- [Sonniss GDC Collections](https://sonniss.com/gameaudiogdc) - annual releases with thousands of curated effects
+- [Sample Focus](https://samplefocus.com/categories/sound-effects) - community library with descriptive tags and previews
+
+**Creative Commons & Licensing Tips**
+
+- [Creative Commons License Chooser](https://creativecommons.org/choose/) - review the requirements for attribution, share-alike, and non-commercial clauses
+- Prioritize `CC0` and public domain assets when you need royalty-free use without attribution
+- Track license notes in your DAW or file metadata so you can credit properly when exporting
+- Double-check whether collections pulled from YouTube or sound packs bundle third-party content with conflicting licenses
+
+**Field Recording & Layering Guides**
+
+- [BBC Sound Effects FAQ](https://sound-effects.bbcrewind.co.uk/help) - explains usage limits and best practices
+- [Boom Library Blog](https://www.boomlibrary.com/blog/category/tutorials/) - walkthroughs on capturing, cleaning, and layering sounds
+- [Krotos Blog](https://www.krotosaudio.com/blog/) - articles on synthetic sound design and workflow ideas
+- Practice building composite effects by stacking source, sweetener, and tail layers on separate tracks
+
+**Organizing Your Library**
+
+- Adopt a consistent folder structure such as `Category > Subcategory > Description` (e.g., `Impacts/Metal/Heavy_gate_bang`)
+- Batch-rename new files with keywords so searches in Soundly/SoundQ stay relevant
+- Use metadata tools like [Soundminer](https://www.soundminer.com/) or [AudioFinder](https://www.icedaudio.com/) if you need embedded descriptions and categories
+- Keep a `README` or spreadsheet logging download source, license, and restrictions for quick reference
