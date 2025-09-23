@@ -14,12 +14,11 @@ title: "Free Sound Effects"
 - [SoundQ](https://www.prosoundeffects.com/soundq/) - downloadable tool to search SoundQ free sound effects and Freesound.org
 - [Soundly](https://getsoundly.com/) - 10,000 free sounds
 - [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/)
-- [Gamesounds xyz](https://gamesounds.xyz/)
 
 **Downloadable packs**
 
 - [99 Sounds](https://99sounds.org/free-sound-effects/)
-- [GDC 2019](https://bedroomproducersblog.com/2019/03/27/sonniss-gdc-2019-audio-bundle/)
+- [Gamesounds xyz](https://gamesounds.xyz/) - GDC collections and free packs
 - [Sonniss GDC Collections](https://sonniss.com/gameaudiogdc) - annual releases with thousands of curated effects
 - [Sample Focus](https://samplefocus.com/categories/sound-effects) - community library with descriptive tags and previews
 
@@ -32,9 +31,9 @@ title: "Free Sound Effects"
 
 **Field Recording & Layering Guides**
 
-- [BBC Sound Effects FAQ](https://sound-effects.bbcrewind.co.uk/help) - explains usage limits and best practices
+- [BBC Sound Effects Licensing](https://sound-effects.bbcrewind.co.uk/licensing) - explains usage limits and best practices
 - [Boom Library Blog](https://www.boomlibrary.com/blog/category/tutorials/) - walkthroughs on capturing, cleaning, and layering sounds
-- [Krotos Blog](https://www.krotosaudio.com/blog/) - articles on synthetic sound design and workflow ideas
+- [Krotos Blog](https://www.krotosaudio.com/category/blog/) - articles on synthetic sound design and workflow ideas
 - Practice building composite effects by stacking source, sweetener, and tail layers on separate tracks
 
 **Organizing Your Library**
