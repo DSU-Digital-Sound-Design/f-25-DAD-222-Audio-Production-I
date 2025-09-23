@@ -111,8 +111,6 @@ author: ""
 
 - Another recording day for some more practice, but focusing on editing and mixing.
 
-
-<!-- 
 ## Wednesday (9/24)
 
 - Sound Effects + music beds
@@ -126,6 +124,7 @@ author: ""
 
 - [FX Roulette game](../lectures/week-5/fx-roulette/)
 
+<!-- 
 # Week 6 (9/29)
 
 ## Monday (9/29)

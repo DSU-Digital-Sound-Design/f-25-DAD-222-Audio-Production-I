@@ -12,8 +12,8 @@ author: ""
 - **Due:** **Friday, Sept 12, 2025** (by midnight)
 - **Summary:** Find, arrange, and mix audio loops in REAPER. Demonstrates foundational DAW and arrangement skills.
 
-### 2. Project 2: Unreliable Product Ad
-- [Project Page](./project-2-ad/)
+### 2. Project 2: Satirical PSA
+- [Project Page](./project-2-PSA/)
 - **Script Ready:** **Monday, Sept 22, 2025**
 - **Final Due:** **Thursday, Oct 2, 2025** (by midnight)
 - **Summary:** Write, record, and edit a commercial for a fictional product. Focus on voice, SFX, and narrative editing.
