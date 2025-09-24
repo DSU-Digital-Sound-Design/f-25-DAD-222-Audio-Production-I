@@ -114,6 +114,7 @@ author: ""
 ## Wednesday (9/24)
 
 - Sound Effects + music beds
+  - In class example: The Raven Audiobook SFX Design 
   - [Finding sound effects](../lectures/week-4/sound-effects/)
   - Examples could be transition impacts or swooshes between character lines. Some scripts will have specific needs for effects that illustrate locations or products, like chirping birds for outdoor settings.
   - Add sound effects to separate tracks
