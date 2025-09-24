@@ -16,7 +16,7 @@ author: ""
 - [Project Page](./project-2-PSA/)
 - **Script Ready:** **Monday, Sept 22, 2025**
 - **Final Due:** **Thursday, Oct 2, 2025** (by midnight)
-- **Summary:** Write, record, and edit a commercial for a fictional product. Focus on voice, SFX, and narrative editing.
+- **Summary:** Write, record, and edit a Satirical PSA. Focus on voice, SFX, and narrative editing.
 
 ### 3. Project 3: In-Class Mixing Assignment
 - [Project Page](./project-3-mix/)
