@@ -130,7 +130,7 @@ author: ""
 
 ## Monday (9/29)
 
-- [EQ](../lectures/week-5/eq/)
+- [EQ](../lectures/week-5/EQ/)
 
 ## Wednesday (10/1)
 
@@ -143,7 +143,7 @@ author: ""
   - The Animation Studio is a new discord where DAD students are looking for collaborators to work on projects.
 - DAD day at MAAC - Nov 14th
   - think of a project you'd like to have shown at the event; every DSD student is required to show at least one work.
-- Exploring EQ on a multitrack recording - [instructions](../lectures/week-5/eq-multitrack/)
+- Exploring EQ on a multitrack recording - [instructions](../lectures/week-5/EQ-multitrack/)
 
 > **Project 2: Unreliable Product Ad** - Due Wednesday, 10/1 by midnight.
 
