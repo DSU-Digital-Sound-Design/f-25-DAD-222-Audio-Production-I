@@ -13,7 +13,7 @@ author: ""
 - **Summary:** Find, arrange, and mix audio loops in REAPER. Demonstrates foundational DAW and arrangement skills.
 
 ### 2. Project 2: Satirical PSA
-- [Project Page](./project-2-PSA/)
+- [Project Page](./project-2-psa/)
 - **Script Ready:** **Monday, Sept 22, 2025**
 - **Final Due:** **Thursday, Oct 2, 2025** (by midnight)
 - **Summary:** Write, record, and edit a Satirical PSA. Focus on voice, SFX, and narrative editing.
