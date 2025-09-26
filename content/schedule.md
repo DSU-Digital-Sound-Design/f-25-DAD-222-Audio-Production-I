@@ -125,13 +125,13 @@ author: ""
 
 - [FX Roulette game](../lectures/week-5/fx-roulette/)
 
-<!-- 
 # Week 6 (9/29)
 
 ## Monday (9/29)
 
 - [EQ](../lectures/week-5/EQ/)
 
+<!-- 
 ## Wednesday (10/1)
 
 - Listen to ads in class
