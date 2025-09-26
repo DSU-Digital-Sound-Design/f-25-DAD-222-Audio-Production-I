@@ -15,7 +15,7 @@ author: ""
 ### 2. Project 2: Satirical PSA
 - [Project Page](./project-2-psa/)
 - **Script Ready:** **Monday, Sept 22, 2025**
-- **Final Due:** **Thursday, Oct 2, 2025** (by midnight)
+- **Final Due:** **Wednesday, Oct 1, 2025** (by midnight)
 - **Summary:** Write, record, and edit a Satirical PSA. Focus on voice, SFX, and narrative editing.
 
 ### 3. Project 3: In-Class Mixing Assignment
