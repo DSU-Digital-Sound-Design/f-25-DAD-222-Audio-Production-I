@@ -131,12 +131,13 @@ author: ""
 
 - [EQ](../lectures/week-5/EQ/)
 
-<!-- 
 ## Wednesday (10/1)
 
-- Listen to ads in class
+- Listen to PSAs in class 
+- Discuss what worked well and what could be improved
 - [EQ in class assignment](../lectures/week-5/eq-assignment/)
 
+<!-- 
 ## Friday (10/3)
 
 - [DSU Animation Studio Discord](https://discord.gg/BMpW46NF)

@@ -40,6 +40,8 @@ title: EQ Exploration Project
  
  - Toggle the EQ on and off to compare your adjusted version with the original. Listen to how each change impacts the sound and the balance between different instruments.
 
+> If you have extra time, add more tracks and experiment with EQ on those as well. The goal is to get comfortable identifying and manipulating different frequency ranges and to hear how EQ adjustments can enhance or alter a mix.
+
 **Reflection**:
  
 - Write a short reflection or prepare to discuss how each EQ adjustment changed the sound of the loop. How did the frequency boosts or cuts affect the different instruments, and which adjustments were most effective?
