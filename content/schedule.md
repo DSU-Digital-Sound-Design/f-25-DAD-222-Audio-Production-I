@@ -137,15 +137,13 @@ author: ""
 - Discuss what worked well and what could be improved
 - [EQ in class assignment](../lectures/week-5/eq-assignment/)
 
-<!-- 
 ## Friday (10/3)
 
-- [DSU Animation Studio Discord](https://discord.gg/BMpW46NF)
-  - The Animation Studio is a new discord where DAD students are looking for collaborators to work on projects.
-- DAD day at MAAC - Nov 14th
+- DAD day at MAAC - Thursday, 10/30 from 7 PM - 9 PM - [DAD @ MAAC #4 | Facebook](https://www.facebook.com/events/1322301515920965)
   - think of a project you'd like to have shown at the event; every DSD student is required to show at least one work.
 - Exploring EQ on a multitrack recording - [instructions](../lectures/week-5/EQ-multitrack/)
 
+<!-- 
 > **Project 2: Unreliable Product Ad** - Due Wednesday, 10/1 by midnight.
 
 # Week 7 (10/6)

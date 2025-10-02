@@ -1,62 +1,256 @@
+
+## Kickoff: Reflecting on Wednesday’s EQ Exploration
+
+Before we dive into today’s multitrack project, let’s pause and reflect on what we learned during Wednesday’s loop-based EQ exercises.  
+
+### Warm-up Recall
+- What frequency ranges were easiest for you to identify when shaping the loops?  
+- Which instrument was the easiest to shape with EQ, and why?  
+- Did toggling EQ on/off reveal anything surprising about your changes?  
+
+### Deeper Reflection
+- When you boosted or cut frequencies, which adjustments sounded subtle versus extreme?  
+- Did you ever go too far with EQ and make the sound worse? How did you fix it?  
+- Which EQ move gave you the clearest improvement in the mix?  
+
+### Conceptual Connections
+- How did the **frequency cheatsheet** help you — did it guide your ears, or did you rely more on listening?  
+- What did you notice about instruments clashing in the same frequency range?  
+- Thinking ahead: in a bluegrass multitrack (guitar, lead guitar, mandolin, banjo, bass), which instruments might fight for the same space in the mix?  
+
 ---
-title: "EQ Multitrack Practice"
+
+# EQ in Context: Bluegrass Multitrack
+
+## Overview & Objectives
+- Build a working vocabulary for describing EQ problems (boxy, muddy, harsh, etc.).
+- Practice corrective EQ on a **5-track bluegrass multitrack** (guitar, lead guitar, mandolin, banjo, bass).
+- Develop both corrective and creative EQ approaches.
+- Strengthen critical listening through collective discussion and independent practice.
+
+> Download the [multitrack files](Audio.zip) and import them into Reaper to begin practicing EQ techniques.
+
 ---
 
-Download the [multitrack files](Audio.zip) and import them into Reaper to begin practicing EQ techniques.
+## Part 1: Vocabulary Warm-Up
 
-### Understanding Basic Filter Types
+We’ll begin with **EQ terms** you’ll hear in studios and tutorials. Each has a frequency range and characteristic sound.  
 
-Before diving into EQ adjustments, it's important to understand the fundamental filter types used in equalization:
+Click the arrows to reveal suggested EQ fixes after we listen and discuss together.
 
-1. **High-Pass Filter**: Allows frequencies above a certain point to pass while cutting lower frequencies. Useful for removing unwanted low-end noise like rumble or hum.
-2. **Low-Pass Filter**: Allows frequencies below a certain point to pass while cutting higher frequencies. This is often used to remove high-frequency hiss or to soften overly bright sounds.
-3. **Band Filter**: Boosts or cuts a selected frequency range. It's great for shaping the tonal characteristics of a sound.
-4. **Band-Pass Filter**: Allows only a specific range of frequencies to pass while cutting frequencies outside of it. Useful for isolating and enhancing certain frequencies.
+### Boxiness
+- **Sound**: Hollow, papery, cardboard-like.  
+- **Range**: 200–500 Hz.  
 
-### Standard EQ Parameters
+<details>
+<summary>EQ Fix</summary>
 
-In most equalizers, you will work with these three key parameters:
+- Cut 2–4 dB around 250–350 Hz for guitars, 300–500 Hz for snare.  
+- Solo instruments to find the buildup, then refine in context.  
 
-1. **Frequency**: Determines the central frequency being adjusted. For example, if you adjust a frequency of 1 kHz, you are affecting the sound content around that specific area.
-2. **Q (Bandwidth)**: Controls the width of the frequency band. A higher Q value means a narrower focus, which allows for more precise adjustments, while a lower Q value affects a wider range of frequencies.
-3. **Gain**: Determines how much you boost or cut the selected frequency. Positive gain boosts the frequency, and negative gain cuts it.
+</details>
 
-> **Tip**: Take a moment to familiarize yourself with ReaEQ in Reaper. Locate each of these parameters and experiment with adjusting them.
+---
 
-### Sweeping Technique for Corrective EQ
+### Muddy
+- **Sound**: Thick, unclear low-mids.  
+- **Range**: 150–300 Hz.  
 
-The **sweeping technique** is a powerful method for finding problematic frequencies and making corrections. Here’s how to use it step-by-step:
+<details>
+<summary>EQ Fix</summary>
 
-1. **Solo Track**: Begin by soloing the track you want to work on (e.g., vocals, guitar, piano).
-2. **EQ Setup**: Open your EQ plugin on the selected track. Choose a frequency band to work with.
-3. **Dramatic Boost for Diagnosis**: Set a high gain level, typically between +12 to +15 dB, and use a high Q value to narrow the frequency range.
-4. **Frequency Sweep**: Sweep through the frequency range by moving the frequency knob across the spectrum. Listen carefully as you boost—identify any points where the sound is particularly harsh, muddy, or otherwise unpleasant.
-5. **Identify Problematic Areas**: Once you identify problematic areas, take note of these frequencies. Also, note any frequency ranges that enhance the sound quality.
-6. **Cut Instead of Boost**: Lower the gain to a reasonable level (typically -1 to -3 dB) and attenuate the problematic frequencies. It is generally better to cut problematic areas rather than boost others.
-7. **A/B Testing**: Regularly A/B test your changes by bypassing the EQ to compare the before and after. This will help ensure you are improving the sound.
-8. **Fine-Tune**: Make minimal adjustments and refine the EQ as needed.
+- Cut gently in 200–300 Hz.  
+- High-pass filter non-bass instruments.  
+- Balance bass vs. guitar boom.  
 
-### EQ for Balance and Reducing Masking
+</details>
 
-Balancing a mix often involves reducing frequency masking—this happens when multiple tracks compete for the same frequency range, making it difficult to distinguish individual sounds.
+---
 
-**Step-by-Step Process for Reducing Masking**:
+### Warmth
+- **Sound**: Full, round, pleasant body.  
+- **Range**: 100–250 Hz.  
 
-1. **Listen Actively**: Start by listening to the entire mix. Identify areas where different instruments are clashing, especially in the low or mid-frequency ranges.
-2. **Solo Affected Tracks**: Solo the tracks that are clashing. For example, if a bass guitar and kick drum sound muddy together, isolate them.
-3. **Identify the Dominant Sound**: Decide which track is most important in the mix (e.g., kick drum for rhythm). This will be your reference track.
-4. **Apply High-Pass Filters**: If one of the tracks contains unnecessary low frequencies, use a high-pass filter to remove them and create more space for other elements.
-5. **Frequency Analysis**: Use a spectrum analyzer or your EQ to visually identify overlapping frequency ranges. You can also use your ears to identify when instruments are masking each other.
-6. **Apply EQ to Masked Tracks**: For each masked track, use the EQ plugin to reduce the volume (attenuate) of the problematic frequency ranges that clash with the reference track. Make subtle adjustments by cutting frequencies, typically 1 to 3 dB, to create more separation.
-7. **Fine-Tune Q Values**: Adjust the Q value (bandwidth) of your EQ to control the width of your frequency cuts. Narrower bandwidths can be useful for precise notching, while wider bandwidths can have a gentler effect.
-8. **A/B Testing**: Continuously A/B test the changes you make by bypassing the EQ to ensure you are improving the mix.
-9. **Repeat for Other Masked Tracks**: Apply the same process to other tracks that are masking the reference track.
-10. **Listen to the Mix as a Whole**: After equalizing all the masked tracks, listen to the entire mix again to ensure that the masking issues are resolved and that the mix sounds more balanced and clear.
+<details>
+<summary>EQ Fix</summary>
 
-### Tips for Effective EQ
+- Add subtle boost in 150–250 Hz.  
+- Avoid over-boosting to prevent muddiness.  
 
-- **Less is More**: Avoid drastic boosts or cuts. Subtle adjustments often yield the best results.
-- **Prioritize Cutting Over Boosting**: Cutting problematic frequencies tends to sound more natural than boosting others.
-- **Context is Key**: Always make EQ adjustments in the context of the full mix, not just while soloing a track.
-- **Practice Critical Listening**: Training your ears to hear subtle changes will greatly improve your EQ skills.
+</details>
+
+---
+
+### Harshness
+- **Sound**: Piercing, fatiguing, grating.  
+- **Range**: 2–5 kHz.  
+
+<details>
+<summary>EQ Fix</summary>
+
+- Sweep with narrow Q, notch 2–5 kHz.  
+- De-ess vocals, tame cymbals at 3–4 kHz.  
+
+</details>
+
+---
+
+### Nasal
+- **Sound**: Pinched, honky.  
+- **Range**: 800 Hz – 1.5 kHz.  
+
+<details>
+<summary>EQ Fix</summary>
+
+- Apply a cut near 1 kHz.  
+- Keep subtle to avoid losing clarity.  
+
+</details>
+
+---
+
+### Sibilance
+- **Sound**: Excessive “s,” “t,” “sh.”  
+- **Range**: 5–8 kHz.  
+
+<details>
+<summary>EQ Fix</summary>
+
+- Use a de-esser or narrow cut at 5–8 kHz.  
+
+</details>
+
+---
+
+### Presence
+- **Sound**: Forward, intelligible.  
+- **Range**: 2–4 kHz.  
+
+<details>
+<summary>EQ Fix</summary>
+
+- Gentle boost in 3 kHz range for vocals, guitars, snare attack.  
+
+</details>
+
+---
+
+### Air / Sparkle
+- **Sound**: Brightness, openness, sheen.  
+- **Range**: 10–16 kHz.  
+
+<details>
+<summary>EQ Fix</summary>
+
+- Add high-shelf boost around 10–12 kHz.  
+- Great for vocals and cymbals.  
+
+</details>
+
+---
+
+## Part 2: Collective Listening with the Bluegrass Multitrack
+
+1. Play the **raw mix** (guitar, lead guitar, mandolin, banjo, bass).  
+2. As a group, pinpoint problem areas:  
+   - Where is it muddy?  
+   - Does the guitar sound boxy?  
+   - Is the mandolin too harsh?  
+   - Does the bass clash with the guitar?  
+3. Demonstrate in Reaper: apply a narrow cut/boost, then A/B toggle with/without EQ.  
+4. Use the vocabulary to describe what’s happening.
+
+---
+
+## Part 3: Suggested EQ Ranges for Each Track
+
+### Bass
+**Role / Issue**: Provide foundation without rumble or clash
+
+<details>
+<summary>Suggested EQ Moves</summary>
+
+- High-pass ~20–30 Hz  
+- Cut 80–120 Hz if guitar is muddy  
+- Gentle boost 700–900 Hz for definition  
+
+</details>
+
+---
+
+### Guitar (rhythm)
+**Role / Issue**: Can be boxy/woofy, may lack clarity
+
+<details>
+<summary>Suggested EQ Moves</summary>
+
+- High-pass 80–120 Hz  
+- Cut 250–400 Hz to reduce boxiness  
+- Boost 2–4 kHz for clarity  
+- Optional high-shelf above 10 kHz  
+
+</details>
+
+---
+
+### Lead Guitar
+**Role / Issue**: Needs presence without harshness
+
+<details>
+<summary>Suggested EQ Moves</summary>
+
+- High-pass low rumble  
+- Cut 300–500 Hz to avoid mud  
+- Boost 2–4 kHz for articulation  
+- Tame 4–6 kHz if harsh  
+
+</details>
+
+---
+
+### Mandolin / Banjo
+**Role / Issue**: Bright, sharp; prone to harshness
+
+<details>
+<summary>Suggested EQ Moves</summary>
+
+- High-pass low end  
+- Cut 2.5–5 kHz if piercing  
+- Boost 8–12 kHz for sparkle  
+- Use narrow notches for resonances  
+
+</details>
+
+---
+
+## Part 4: Independent Project Work
+
+**Objective**: Apply EQ to improve balance and clarity in the bluegrass mix.
+
+1. Solo instrument pairs (bass + guitar, mandolin + banjo). Identify masking.  
+2. Apply corrective EQ using the ranges above as starting points.  
+3. Switch to full mix and refine adjustments.  
+4. A/B test (EQ on/off) to ensure improvements.  
+5. **Optional Creative Task**: Create one effect version (telephone banjo, hi-fi mandolin, scooped guitar).  
+
+---
+
+## Part 5: Reflection & Wrap-Up
+
+- Write 3–4 sentences:  
+  - Which EQ problem was hardest to solve?  
+  - Which EQ term did you hear most clearly?  
+  - Did any EQ moves make things worse before they got better?  
+- Share a few reflections as a group.  
+
+---
+
+## Additional Resources: Hear the Problems in Isolation
+
+These tutorials isolate single tracks and show common EQ issues:
+
+- [How To Remove Boxiness From Your Mix With EQ](https://www.youtube.com/watch?v=XaIBvfXXFVg)  
+- [Smoothing out harsh, boxy or dull guitars with EQ](https://www.youtube.com/watch?v=tXV4VcctCAk)  
+- [3 Stupid-Simple EQ Settings To Clean Up Guitar Tracks](https://www.youtube.com/watch?v=I7CihmOpOl8)  
+- [How To Do Subtractive EQ To Clean Up Muddy Or Harsh Vocals](https://www.youtube.com/watch?v=J3SE7oPyWCk)  
 
