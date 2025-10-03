@@ -143,9 +143,6 @@ author: ""
   - think of a project you'd like to have shown at the event; every DSD student is required to show at least one work.
 - Exploring EQ on a multitrack recording - [instructions](../lectures/week-5/EQ-multitrack/)
 
-<!-- 
-> **Project 2: Unreliable Product Ad** - Due Wednesday, 10/1 by midnight.
-
 # Week 7 (10/6)
 
 ## Monday (10/6)
@@ -154,6 +151,7 @@ author: ""
   - [ReaComp](../lectures/week-5/compression/), ReaXComp, ReaLimit, ReaGate
   - What elements in our mix are still not sitting correctly that could use compression?
 
+<!-- 
 ## Wednesday (10/8)
 
 - **Time based effects**
