@@ -151,12 +151,12 @@ author: ""
   - [ReaComp](../lectures/week-5/compression/), ReaXComp, ReaLimit, ReaGate
   - What elements in our mix are still not sitting correctly that could use compression?
 
-<!-- 
 ## Wednesday (10/8)
 
 - **Time based effects**
-  - [Delay, Chorus, and Flange](../lectures/week-6/delay/)
+  - [Delay, Chorus, and Flanger](../lectures/week-6/delay-new/)
 
+<!-- 
 ## Friday (10/10)
 
 - [Reverb](../lectures/week-6/reverb/)
