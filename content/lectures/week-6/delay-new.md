@@ -71,6 +71,7 @@ Short single echo for added vocal presence.
 
 ### Doubling / ADT
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m4BuziKGMy4?si=c4tHkTDr0l0ixS5W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 The Beatles – *Tomorrow Never Knows*  
 Subtle, modulated short delays create doubled textures.
 
