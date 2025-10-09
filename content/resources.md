@@ -61,7 +61,7 @@ Here you will find curated links, guides, and materials for DAD 222: Audio Produ
 
 ## 6. Sound Libraries & Effects
 
-- [Looper Man](https://www.looperman.com)
+- [Looperman](https://www.looperman.com)
 - [Freesound](https://freesound.org)
 - [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/)
 - [99Sounds](https://99sounds.org/)

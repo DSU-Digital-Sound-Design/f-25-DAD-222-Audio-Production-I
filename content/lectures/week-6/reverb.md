@@ -7,24 +7,25 @@ title: "Mixing with reverb"
 Reverb is an essential tool in mixing, used to enhance various elements in your sound. Here’s how it can affect your mix:
 
 - **Blend**  
-  Jimmy Page used spring reverb to help the guitar solo blend seamlessly with the rest of the track.  
-  <iframe width="560" height="75" src="https://www.youtube.com/embed/QkF3oxziUI4?si=5HJuYhExAy0a5QEL&amp;start=353" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  Reverb helps different parts of a mix feel like they’re in the same space. For instance, on The Ronettes’ Be My Baby, chamber reverb merges dozens of instruments and vocals into one lush texture, a hallmark of Phil Spector’s “Wall of Sound.”
+  <iframe width="560" height="75" src="https://www.youtube.com/embed/jSPpbOGnFgk?si=yYQiK3VljTP_DbkK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - **Size**  
-  On *A Day in the Life* by The Beatles, George Martin used reverb on the strings to create the illusion of a large symphony orchestra playing in a concert hall.  
+  On A Day in the Life, the orchestral ‘bigness’ comes from Studio One’s natural space plus multiple orchestral overdubs; reverb contributes to a concert‑hall impression, but the heavy, obvious reverb is on Lennon’s vocal.
   <iframe width="560" height="75" src="https://www.youtube.com/embed/usNsCeOV4GM?si=c1ZvTXPjElePlG4u&amp;start=167" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 - **Tone**  
-  Reverb can change the tone of vocals, adding character and depth.  
-  <iframe width="560" height="75" src="https://www.youtube.com/embed/CKTOvHw8qFM?si=HrEZlhPowoJjPhyc&amp;start=167" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  Reverb doesn’t just add space—it can dramatically change the timbre of an instrument. Dick Dale’s use of Fender’s spring reverb on Misirlou gives his Stratocaster that bright, percussive “drip” tone that defines surf guitar.
+  Another example: It is likely (though not confirmed) that producers of the Nashville Sound used plate or chamber reverb or echo devices in vocal production to smooth and enhance the vocals. Patsy Cline’s recordings, evolving in that era under Owen Bradley and engineers in Nashville, exhibit a polished ambience consistent with plate-oriented techniques. But no definitive session log confirms a specific plate unit for her vocal chain.
+  <iframe width="560" height="75" src="https://www.youtube.com/embed/mKpsuGMeqHI?si=7H9S1pADCpnKD7SQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="560" height="75" src="https://www.youtube.com/embed/J5uvusfLLp8?si=R3oeicmoXwigxGF9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - **Sustain**  
-  Reverb helps sustain vocals, making them sound fuller and longer.  
-  <iframe width="560" height="75" src="https://www.youtube.com/embed/4NRXx6U8ABQ?si=vIxpBWlNYGaTsBMd&amp;start=167" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  Reverb can extend the life of a sound, making it linger beyond its natural decay. In I Will Always Love You by Whitney Houston, the long plate reverb adds fullness and emotional resonance, carrying her held notes and filling silence between phrases.
+  <iframe width="560" height="75" src="https://www.youtube.com/embed/3JWTaaS7LdU?si=BjqGhMiZI6nIRiWS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 - **Spread**  
-  Reverb can spread out the snaps and vocals, especially noticeable in choruses.  
-  <iframe width="560" height="75" src="https://www.youtube.com/embed/fWNaR-rxAic?si=M_aKnvjvDWzBnQGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  Reverb can make a mix feel wider and more open, especially when used with stereo or modulated algorithms. In Midnight City by M83, reverb expands the synths and vocals across the stereo field, giving the chorus its soaring, cinematic space. <iframe width="560" height="74" src="https://www.youtube.com/embed/dX3k_QDnzHE?si=q2Jg2hbBXGfFasci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Analog Reverb Techniques
 
@@ -64,10 +65,11 @@ Here are key parameter descriptions (from the ReaEffects guide):
 - **Stereo Width**: Controls the width of the stereo field for the reverb.
 - **Initial Delay**: Adds a delay before the reverb starts, creating more space.
 - **Lowpass/Highpass**: Filter controls to apply reverb to only certain frequency ranges.
+ - **Low-pass/High-pass**: Filter controls to apply reverb to only certain frequency ranges.
 
 ### Reverb on One Instrument
 
-Set the room size to 100, then adjust the dampening. With low dampening, you'll hear a brighter reverb; with more dampening, the reverb becomes darker. You can further shape the sound using the high and low pass filters.
+Set the room size to 100, then adjust the damping. With low damping, you'll hear a brighter reverb; with more damping, the reverb becomes darker. You can further shape the sound using the high- and low-pass filters.
 
 ### Reverb on a Send
 
@@ -95,4 +97,3 @@ ReaVerb offers more advanced customization and supports convolution reverb. It h
 Explore free impulse responses from sites like [Open Air](https://www.openair.hosted.york.ac.uk/) and [Voxengo](https://www.voxengo.com/impulses/), and try creating effects like a riser by combining modules such as reverse and time stretch.
 
 Again, the [ReaEffects Guide](https://www.reaper.fm/guides/REAPEREffectsGuide2021.pdf) contains details on how to use each of these modules effectively.
-

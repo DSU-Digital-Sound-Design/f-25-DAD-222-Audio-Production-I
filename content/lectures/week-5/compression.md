@@ -25,7 +25,7 @@ Common, musical use cases:
 * Instruments: extend sustain (e.g., guitars), control peaks (e.g., bass), or glue layered parts.
 * Buses: subtle, tempo-aware bus compression can make elements move together.
 
-Also when not to compress: if a track already sits naturally and feels alive, consider leaving it alone or use volume automation instead.
+Also, when not to compress: if a track already sits naturally and feels alive, consider leaving it alone or use volume automation instead.
 
 ---
 
@@ -41,7 +41,7 @@ Also when not to compress: if a track already sits naturally and feels alive, co
 ![](../Audio-Compressor-Ratio-Chart-652x435-1418756899.jpg)
 
 
-> Tip : aim for 2–6 dB of gain reduction on peaks with moderate ratios (2:1–4:1). Always compare at equal loudness.
+> Tip: aim for 2–6 dB of gain reduction on peaks with moderate ratios (2:1–4:1). Always compare at equal loudness.
 
 ---
 

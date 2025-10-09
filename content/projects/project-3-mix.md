@@ -2,19 +2,19 @@
 title: "Project 3: Angels in Amplifiers Mix"
 ---
  
-We'll use all we have learned so far about mixing to create a rough mix of Angels In Amplifiers song _I'm Alright_. You can download the project files [here](https://mtkdata.cambridgemusictechnology.co.uk/MTK006/AngelsInAmplifiers_ImAlright.zip). Click [here](https://previews.cambridge-mt.com/ImAlright_Preview.mp3) to listen to a mixed version of this song. The engineer is using some techniques that we haven't learned yet, but mix does show good use of balance, equalization, compression and reverb. 
+We'll use all we have learned so far about mixing to create a rough mix of Angels In Amplifiers song _I'm Alright_. You can download the project files [here](https://mtkdata.cambridgemusictechnology.co.uk/MTK006/AngelsInAmplifiers_ImAlright.zip). Click [here](https://previews.cambridge-mt.com/ImAlright_Preview.mp3) to listen to a mixed version of this song. The engineer is using some techniques that we haven't learned yet, but the mix does show good use of balance, equalization, compression, and reverb. 
 
 You'll follow the steps below to complete your own mix for this song. 
 
-- Every track should use a ReqEQ
+- Every track should use a ReaEQ
 - at least two tracks should use ReaComp
-- use three Delays with different settings as a send
-- use at least two Reverb with different settings as a send 
+- use three delays with different settings as sends
+- use at least two reverbs with different settings as sends 
 
 ## Organization
 
 **1. Set Your Project Tempo to 96 BPM:** 
-   - Locate the tempo settings in the bottom right hand corner of Reaper.
+   - Locate the tempo settings in the bottom right-hand corner of Reaper.
    - Change the tempo to 96 beats per minute (BPM). This helps you align recordings accurately with your project timeline.
 
 **2. Order Your Tracks Numerically:**
@@ -29,7 +29,7 @@ You'll follow the steps below to complete your own mix for this song.
 
 ## Build a mix
 
-> Tip: to get more fine grained control over parameters press command (control) + drag.
+> Tip: to get more fine-grained control over parameters press command (control) + drag.
 
 **1. Initialize the Mix:**
    - Start with all faders set to "-inf dB" (infinity decibels), which effectively mutes all tracks.
@@ -51,13 +51,13 @@ You'll follow the steps below to complete your own mix for this song.
 
 ## Equalization
 
-**1. Apply High Pass Filters:**
+**1. Apply High-Pass Filters:**
    - Start with all tracks playing in your mix.
    - Identify instruments with low-frequency content that might contribute to low-frequency buildup. These are typically instruments like bass, kick drum, and potentially some piano or guitar tracks.
    - For each of these instruments, apply a high pass filter to remove unwanted low frequencies. Here's how to do it:
      - Select the track or channel of the instrument in Reaper.
-     - Open an ReaEQ plugin or channel strip for that track.
-     - Locate the high pass filter option.
+     - Open a ReaEQ plugin or channel strip for that track.
+     - Locate the high-pass filter option.
      - Set the filter frequency to a point where it removes unnecessary low frequencies without affecting the instrument's tone negatively. A common starting point is around 20-40 Hz for most instruments.
 
 **2. Listen for Masking:**

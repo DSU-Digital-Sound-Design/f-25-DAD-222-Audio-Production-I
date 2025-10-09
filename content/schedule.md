@@ -7,7 +7,7 @@ author: ""
 
 # Announcement: Opportunities in Digital Sound Design at DSU
 
-- **DSU Live:** A student-run club where you can learn how to set up and run live concerts, as well as start and manage a record label. Find out more and get involved through talking to one of the current members or visiting [DSU Live](https://www.facebook.com/DSU.Live/).  
+- **DSU Live:** A student-run club where you can learn how to set up and run live concerts, as well as start and manage a record label. Find out more and get involved by talking to one of the current members or visiting [DSU Live](https://www.facebook.com/DSU.Live/).  
 - **Sound Design Discord:** Connect with your peers, share projects, and keep up with program news in the [DSU Sound Design Discord Server](https://discord.gg/w85WUcpQ).  
 - **Student Research Initiatives:** Interested in funding for projects? DSU has resources to support undergraduate research, and sound design students are encouraged to get involved. Learn more and apply at [Student Research Initiatives](https://dsu.edu/research/forms.html).  
 
@@ -20,7 +20,7 @@ author: ""
 - Introduction to [syllabus](../syllabus)
 - [Intro to Music Technology](../lectures/week-1/intro-to-music-tech-slides/) slides
 
-> **Homework:** Your favorite sound (submit on D2L)- **Due Friday, 8/29.**
+> **Homework:** Your favorite sound (submit on D2L) - **Due Friday, 8/29.**
 
 ## Wednesday (8/27)
 
@@ -45,12 +45,12 @@ author: ""
 
 ## Friday (9/5)
 
-- Listent to a few more songs that we haven't heard yet
+- Listen to a few more songs that we haven't heard yet
 - [Introduction to Reaper](../lectures/week-2/reaper-intro/#/6) - Continue with intro
 - [Saving and exporting](../lectures/week-2/this-is-reaper-2/)
 - Introduce [Project 1: Arranging Clips](../projects/project-1/)
-  - Find loops and preview them - [Looper Man](https://www.looperman.com) - show the different features of this website
-  - Find drums, percussion, chords and acapellas
+  - Find loops and preview them - [Looperman](https://www.looperman.com) - show the different features of this website
+  - Find drums, percussion, chords, and a cappella vocals
 
 > **Project 1: Arranging Clips** - Due Monday, 9/15 by class.
 > 
@@ -84,7 +84,7 @@ author: ""
 
 - Listen to loops projects
 <!-- - [Digital Audio Data](../lectures/week-4/digital-audio-data/) -->
-> **Project 2: [Saterical PSA](../projects/project-2-PSA/)** - Have your script ready by Monday, 9/22.
+> **Project 2: [Satirical PSA](../projects/project-2-PSA/)** - Have your script ready by Monday, 9/22.
 
 ## Wednesday (9/17)
 
@@ -140,27 +140,27 @@ author: ""
 ## Friday (10/3)
 
 - DAD day at MAAC - Thursday, 10/30 from 7 PM - 9 PM - [DAD @ MAAC #4 | Facebook](https://www.facebook.com/events/1322301515920965)
-  - think of a project you'd like to have shown at the event; every DSD student is required to show at least one work.
+  - Think of a project you'd like to have shown at the event; every DSD student is required to show at least one work.
 - Exploring EQ on a multitrack recording - [instructions](../lectures/week-5/EQ-multitrack/)
 
 # Week 7 (10/6)
 
 ## Monday (10/6)
 
-- Dynamics effects
+- Dynamic effects
   - [ReaComp](../lectures/week-5/compression/), ReaXComp, ReaLimit, ReaGate
   - What elements in our mix are still not sitting correctly that could use compression?
 
 ## Wednesday (10/8)
 
-- **Time based effects**
+- **Time-based effects**
   - [Delay, Chorus, and Flanger](../lectures/week-6/delay-new/)
 
-<!-- 
 ## Friday (10/10)
 
 - [Reverb](../lectures/week-6/reverb/)
 
+<!-- 
 # Week 8 (10/13)
 
 ## Monday (10/13)
@@ -213,7 +213,7 @@ author: ""
 
 ## Monday (10/27)
 
-- in class work on beatmaking project
+- In-class work on beatmaking project
 - [Beatmaking](../lectures/week-8/beatmaking/) - listening examples
 
 ## Wednesday (10/29)
