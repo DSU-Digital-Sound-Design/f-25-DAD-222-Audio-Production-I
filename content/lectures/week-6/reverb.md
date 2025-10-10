@@ -94,6 +94,9 @@ ReaVerb offers more advanced customization and supports convolution reverb. It h
 - **Reverse**: Reverses the reverb tail.
 - **Time/Gain/Stretch**: Alters the timing and pitch of the reverb.
 
-Explore free impulse responses from sites like [Open Air](https://www.openair.hosted.york.ac.uk/) and [Voxengo](https://www.voxengo.com/impulses/), and try creating effects like a riser by combining modules such as reverse and time stretch.
+Here are some resources for free impulse responses:
+- [Open Air Library](https://www.openair.hosted.york.ac.uk/)
+- [Sampled](https://oramics.github.io/sampled/IR/EMT140-Plate/)
+- [REAPER Blog's Free Reverb Impulse Response Library | The REAPER Blog](https://reaper.blog/2018/11/free_reverb_irs/)
 
 Again, the [ReaEffects Guide](https://www.reaper.fm/guides/REAPEREffectsGuide2021.pdf) contains details on how to use each of these modules effectively.
