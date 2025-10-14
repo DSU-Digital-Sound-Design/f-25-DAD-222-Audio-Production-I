@@ -160,7 +160,6 @@ author: ""
 
 - [Reverb](../lectures/week-6/reverb/)
 
-<!-- 
 # Week 8 (10/13)
 
 ## Monday (10/13)
@@ -172,6 +171,7 @@ author: ""
 - Putting together all we've learned to make a simple mix
 - [Project 3: In class mixing assignment](../projects/project-3-mix/) - Due by 10/24
 
+<!-- 
 ## Friday (10/17)
 
 - Continue looking at [Project 3: In class mixing assignment](../projects/project-3-mix/)
