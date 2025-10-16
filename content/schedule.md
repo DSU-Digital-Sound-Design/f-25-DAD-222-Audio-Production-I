@@ -171,12 +171,11 @@ author: ""
 - Putting together all we've learned to make a simple mix
 - [Project 3: In class mixing assignment](../projects/project-3-mix/) - Due by 10/24
 
-<!-- 
 ## Friday (10/17)
 
 - Continue looking at [Project 3: In class mixing assignment](../projects/project-3-mix/)
-- **Mid-term Exam Period**
 
+<!-- 
 # Week 9 (10/20)
 
 ## Monday (10/20)
