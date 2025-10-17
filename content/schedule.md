@@ -175,7 +175,6 @@ author: ""
 
 - Continue looking at [Project 3: In class mixing assignment](../projects/project-3-mix/)
 
-<!-- 
 # Week 9 (10/20)
 
 ## Monday (10/20)
@@ -187,6 +186,7 @@ author: ""
 - [Who Sampled](http://whosampled.com) - covers and sampling
   - In-class project: based on who sampled, find three of your favorite sampling uses from who sampled. Why do you like them? Please describe how the artist used the sample and what it was about the original recording that made the artist want to use it. We'll have a few people present at the end of class.
 
+<!-- 
 ## Wednesday (10/22)
 
 - Questions about the mix?

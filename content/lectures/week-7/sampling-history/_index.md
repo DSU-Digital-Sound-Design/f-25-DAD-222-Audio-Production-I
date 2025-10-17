@@ -6,17 +6,19 @@ theme = "solarized"
 # show_notes = "separate-page"
 +++
 
-## Introduction 
+## Introduction
 
-* **Sampling, mash-ups, and remixes** are all musical techniques that involve the reuse of existing recordings.
-* Increasingly popular in recent decades, thanks to advances in digital technology.
-* Use has been controversial at times, but others argue that it is a creative form of expression that should be protected.
+* Sampling: reusing a portion of an existing sound recording in a new recording.  
+* Mash-ups: layering two or more existing tracks (often a vocal from one, instrumental from another).  
+* Remixes: alternate versions built from stems or multitracks of a released song.  
+
 
 {{% note %}}
-* Sampling, mash-ups, and remixes are all musical techniques that involve the reuse of existing recordings.
-* These techniques have been around for many years, but they have become increasingly popular in recent decades, thanks to advances in digital technology.
-* The use of sampling, mash-ups, and remixes has been controversial at times, but others argue that it is a creative form of expression that should be protected.
+Use has been debated legally/ethically, but it’s also a major creative engine across electronic, hip hop, pop, and experimental music.
+
+Key distinction: quotation/contrafacts borrow musical ideas; sampling reuses recorded audio (fixed media).
 {{%/ note %}}
+
 
 ---
 
@@ -25,22 +27,30 @@ theme = "solarized"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-0mA6BP9NGA?si=re8vd-uY-jmtVTKX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {{% note %}}
-The earliest examples of sampling can be traced back to the early 20th century, when jazz musicians began to incorporate snippets of other recordings into their live performances. This practice, known as "borrowing" or "quoting," was seen as a way to pay homage to fellow musicians and to add new and unexpected elements to their own music.
+Early jazz musicians frequently quoted short melodic phrases from well-known tunes during solos and wrote contrafacts (new melodies over existing chord changes). This is not “sampling,” since no recordings were reused—rather, it’s live musical borrowing that foreshadows later reuse practices.
 {{%/ note %}}
+
 
 ---
 
 ## Jazz Contrafacts 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S6jQnrnWj4c?si=kxugKtz9eJnSkffX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HF_oBfItRO0?si=UDgsZDeuevCvB7jm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="display:flex; flex-wrap:wrap; gap:1rem;">
+  <div style="flex:1 1 300px;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/HF_oBfItRO0?si=UDgsZDeuevCvB7jm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p style="margin-top:0.5rem; text-align:center;">Original</p>
+  </div>
+  <div style="flex:1 1 300px;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/S6jQnrnWj4c?si=kxugKtz9eJnSkffX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p style="margin-top:0.5rem; text-align:center;">Contrafact</p>
+  </div>
+</div>
 
 {{% note %}}
-Well-known examples of contrafacts include the Charlie Parker/Miles Davis bop tune "Donna Lee," which uses the chord changes of the standard "Back Home Again in Indiana"
-
-
+Donna Lee (often associated with Charlie Parker; formally credited to Miles Davis) is a bebop contrafact on the chord changes of “(Back Home Again in) Indiana.” Contrafacts reuse harmony, not recorded audio.
 {{%/ note %}}
+
+
 
 
 
@@ -51,7 +61,7 @@ Well-known examples of contrafacts include the Charlie Parker/Miles Davis bop tu
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c4ea0sBrw6M?si=3V3fzrJwbWmkJYZ-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {{% note %}}
-In the 1940s, French composer Pierre Schaeffer developed a new genre of music called musique concrète, which involved manipulating recorded sounds to create new compositions. Schaeffer used a variety of techniques, including sampling, to create his music, and his work is considered to be one of the earliest examples of electronic music.
+Pierre Schaeffer’s musique concrète (from 1948) assembled recordings of everyday sound—edited, looped, reversed, and filtered on tape—toward acousmatic listening (separating sound from its source). This marks the beginning of systematic composition with recorded media.
 {{%/ note %}}
 
 ---
@@ -79,6 +89,7 @@ In the 1940s, French composer Pierre Schaeffer developed a new genre of music ca
 12:11 Étude pathétique - sauce pans, canal boats, singing, speech, harmonica, piano
 {{%/ note %}}
 
+
 ---
 
 ## The Rise of Hip Hop
@@ -86,9 +97,9 @@ In the 1940s, French composer Pierre Schaeffer developed a new genre of music ca
 [Most Sampled Tracks | WhoSampled](https://www.whosampled.com/most-sampled-tracks/)
 
 {{% note %}}
-
-The first commercial samplers were released in the late 1970s, and they quickly became popular among hip hop artists. DJs began using samplers to create new beats by isolating and looping drum breaks and other instrumental passages from existing recordings. This technique, known as breakbeat sampling, played a vital role in the development of hip hop music.
+Hip hop’s earliest technique was turntable looping of drum breaks (two copies of the same record). High-end samplers arrived in the late 1970s but were rare and expensive. Sampling became widespread in hip hop with more affordable gear in the mid- to late-1980s (E-mu SP-1200, Ensoniq Mirage, Akai S-series/MPC). Many early rap records used replayed bands (interpolations) rather than master-recording samples.
 {{%/ note %}}
+
 
 ---
 
@@ -97,61 +108,60 @@ The first commercial samplers were released in the late 1970s, and they quickly 
 
 ---
 
-### Source Material
-
-- **Musique Concrète**: Used recorded **environmental sounds** like trains, speech, and ambient noise.
-- **Early Hip Hop**: Sampled **musical recordings** like drum breaks, funk, and soul tracks to create rhythmic grooves.
+<table style="font-size:0.7em; width:100%;">
+  <thead>
+    <tr>
+      <th>Aspect</th>
+      <th>Musique Concrète</th>
+      <th>Early Hip Hop Sampling</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Time Period</strong></td>
+      <td>1940s–1950s</td>
+      <td>Late 1970s–1980s</td>
+    </tr>
+    <tr>
+      <td><strong>Primary Techniques</strong></td>
+      <td>Tape splicing, looping, speed manipulation</td>
+      <td>Turntable looping, scratching, early samplers</td>
+    </tr>
+    <tr>
+      <td><strong>Source Material</strong></td>
+      <td>Everyday sounds, field recordings</td>
+      <td>Funk, soul, disco records</td>
+    </tr>
+    <tr>
+      <td><strong>Aesthetic Goals</strong></td>
+      <td>Abstract soundscapes, acousmatic listening</td>
+      <td>Danceable grooves, rhythmic energy</td>
+    </tr>
+    <tr>
+      <td><strong>Cultural Context</strong></td>
+      <td>Avant-garde art music</td>
+      <td>Urban youth culture, party scenes</td>
+    </tr>
+  </tbody>
+</table>
 
 {{% note %}}
-Musique concrète used non-musical sounds to create abstract compositions, while hip hop repurposed musical sounds to create new rhythms for songs.
-{{%/ note %}}
-
----
-
-### Manipulation Techniques
-
-- **Musique Concrète**: Techniques like **splicing, looping, pitch-shifting**, and **reversing** sounds on tape, transforming them into abstract soundscapes.
-- **Early Hip Hop**: **Looping and cutting** instrumental breaks, focusing on maintaining recognizable rhythmic elements with drum beats.
-
-{{% note %}}
-Musique concrète aimed to alter the original sounds to be unrecognizable, while hip hop preserved their musicality to create rhythmic patterns.
-{{%/ note %}}
-
----
-
-### Intent & Cultural Context
-
-- **Musique Concrète**: Avant-garde, experimental, often for academic audiences, aiming to **challenge traditional definitions of music**.
-- **Early Hip Hop**: Used sampling to **innovate within popular music**, appealing to street culture, DJs, and the party scene.
-
-{{% note %}}
-While musique concrète was focused on sound experimentation, hip hop used sampling to create new forms of accessible, rhythm-driven music.
-{{%/ note %}}
-
----
-
-### Technology
-
-- **Musique Concrète**: **Analog tape machines**, manually cutting and splicing tape to manipulate sound.
-- **Early Hip Hop**: **Digital samplers** like the Akai MPC allowed faster, easier manipulation and looping of sounds.
-
-{{% note %}}
-Hip hop sampling benefited from digital samplers, making the process more efficient than the labor-intensive tape splicing of musique concrète.
+Both practices involve recontextualizing recorded sound, but their goals, techniques, and cultural contexts differ significantly.
 {{%/ note %}}
 
 ---
 
 ## The Kraftwerk Connection
 
-- **Kraftwerk**, a German electronic music group, was influenced by avant-garde techniques, including some elements of **musique concrète**.
-- **Afrika Bambaataa** famously sampled Kraftwerk in his pioneering hip hop track **"Planet Rock"** (1982).
-
+* Kraftwerk drew on avant-garde studio techniques (tape, synthesis) and minimalism.  
+* Afrika Bambaataa & Soulsonic Force’s “Planet Rock” (1982) **interpolates** motifs from Kraftwerk’s “Trans-Europe Express” and rhythmic ideas from “Numbers,” fused with the TR-808 electro aesthetic.
 
 [Planet Rock by Afrika Bambaataa and Soulsonic Force - Samples, Covers and Remixes | WhoSampled](https://www.whosampled.com/Afrika-Bambaataa/Planet-Rock/)
 
 {{% note %}}
-Kraftwerk's influence demonstrates how early electronic and experimental music practices (including techniques developed by musique concrète) indirectly impacted the evolution of hip hop sampling.
+The connection shows how experimental/electronic practices fed into hip hop and electro—not always by sampling masters directly, but often by re-performing (interpolating) and recontextualizing ideas.
 {{%/ note %}}
+
 
 ---
 
@@ -174,5 +184,29 @@ Kraftwerk's influence demonstrates how early electronic and experimental music p
 - [Tracks Sampled by Devo | WhoSampled](https://www.whosampled.com/Devo/samples/)
 - [Fairlight CMI - Samples, Covers and Remixes | WhoSampled](https://www.whosampled.com/Fairlight-CMI/)
 
+---
 
+## Sample Clearance—The Practical Bits
 
+* Two rights to clear: master (sound recording) and publishing (composition).  
+* Key cases to know: Grand Upright v. Warner (1991); Bridgeport v. Dimension Films (2005, 6th Cir.); VMG Salsoul v. Ciccone (2016, 9th Cir.).  
+* Classroom guidance: prefer public-domain/CC, licensed packs, or your own recordings. Use interpolation where appropriate. Keep stems/notes of sources and transformations.
+
+{{% note %}}
+These cases shape the modern legal framework for sampling. Emphasize the difference between transformative educational use and commercial release, and encourage students to document sources and transformations for transparency.
+
+Grand Upright v. Warner (1991)
+• Biz Markie sampled Gilbert O’Sullivan without permission.
+• Court ruled sampling without clearance is theft (“Thou shalt not steal”).
+• Started the strict sample-clearance era in the U.S. music industry.
+
+Bridgeport v. Dimension Films (2005)
+• N.W.A. used a 2-second Funkadelic guitar hit.
+• Court: any unlicensed sampling of a sound recording = infringement.
+• Established the rule: “Get a license or do not sample.”
+
+VMG Salsoul v. Madonna (2016)
+• Dispute over a tiny horn stab in “Vogue.”
+• Court found it de minimis—too small to matter.
+• Reintroduced a limited “small-sample exception,” creating a circuit split with Bridgeport.
+{{%/ note %}}
