@@ -186,14 +186,14 @@ author: ""
 - [Who Sampled](http://whosampled.com) - covers and sampling
   - In-class project: based on who sampled, find three of your favorite sampling uses from who sampled. Why do you like them? Please describe how the artist used the sample and what it was about the original recording that made the artist want to use it. We'll have a few people present at the end of class.
 
-<!-- 
 ## Wednesday (10/22)
 
-- Questions about the mix?
+- Questions about the mixing assignment?
 - [MIDI History](../lectures/week-7/midi-history/) - some history on the problem MIDI was invented to solve.
-- Download [Sitala - Drum Sampler Plugin](https://decomposer.de/sitala/)
-  - Build a simple drum loop out of these two samples: [drums](../samples/drums.wav), [bass](../samples/bass.wav)
+<!-- - Download [Sitala - Drum Sampler Plugin](https://decomposer.de/sitala/)
+  - Build a simple drum loop out of these two samples: [drums](../samples/drums.wav), [bass](../samples/bass.wav) -->
 
+<!-- 
 ## Friday (10/24)
 
 - [MIDI Intro](../lectures/week-7/midi-intro/)
