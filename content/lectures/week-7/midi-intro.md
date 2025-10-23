@@ -63,4 +63,3 @@ title: "MIDI Introduction in Reaper"
 - Goldbaby (Freebies) — https://www.goldbaby.co.nz/freestuff.html — Vintage drum machine samples; free taster packs.
 - LANDR Samples — https://samples.landr.com — Subscription library with genre‑based drum kits.
 
-Note: Always verify licensing for classroom and portfolio use. For more libraries (including SFX and IRs), see the course Resources page: /resources/
