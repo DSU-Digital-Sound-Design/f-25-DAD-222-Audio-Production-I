@@ -193,15 +193,7 @@ author: ""
 
 ## Friday (10/24)
 
-- Download [Sitala - Drum Sampler Plugin](https://decomposer.de/sitala/)
-  - Build a simple drum loop out of these two samples: [drums](../samples/drums.wav), [bass](../samples/bass.wav) 
 - [MIDI Intro](../lectures/week-7/midi-intro/)
-- Create at least a 2 bar loop today, we'll go over how to extend it more on Monday.
-- You can redo your loop project, this time with MIDI, or do something new.
-- Add **one or two samples** from [freesound](https://freesound.org) to your composition
-- Spend some time making loops, share with the class at the end
-- Use any of the effects we've learned so far: EQ, compression, reverb, delay
-- You can route your MIDI track to effects sends with the effects routing tab.
 
 > **Project 3: In class mixing assignment** - Due Friday, 10/24 by midnight.
 

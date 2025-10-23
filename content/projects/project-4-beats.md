@@ -8,7 +8,7 @@ Create a **16-32 measure** musical composition using samples from multiple sourc
 ### **Requirements:**
 
 - The project must contain at least **four tracks**, each using only MIDI information to trigger Sitala.
-- Download the samples using a YouTube downloader, such as [YT1s.com](https://yt1s.com/en629).
+- Download the samples using a YouTube downloader, such as [YTdown](https://ytdown.io/en2/).
 - After downloading, select and render the portion of the track you wish to use, then open it in Sitala.
 - Use the production techniques we've covered in class, such as EQ, compression, reverb, and delay, to enhance your project.
 - Feel free to manipulate your samples in creative ways beyond just EQ and compression. You can use techniques like **time-stretching, reversing, pitch-shifting**, or other effects to make the samples your own.
