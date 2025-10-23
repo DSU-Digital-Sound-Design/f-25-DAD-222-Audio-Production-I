@@ -190,12 +190,11 @@ author: ""
 
 - Questions about the mixing assignment?
 - [MIDI History](../lectures/week-7/midi-history/) - some history on the problem MIDI was invented to solve.
-<!-- - Download [Sitala - Drum Sampler Plugin](https://decomposer.de/sitala/)
-  - Build a simple drum loop out of these two samples: [drums](../samples/drums.wav), [bass](../samples/bass.wav) -->
 
-<!-- 
 ## Friday (10/24)
 
+- Download [Sitala - Drum Sampler Plugin](https://decomposer.de/sitala/)
+  - Build a simple drum loop out of these two samples: [drums](../samples/drums.wav), [bass](../samples/bass.wav) 
 - [MIDI Intro](../lectures/week-7/midi-intro/)
 - Create at least a 2 bar loop today, we'll go over how to extend it more on Monday.
 - You can redo your loop project, this time with MIDI, or do something new.
@@ -208,6 +207,7 @@ author: ""
 
 > [**Project 4: Drum Programming and Beatmaking**](../projects/project-4-beats/) - DUE Monday, 11/3
 
+<!-- 
 # Week 10 (10/27)
 
 ## Monday (10/27)
