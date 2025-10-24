@@ -199,7 +199,6 @@ author: ""
 
 > [**Project 4: Drum Programming and Beatmaking**](../projects/project-4-beats/) - DUE Monday, 11/3
 
-<!-- 
 # Week 10 (10/27)
 
 ## Monday (10/27)
@@ -207,6 +206,7 @@ author: ""
 - In-class work on beatmaking project
 - [Beatmaking](../lectures/week-8/beatmaking/) - listening examples
 
+<!-- 
 ## Wednesday (10/29)
 
 - **Synthesis and MIDI**

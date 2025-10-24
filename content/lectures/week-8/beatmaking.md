@@ -62,8 +62,8 @@ title: "Making Beats"
 **Kaytranada – “Glowed Up” (feat. Anderson .Paak)**  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yaWesK-nWts?si=0ERz4tzEIZ84z1QO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**SOPHIE – “Ponyboy”**  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vRh-OVLOdcs?si=WSVSv_mSx7Vsb64x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+**SOPHIE – “VYZEE"**  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KXdRl6Ml37I?si=_2H5KkrUlEWJCDjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
