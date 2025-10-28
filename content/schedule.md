@@ -206,21 +206,22 @@ author: ""
 - In-class work on beatmaking project
 - [Beatmaking](../lectures/week-8/beatmaking/) - listening examples
 
-<!-- 
 ## Wednesday (10/29)
 
 - **Synthesis and MIDI**
   - [Electronic sound production](../lectures/week-10/electronic-sound-production/)
 
+<!-- 
 ## Friday (10/31)
 
-- More on Vital Synth and Synthesis
-- Preset analysis - pick a random preset and see how it works
+- Install [Vital Synth](https://vital.audio/) if you haven't already
+- Synth Roulette game
 
 # Week 11 (11/3)
 
 ## Monday (11/3)
 
+- Play beatmaking projects in class
 - [Vital Synth](../lectures/week-10/vital-intro/)
 - [Vital Synth Manual](https://hooklineismyhomie.weebly.com/uploads/1/4/9/6/149651803/vital_user_manual.pdf)
 
