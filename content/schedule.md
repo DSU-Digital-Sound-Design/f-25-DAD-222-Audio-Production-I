@@ -211,12 +211,12 @@ author: ""
 - **Synthesis and MIDI**
   - [Electronic sound production](../lectures/week-10/electronic-sound-production/)
 
-<!-- 
 ## Friday (10/31)
 
 - Install [Vital Synth](https://vital.audio/) if you haven't already
-- Synth Roulette game
+- [Vital Roulette game](../lectures/week-10/vital-roulette/)
 
+<!-- 
 # Week 11 (11/3)
 
 ## Monday (11/3)
