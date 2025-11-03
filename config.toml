@@ -50,7 +50,7 @@ theme = ["terminal", "reveal-hugo"]
 
     [languages.en.params.logo]
       logoText = "DAD 222: Audio Production 1"
-      logoHomeLink = "https://dsu-digital-sound-design.github.io/f-22-DAD-222-Audio-Production-I/"
+      logoHomeLink = "https://dsu-digital-sound-design.github.io/f-25-DAD-222-Audio-Production-I/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
