@@ -26,8 +26,8 @@ author: ""
 
 ### 4. Project 4: Drum Programming and Beatmaking
 - [Project Page](./project-4-beats/)
-- **Assigned:** Week 9 (Fri, Oct 24)
-- **Due:** **Monday, Nov 3, 2025**
+- **Assigned:** Week 9 (Nov 3rd)
+- **Due:** **Monday, Nov 10, 2025**
 - **Summary:** Create a beat using MIDI and samples (Sitala, Freesound) in REAPER. Focus on rhythm, loop creation, and effects.
 
 ### 5. Project 5: Vital Synth Project
