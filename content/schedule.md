@@ -224,12 +224,11 @@ author: ""
 - [Vital Synth](../lectures/week-10/vital-intro/)
 - [Vital Synth Manual](https://hooklineismyhomie.weebly.com/uploads/1/4/9/6/149651803/vital_user_manual.pdf)
 
-<!-- 
 ## Wednesday (11/5)
 
-- [Adaptive Grid Tool](../lectures/week-11/adaptive-grid/)
 - [Modulation - LFO and Mod Envelopes](../lectures/week-11/vital-modulation/)
 
+<!-- 
 ## Friday (11/7)
 
 - [Effects and Post-processing](../lectures/week-11/effects/) 

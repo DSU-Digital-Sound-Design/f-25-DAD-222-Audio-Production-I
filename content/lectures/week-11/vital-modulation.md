@@ -1,75 +1,126 @@
 ---
-title: "Modulation in Vital"
+title: "Modulation in Vital: Design Your Own Patches"
+summary: "Learn practical modulation techniques in Vital (LFOs, envelopes, performance sources, and meta-modulation) and build original, performance-ready patches through short demos and guided labs."
+tags: [synthesis, vital, modulation, sound design]
 ---
 
-### What is Modulation?
+## What you’ll learn
 
-Modulation is the process of changing a parameter over time to add dynamics and interest to a sound. In Vital Synth, you can use modulation to control almost any parameter, like pitch, filter cutoff, wavetable position, or amplitude. Vital’s modulation system allows you to easily drag and drop to assign modulators to any parameter, making it intuitive and powerful for sound design.
-
-[Learning Synths - LFO](https://learningsynths.ableton.com/en/lfos/change-that-repeats)
-
----
-
-### Getting Started with LFOs in Vital
-
-LFOs are a key element in synthesis, adding cyclic or repetitive changes to a sound. They operate at a low frequency (hence the name) and can be routed to any parameter in Vital to add rhythmic movement. Here’s how to start using LFOs in Vital.
-
-1. **Select an LFO:** In Vital, you have several LFOs available on the right side of the interface. Choose one by clicking on it.
-
-2. **Choose an LFO Shape:** LFOs in Vital come with various wave shapes like sine, triangle, saw, and square. Each shape influences the modulation in a unique way:
-   - **Sine Waves** create smooth, cyclical changes, great for vibrato or gentle pulsing.
-   - **Square Waves** switch the parameter on and off, perfect for stutter or tremolo effects.
-   - **Saw Waves** can create a rise and fall effect, adding dramatic movement.
-
-3. **Adjust the LFO Rate:** The rate controls how fast the LFO cycles. Higher rates create faster modulation (great for tremolo effects), while lower rates create slower, more subtle changes.
+* What modulation is and why it matters for musical movement
+* How to assign LFOs, envelopes, and performance sources to multiple targets
+* How to shape depth, polarity, and response curves with the Mod Matrix and remap
+* How to build three original patches showcasing different modulation strategies
 
 ---
 
-### Modulating Filter Cutoff with an LFO
+## Quick refresher
 
-Let’s walk through using an LFO to modulate the filter cutoff in Vital, creating a bass sound with a rhythmic movement.
+Modulation means changing a parameter over time. In Vital you can target almost anything: oscillator pitch, filter cutoff, wavetable position, phase, pan, FX mix, and more. Drag a mod source onto a target to assign it, then refine the amount in the Mod Matrix.
 
-1. **Set Up a Simple Bass Patch:** Start with a basic saw or square waveform on Oscillator 1, then apply a low-pass filter to cut off the higher frequencies.
-
-2. **Assign the LFO to the Filter Cutoff:**
-   - Click and drag from the LFO label to the filter cutoff knob.
-   - You’ll see a blue ring around the knob, indicating the depth of modulation.
-   - Adjust the modulation depth by clicking on the blue ring and dragging in or out to control how much the LFO affects the cutoff.
-
-3. **Experiment with LFO Rate and Shape:**
-   - Try setting a slow rate (around 0.5 Hz) with a sine wave to create a smooth, pulsing bass.
-   - Increase the rate to around 2-5 Hz to hear a faster, wobble-like movement.
-
-4. **Fine-Tune the LFO Settings:** In Vital, you can sync the LFO to your DAW’s tempo, creating rhythmic modulation that aligns with your project’s BPM. Experiment with free-running and synced modes to find the right feel for your bass.
+Resource: Learning Synths – LFO
+[https://learningsynths.ableton.com/en/lfos/change-that-repeats](https://learningsynths.ableton.com/en/lfos/change-that-repeats)
 
 ---
 
-### Introducing Modulation Envelopes
+## Core concepts
 
-While LFOs create repetitive modulation, modulation envelopes can shape the sound over time, perfect for one-shot effects like filter sweeps. Vital allows you to create custom envelopes and assign them just like LFOs.
+### LFOs for movement
 
-1. **Set Up a Modulation Envelope:** In the same section as the LFOs, select an envelope and shape it using the ADSR (Attack, Decay, Sustain, Release) settings. For instance:
-   - **Attack** controls how quickly the envelope reaches its peak.
-   - **Decay** sets how fast it falls after reaching that peak.
-   - **Sustain** keeps the parameter steady until the note is released.
-   - **Release** determines how long it takes to return to zero.
+* Shapes affect feel: sine is smooth, triangle is linear, saw ramps, square toggles, stepped and drawable shapes create custom patterns.
+* Rate can be free (Hz) or tempo-synced (note values).
+* Retrigger determines whether the LFO restarts per note or free-runs for ensemble wobble.
+* Envelope mode turns an LFO into an envelope-like contour for hits and rises.
+* Try routing one LFO to two different targets with different depths for correlated motion without chaos.
 
-2. **Apply the Envelope to a Parameter:** Let’s assign a modulation envelope to control the wavetable position for a smooth, evolving sound.
-   - Drag the envelope to the wavetable position knob.
-   - Adjust the envelope shape to control the movement of the wavetable position over the length of the note.
+### Envelopes for gestures
+
+* Use extra envelopes beyond the amp envelope for one-time gestures: filter swells, spectral sweeps, transient emphasis.
+* ADSR sets the time profile. Map envelope amount to shape how dramatic the gesture is.
+
+### Performance sources
+
+* Velocity, key track, mod wheel, and aftertouch shape modulation in a musical, performer-driven way.
+* Examples: velocity to filter envelope amount for dynamic brightness; mod wheel to LFO amount for live intensity; key track to filter cutoff for natural brightness up the keyboard.
+
+### Mod Matrix and remap
+
+* The Mod Matrix is where amounts, polarity, and scaling live.
+* Remap curves shape how the modulator responds across its range, useful for keeping extremes playable.
+
+### Modulating a modulation
+
+* Meta-mods add expression: mod wheel to LFO depth, velocity to LFO amount, key track to LFO rate, envelope to filter resonance amount, and so on.
 
 ---
 
-### In-Class Project: Designing a Modulated Bass Sound
+## Short demos to mirror in class
 
-Now that you’ve learned about LFOs and modulation envelopes, it’s time to apply them to a bass sound! Follow these steps to create a modulated bass patch using what we covered.
+Each takes only a couple minutes. Follow along and save the patch version after each step.
 
-1. **Choose Your Oscillator Waveform:** Start with a saw or square wave for a strong bass foundation.
-   
-2. **Set Up a Low-Pass Filter:** Apply a low-pass filter to remove high frequencies and create a warm, focused sound.
+### Demo A: Sidechain-style pump
 
-3. **Add an LFO to the Filter Cutoff:** Drag an LFO to the filter cutoff knob and adjust the rate for a pulsing effect. Experiment with different shapes (like sine or saw) to see how each changes the feel of the bass.
+1. Start with a simple bass or pad.
+2. LFO tempo-synced to 1/4.
+3. Route LFO to amp level for a gentle dip.
+4. Use remap to avoid complete silence at the bottom of the dip.
+5. Map mod wheel to LFO amount for live control. Or draw in mod wheel automation.
 
-4. **Apply an Envelope to the Wavetable Position (Optional):** Use a modulation envelope to move the wavetable position, adding subtle shifts to the tone over the duration of the note.
+Listen for how shape and depth change groove.
 
-5. **Experiment and Adjust:** Play around with the modulation depth and rates to make the sound your own. Try adjusting the filter cutoff and resonance to shape the character of the bass.
+### Demo B: Evolving timbre pad
+
+1. Two different wavetables; slight detune for width.
+2. Env 2 to wavetable position on both oscillators with different depths.
+3. Very slow LFO to filter cutoff (2–4 bars).
+4. Subtle LFO to pan for stereo bloom.
+5. Aftertouch increases the filter LFO amount for expressive swells.
+
+Listen for long-form motion plus performable intensity.
+
+### Demo C: Pluck with bite
+
+1. Short-decay envelope to filter cutoff for bright attack.
+2. Tiny, fast LFO to fine pitch or phase for shimmer.
+3. Velocity to filter envelope amount so touch changes tone.
+
+Listen for transient character versus body.
+
+---
+
+## Guided practice labs
+
+### Lab 1: Rhythmic filter bass
+
+* Oscillator: saw or square.
+* Low-pass filter around 200–600 Hz.
+* LFO 1 to filter cutoff, tempo-synced. Explore shapes.
+* Mod wheel to LFO 1 amount.
+* Optional: light drive or compressor post-filter.
+
+Goal: two short renders at different LFO depths using the mod wheel.
+
+### Lab 2: Evolving texture pad
+
+* Two wavetables; slight detune.
+* Env 2 with slow attack and long release to wavetable position.
+* Very slow LFO 2 to filter cutoff and small amount to chorus mix.
+* Key track to filter cutoff for brightness up the keyboard.
+
+Goal: render moving from low to high register to show key tracking.
+
+
+### Lab 3: Modulate a modulation
+
+Pick any previous lab and add one meta-mod.
+
+* Examples: mod wheel to LFO rate; velocity to LFO amount; key track to envelope sustain.
+* Use the Mod Matrix remap to keep extremes musical.
+
+Goal: render a sweep demonstrating the controller you chose.
+
+---
+
+## Practice
+
+Take the rest of class and finish the patches. Share them in class towards the end. 
+
