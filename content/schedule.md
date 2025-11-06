@@ -228,7 +228,6 @@ author: ""
 
 - [Modulation - LFO and Mod Envelopes](../lectures/week-11/vital-modulation/)
 
-<!-- 
 ## Friday (11/7)
 
 - [Effects and Post-processing](../lectures/week-11/effects/) 
@@ -236,6 +235,7 @@ author: ""
   
 > [Vital Synth Project](../projects/project-5-synth/) - DUE Friday, 11/21 
 
+<!-- 
 # Week 12 (11/10)
 
 ## Monday (11/10)

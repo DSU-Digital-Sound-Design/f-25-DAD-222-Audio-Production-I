@@ -32,7 +32,7 @@ author: ""
 
 ### 5. Project 5: Vital Synth Project
 - [Project Page](./project-5-synth/)
-- **Assigned:** Week 11 (Fri, Nov 7)
+- **Assigned:** Week 11 (Nov 21st)
 - **Due:** **Friday, Nov 21, 2025** (by midnight)
 - **Summary:** Design and present an original synth patch in Vital. Explore modulation, macros, and post-processing.
 
