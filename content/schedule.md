@@ -235,13 +235,13 @@ author: ""
   
 > [Vital Synth Project](../projects/project-5-synth/) - DUE Friday, 11/21 
 
-<!-- 
 # Week 12 (11/10)
 
 ## Monday (11/10)
 
 - [Drum Synthesis](../lectures/week-12/drum-synthesis/)
 
+<!-- 
 ## Wednesday (11/12)
 
 - [Leads and Keys](../lectures/week-12/leads-and-keys/)
