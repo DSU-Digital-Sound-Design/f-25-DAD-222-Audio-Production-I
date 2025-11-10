@@ -241,12 +241,12 @@ author: ""
 
 - [Drum Synthesis](../lectures/week-12/drum-synthesis/)
 
-<!-- 
 ## Wednesday (11/12)
 
 - [Leads and Keys](../lectures/week-12/leads-and-keys/)
   
 
+<!-- 
 ## Friday (11/14)
 
 - Building a Full Patch with Macros 
