@@ -246,11 +246,15 @@ author: ""
 - [Leads and Keys](../lectures/week-12/leads-and-keys/)
   
 
-<!-- 
 ## Friday (11/14)
 
-- Building a Full Patch with Macros 
+- [Recreate That Sound: Synthesis Ear Training](../lectures/week-13/vital-listening/)
+- on Monday we'll have some volunteers share their patches from previous classes. 
 
+<!-- Instructor prep notes 
+[Vital Listening Instructor Notes](../lectures/week-13/vital-listening-instructor-notes/)
+ -->
+<!-- 
 # Week 13 (11/17)
 
 ## Monday (11/17)
