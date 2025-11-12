@@ -14,16 +14,14 @@ By the end of this session, students will:
   
 ---
 
-### Session Flow (70 min)
+### Session Flow 
 
-**1. Reference Listening (5 min)**
+**Reference Listening**
 Play a short clip of a classic analog lead and a glassy key sound. Identify the transient, sustain, vibrato, and filter motion.
 
-**2. Anatomy Demo (10 min)**
-Walk through Vital’s oscillator panel, mono/legato mode, glide, and envelope shapes.
-Settings: ENV1 Attack < 5 ms, Decay ~300 ms, Sustain 0.5.
+[Analog Synths Demo](https://www.youtube.com/watch?v=9nTrvgSkbtU&list=PLgJmGhJMde52YD9UxVbD2BpYPrQqFtPnq&index=1)
 
-## Patch 1: Expressive Mono Lead (20 min)**
+## Patch 1: Expressive Mono Lead (20 min)
 
 1. OSC1: Saw; Sub Level: 10%.
 2. Filter: LP12 @ 5 kHz, Drive 10%.
