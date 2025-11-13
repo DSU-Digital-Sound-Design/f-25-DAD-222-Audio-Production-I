@@ -4,9 +4,9 @@ date: 2024-06-20
 draft: false
 ---
 
-**Duration:** 50 minutes
-**Software:** Vital
-**Objective:** Listen closely to several short synthesized sounds and recreate them as accurately as possible using Vital.
+- **Duration:** 50 minutes
+- **Software:** Vital
+- **Objective:** Listen closely to several short synthesized sounds and recreate them as accurately as possible using Vital.
 You’ll use your ear to identify waveforms, filter shapes, envelopes, and modulation techniques.
 
 ---
@@ -21,8 +21,8 @@ You’ll use your ear to identify waveforms, filter shapes, envelopes, and modul
 
 ## Round 1 – Bright Filtered Lead (10 minutes)
 
-**Concept:** Filter envelope modulation in subtractive synthesis.
-**Listen:** [Insert audio example 1]
+**Concept:** Filter envelope modulation in subtractive synthesis.   
+**Listen:** <audio src="../audio/bright-filtered-lead.wav" controls></audio>
 
 **Your task:**
 
@@ -41,8 +41,8 @@ You’ll use your ear to identify waveforms, filter shapes, envelopes, and modul
 
 ## Round 2 – Modulated Bass (10 minutes)
 
-**Concept:** Using LFOs to create rhythmic movement.
-**Listen:** [Insert audio example 2]
+**Concept:** Using LFOs to create rhythmic movement.   
+**Listen:** <audio src="../audio/lfo-wobble-bass.wav" controls></audio>
 
 **Your task:**
 
@@ -61,8 +61,8 @@ You’ll use your ear to identify waveforms, filter shapes, envelopes, and modul
 
 ## Round 3 – Evolving Pad (10 minutes)
 
-**Concept:** Slow modulation and layering for depth.
-**Listen:** [Insert audio example 3]
+**Concept:** Slow modulation and layering for depth.   
+**Listen:** <audio src="../audio/ambient-pad.wav" controls></audio>
 
 **Your task:**
 
@@ -81,8 +81,8 @@ You’ll use your ear to identify waveforms, filter shapes, envelopes, and modul
 
 ## Bonus Round – Percussive Pluck (5 minutes)
 
-**Concept:** Short envelopes and transient shaping.
-**Listen:** [Insert audio example 4]
+**Concept:** Short envelopes and transient shaping.  
+**Listen:** <audio src="../audio/percussive-pluck.wav" controls></audio>
 
 **Your task:**
 
@@ -105,17 +105,3 @@ After completing the recreations:
 1. Play your patches for classmates.
 2. Discuss which parameters had the biggest impact on accuracy.
 3. Share one strategy that helped you get closer to the target sound.
-
-**Optional:** Save your patches and submit your best recreation along with a short note explaining your synthesis process.
-
----
-
-## Deliverables
-
-* Four Vital patches (or project files) — one per sound.
-* Short written reflection (2–3 sentences each):
-  * What you heard.
-  * What you changed to match it.
-  * What still sounds different.
-
-
