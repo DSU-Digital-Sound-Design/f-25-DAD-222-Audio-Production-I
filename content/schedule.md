@@ -254,7 +254,6 @@ author: ""
 <!-- Instructor prep notes 
 [Vital Listening Instructor Notes](../lectures/week-13/vital-listening-instructor-notes/)
  -->
-<!-- 
 # Week 13 (11/17)
 
 ## Monday (11/17)
@@ -263,6 +262,7 @@ author: ""
 - Start [final project](../projects/final-project) discussions and brainstorming
 - Project proposals due Friday
 
+<!-- 
 ## Wednesday (11/19)
 
 - Group Brainstorming (15 minutes):
