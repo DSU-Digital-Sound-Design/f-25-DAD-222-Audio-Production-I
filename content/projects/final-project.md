@@ -21,8 +21,6 @@ Compose a **3-5-minute audio piece** that embodies your identity as an artist. Y
 
 **Alternative Projects:** If musical composition is not your preference, submit a proposal for an alternative project such as a podcast, sound design piece, or another audio format that showcases your learnings.
 
-**Technique Integration:** While not all techniques must be central to your project, each should be incorporated in some capacity. For instance, studio recordings can be layered with MIDI drums and synthesized sounds to achieve a more authentic feel.
-
 **Rule on Loops:** You may include one or two loops, provided they are significantly altered using effects or other methods to become your own. This same rule holds for other plugins where you use presets, such as Spitfire LABS. 
 
 **Stylistic Freedom:** Feel free to explore any genre, such as techno, vaporware/wave, drill-core, etc. Incorporating a video is also welcome.
