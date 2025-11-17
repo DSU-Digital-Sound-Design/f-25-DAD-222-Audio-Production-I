@@ -260,9 +260,9 @@ author: ""
 
 - Vital Synth Patch sharing - Students share a synth patch they made with the class. 
 - Start [final project](../projects/final-project) discussions and brainstorming
+  - Take a few minutes and write down some ideas for your final project. I'll come around and chat with each of you about your ideas individually.
 - Project proposals due Friday
 
-<!-- 
 ## Wednesday (11/19)
 
 - Group Brainstorming (15 minutes):
@@ -278,6 +278,7 @@ author: ""
 
 > **Project 5: Vital Synth** - Due Friday, 11/21.
 
+<!-- 
 # Week 14 (11/24)
 
 ## Monday (11/24)
