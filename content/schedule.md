@@ -265,11 +265,7 @@ author: ""
 
 ## Wednesday (11/19)
 
-- Group Brainstorming (15 minutes):
-  - Group sharing ideas for final project. 
-- Work Session (35 minutes):
-  - Start drafting proposals during class.
-  - I'll provide feedback and suggestions individually.
+[Connecting Influences to Your Creative Voice](../lectures/week-13/final-project-influences/)
 
 ## Friday (11/21)
 
