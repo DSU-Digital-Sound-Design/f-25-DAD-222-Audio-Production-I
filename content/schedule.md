@@ -274,7 +274,6 @@ author: ""
 
 > **Project 5: Vital Synth** - Due Friday, 11/21.
 
-<!-- 
 # Week 14 (11/24)
 
 ## Monday (11/24)
@@ -285,6 +284,7 @@ author: ""
     - Group B (25 minutes): Independent work on laptops in the classroom (e.g., sound sourcing, arranging).
   - Groups switch halfway through.
 
+<!-- 
 ## Wednesday, Friday (11/26, 11/28)
 
 - No class - Thanksgiving Holiday
