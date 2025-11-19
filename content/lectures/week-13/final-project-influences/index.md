@@ -8,7 +8,7 @@ This work directly supports the proposal that’s due Friday and will help you w
 
 ## What We’re Doing Today
 
-Wednesday is a hands-on workshop day. You’ll spend the class:
+Today is a hands-on workshop day. You’ll spend the class:
 
 1. Finding and researching an artistic influence
 2. Identifying how that influence creates their signature sound
@@ -46,7 +46,8 @@ Take notes on one or two techniques that stand out.
 Now translate that research into your own creative plan. Ask yourself:
 
 * How can I reinterpret this technique in a personal way?
-* What tools from our course could help me achieve something similar?
+* What tools from our course could help me achieve something similar? 
+  * Do I need to search for tools outside the course?
 * How might I adapt their idea so it fits my style and project concept?
 
 Some examples of translation:
