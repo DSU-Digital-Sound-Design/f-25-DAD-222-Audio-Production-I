@@ -284,11 +284,11 @@ author: ""
     - Group B (25 minutes): Independent work on laptops in the classroom (e.g., sound sourcing, arranging).
   - Groups switch halfway through.
 
-<!-- 
 ## Wednesday, Friday (11/26, 11/28)
 
 - No class - Thanksgiving Holiday
 
+<!-- 
 # Week 15 (12/1)
 
 ## Monday (12/1)
