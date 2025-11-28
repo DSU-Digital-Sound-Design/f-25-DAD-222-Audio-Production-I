@@ -288,7 +288,6 @@ author: ""
 
 - No class - Thanksgiving Holiday
 
-<!-- 
 # Week 15 (12/1)
 
 ## Monday (12/1)
@@ -297,6 +296,7 @@ author: ""
   - Each student presents 2-3 minutes of their project (rough mix, composition, or sound design).
   - Talk about where you are in the process and what you want to do next. 
   
+<!-- 
 ## Wednesday (12/3)
 
 - **Guided Work Session**
