@@ -290,24 +290,46 @@ author: ""
 
 # Week 15 (12/1)
 
+
 ## Monday (12/1)
 
-- **Critique Session:**
-  - Each student presents 2-3 minutes of their project (rough mix, composition, or sound design).
-  - Talk about where you are in the process and what you want to do next. 
-  
-<!-- 
+* Independent work day focused on final projects.
+* Instructor available throughout class for one-on-one help.
+
 ## Wednesday (12/3)
 
-- **Guided Work Session**
-  - Group A (25 minutes): Studio work and troubleshooting.
-  - Group B (25 minutes): Independent work in the classroom. 
-- Groups switch halfway through.
+### Critique Session (Part 1)
+
+* Each student will present for 8–10 minutes, sharing a rough mix, composition, or sound design in progress.
+* Presenters should explain their current stage in the process and outline their intended next steps.
+* The class will offer constructive feedback and suggestions.
+
+**Presentation order**
+
+1. Devyn
+2. Justice
+3. Caleb
+4. McKenzie
+5. Millie
+6. Isabella
 
 ## Friday (12/5)
 
-- Meet back in the classroom for a more focused sharing session
-  - Each student shares one thing they're struggling with that they want feedback on.
+### Critique Session (Part 2)
+
+* Continuation of project critiques following the same format as Wednesday.
+
+**Presentation order**
+
+1. Dylan
+2. Alex
+3. Zakry
+4. Donnie
+5. Shea
+6. Lily
+7. Kylian
+8. Colby
+
 
 # Week 16 (12/8)
 
@@ -317,6 +339,7 @@ author: ""
 - Final Q&A session 
 - One-on-one help if needed. 
 
+<!-- 
 ## Wednesday (12/10)
 
 - **Reading/Study Day - No Class**
