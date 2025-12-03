@@ -298,6 +298,8 @@ author: ""
 
 ## Wednesday (12/3)
 
+- Course Evals 
+
 ### Critique Session (Part 1)
 
 * Each student will present for 8–10 minutes, sharing a rough mix, composition, or sound design in progress.
@@ -335,11 +337,9 @@ author: ""
 
 ## Monday (12/8)
 
-- Course Evals 
 - Final Q&A session 
 - One-on-one help if needed. 
 
-<!-- 
 ## Wednesday (12/10)
 
 - **Reading/Study Day - No Class**
@@ -348,4 +348,5 @@ author: ""
 
 - **Final Exam Presentation:** Friday, December 12, 8:00 AM - 10:00 AM
 
+<!-- 
  -->
